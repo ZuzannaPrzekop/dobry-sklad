@@ -36,7 +36,7 @@
         {
           "nazwa": "Regionalne Polskie Szlaki Zimne nóżki wieprzowe",
           "zdjecie_przod": "Regionalne Polskie Szlaki_Zimne nóżki wieprzowe_przód.JPG",
-          "sklad": "?",
+          "sklad": "50% mięso wieprzowe gotowane, woda, 11% warzywa (marchew, groszek zielony), żelatyna wieprzowa, sól, przyprawy",
           "wartosci_odzywcze": {
             "E_kcal": "163",
             "B": "13,8",
@@ -168,14 +168,14 @@
           "zdjecie_przod": "Stovit_Dżem truskawkowy_przód.JPG",
           "sklad": "truskawki 50%, woda, ksylitol 27%, pektyna, kwas cytrynowy",
           "wartosci_odzywcze": {
-            "E_kcal": "?",
-            "B": "?",
-            "T": "?",
-            "N": "?",
-            "W": "?",
-            "C": "?",
-            "Bl": "?",
-            "S": "?"
+            "E_kcal": "90",
+            "B": "0,6",
+            "T": "<0,5",
+            "N": "0",
+            "W": "29",
+            "C": "2,6",
+            "Bl": "—",
+            "S": "0,03"
           }
         },
         {
@@ -188,8 +188,8 @@
             "T": "0",
             "N": "0",
             "W": "2,0",
-            "C": "?",
-            "Bl": "?",
+            "C": "4,5",
+            "Bl": "2,2",
             "S": "0,80"
           }
         }
