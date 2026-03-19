@@ -38,14 +38,14 @@
           "zdjecie_przod": "Regionalne Polskie Szlaki_Zimne nóżki wieprzowe_przód.JPG",
           "sklad": "?",
           "wartosci_odzywcze": {
-            "E_kcal": "?",
-            "B": "?",
-            "T": "?",
-            "N": "?",
-            "W": "?",
-            "C": "?",
-            "Bl": "?",
-            "S": "?"
+            "E_kcal": "163",
+            "B": "13,8",
+            "T": "11,2",
+            "N": "4,5",
+            "W": "1,5",
+            "C": "1,5",
+            "Bl": "0,6",
+            "S": "0,95"
           }
         }
       ]
@@ -73,14 +73,14 @@
           "zdjecie_przod": "Serek_śmietankowy_bez laktozy_Almette_przód.JPG",
           "sklad": "ser twarogowy bez laktozy, śmietanka pasteryzowana bez laktozy, białka mleka, sól",
           "wartosci_odzywcze": {
-            "E_kcal": "?",
-            "B": "?",
-            "T": "?",
-            "N": "?",
-            "W": "?",
-            "C": "?",
+            "E_kcal": "260",
+            "B": "6,3",
+            "T": "25",
+            "N": "17",
+            "W": "2,4",
+            "C": "2,3",
             "Bl": "—",
-            "S": "?"
+            "S": "0,78"
           }
         },
         {
@@ -153,14 +153,14 @@
           "zdjecie_przod": "Regionalne Polskie Szlaki_Mus owocowy_przód.JPG",
           "sklad": "?",
           "wartosci_odzywcze": {
-            "E_kcal": "?",
-            "B": "?",
-            "T": "?",
-            "N": "?",
-            "W": "?",
-            "C": "?",
-            "Bl": "?",
-            "S": "?"
+            "E_kcal": "48",
+            "B": "<0,5",
+            "T": "0",
+            "N": "0",
+            "W": "11,0",
+            "C": "9,3",
+            "Bl": "0,9",
+            "S": "0"
           }
         },
         {
