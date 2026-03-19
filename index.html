@@ -31,7 +31,7 @@
     .app-header {
       background: var(--surface);
       border-bottom: 1px solid var(--sage-soft);
-      padding: 20px 32px 14px;
+      padding: 14px 16px 10px;
       position: sticky;
       top: 0;
       z-index: 100;
@@ -41,14 +41,14 @@
     .header-top {
       display: flex;
       align-items: baseline;
-      gap: 14px;
-      margin-bottom: 14px;
+      gap: 10px;
+      margin-bottom: 10px;
     }
 
     .app-title {
       font-family: 'Sora', sans-serif;
       font-weight: 700;
-      font-size: 20px;
+      font-size: 18px;
       letter-spacing: -0.3px;
       color: var(--ink);
     }
@@ -56,13 +56,13 @@
     .app-subtitle {
       font-family: 'Crimson Pro', serif;
       font-style: italic;
-      font-size: 15px;
+      font-size: 14px;
       color: #aaa;
     }
 
     .search-wrap {
       position: relative;
-      margin-bottom: 12px;
+      margin-bottom: 10px;
     }
 
     .search-icon {
@@ -77,11 +77,11 @@
 
     .search-bar {
       width: 100%;
-      padding: 10px 16px 10px 38px;
+      padding: 11px 16px 11px 38px;
       border: 1.5px solid var(--sage-soft);
       border-radius: 99px;
       font-family: 'Inter', sans-serif;
-      font-size: 13.5px;
+      font-size: 16px; /* 16px zapobiega zoomowi na iOS */
       background: var(--bg);
       color: var(--ink);
       outline: none;
@@ -98,29 +98,29 @@
       font-weight: 600;
       letter-spacing: 0.6px;
       text-transform: uppercase;
-      padding: 5px 14px;
+      padding: 7px 14px;
+      min-height: 36px;
       border-radius: 99px;
       border: 1.5px solid var(--sage-soft);
       background: transparent;
       color: var(--ink);
       cursor: pointer;
       transition: all 0.15s;
+      -webkit-tap-highlight-color: transparent;
     }
     .filter-btn:hover  { background: var(--sage-soft); }
     .filter-btn.active { background: var(--sage); border-color: var(--sage); }
 
     /* ── MAIN ───────────────────────────────────────────────── */
     .app-main {
-      padding: 20px 32px 56px;
-      max-width: 1140px;
-      margin: 0 auto;
+      padding: 14px 16px 80px;
     }
 
     .top-bar {
       display: flex;
       align-items: center;
       justify-content: space-between;
-      margin-bottom: 16px;
+      margin-bottom: 14px;
     }
 
     .results-count {
@@ -145,18 +145,18 @@
       background: var(--surface);
       border: 1px solid var(--sage-soft);
       border-radius: 10px;
-      padding: 14px 18px;
-      margin-bottom: 20px;
+      padding: 12px 14px;
+      margin-bottom: 16px;
       display: none;
       flex-wrap: wrap;
-      gap: 6px 22px;
+      gap: 6px 18px;
     }
     .legenda-box.open { display: flex; }
     .legenda-box span { font-size: 11.5px; color: #666; }
     .legenda-box b    { color: var(--navy); font-family: 'Sora', sans-serif; }
 
     /* ── KATEGORIA ───────────────────────────────────────────── */
-    .kat-section  { margin-bottom: 28px; }
+    .kat-section  { margin-bottom: 24px; }
 
     .kat-label {
       font-family: 'Sora', sans-serif;
@@ -167,13 +167,13 @@
       color: var(--navy);
       border-bottom: 2px solid var(--sage);
       padding-bottom: 6px;
-      margin-bottom: 14px;
+      margin-bottom: 12px;
     }
 
     /* ── GRID ────────────────────────────────────────────────── */
     .produkty-grid {
       display: grid;
-      grid-template-columns: repeat(auto-fill, minmax(430px, 1fr));
+      grid-template-columns: 1fr;
       gap: 10px;
     }
 
@@ -183,8 +183,9 @@
       border-radius: 10px;
       border: 1px solid #ede9e3;
       display: flex;
-      gap: 14px;
-      padding: 14px;
+      flex-direction: column;
+      gap: 0;
+      overflow: hidden;
       transition: box-shadow 0.2s, border-color 0.2s;
     }
     .produkt-card:hover {
@@ -193,23 +194,26 @@
     }
 
     .card-photo {
-      flex: 0 0 105px;
+      width: 100%;
+      background: var(--bg);
       display: flex;
       align-items: center;
       justify-content: center;
+      padding: 16px;
+      border-bottom: 1px solid #f0ece6;
     }
 
     .card-img {
-      width: 105px;
-      height: 135px;
+      max-width: 120px;
+      max-height: 140px;
+      width: auto;
+      height: auto;
       object-fit: contain;
     }
 
     .no-img {
-      width: 105px;
-      height: 135px;
-      background: var(--bg);
-      border-radius: 8px;
+      width: 100%;
+      height: 100px;
       display: flex;
       align-items: center;
       justify-content: center;
@@ -218,16 +222,15 @@
     }
 
     .card-body {
-      flex: 1;
+      padding: 12px 14px 14px;
       display: flex;
       flex-direction: column;
-      gap: 9px;
-      min-width: 0;
+      gap: 10px;
     }
 
     .card-nazwa {
       font-family: 'Sora', sans-serif;
-      font-size: 13.5px;
+      font-size: 14px;
       font-weight: 700;
       color: var(--ink);
       line-height: 1.3;
@@ -245,21 +248,29 @@
     }
 
     .card-sklad {
-      font-size: 11.5px;
+      font-size: 12px;
       line-height: 1.65;
       color: #555;
     }
 
     /* ── TABELA ODŻYWCZA ─────────────────────────────────────── */
+    .nut-wrap {
+      overflow-x: auto;
+      -webkit-overflow-scrolling: touch;
+      margin-top: 4px;
+      border-radius: 6px;
+    }
+
     .nut-table {
       border-collapse: collapse;
       font-size: 11px;
+      min-width: 100%;
     }
 
     .nut-table th {
       background: var(--navy);
       color: #fff;
-      padding: 4px 9px;
+      padding: 5px 10px;
       text-align: center;
       font-family: 'Sora', sans-serif;
       font-size: 10px;
@@ -270,7 +281,7 @@
     .nut-table td {
       background: var(--bg);
       border: 1px solid var(--sage-soft);
-      padding: 4px 9px;
+      padding: 5px 10px;
       text-align: center;
       color: var(--ink);
       white-space: nowrap;
@@ -316,12 +327,43 @@
       color: var(--ink);
     }
 
-    /* ── RESPONSIVE ──────────────────────────────────────────── */
-    @media (max-width: 640px) {
-      .app-header  { padding: 14px 16px 12px; }
-      .app-main    { padding: 16px 16px 48px; }
-      .header-top  { flex-direction: column; gap: 2px; }
-      .produkty-grid { grid-template-columns: 1fr; }
+    /* ── DESKTOP ─────────────────────────────────────────────── */
+    @media (min-width: 640px) {
+      .app-header { padding: 20px 32px 14px; }
+      .app-title  { font-size: 20px; }
+      .search-bar { font-size: 13.5px; }
+
+      .app-main {
+        padding: 20px 32px 56px;
+        max-width: 1140px;
+        margin: 0 auto;
+      }
+
+      .produkty-grid {
+        grid-template-columns: repeat(auto-fill, minmax(420px, 1fr));
+      }
+
+      .produkt-card {
+        flex-direction: row;
+        align-items: stretch;
+      }
+
+      .card-photo {
+        width: auto;
+        flex: 0 0 110px;
+        border-bottom: none;
+        border-right: 1px solid #f0ece6;
+        padding: 14px;
+      }
+
+      .card-img {
+        max-width: 110px;
+        max-height: 140px;
+      }
+
+      .card-body {
+        padding: 14px;
+      }
     }
   </style>
 </head>
@@ -440,10 +482,10 @@
       const text    = special ? val : `${val}\u00a0${c.unit}`;
       return `<td${cls}>${text}</td>`;
     }).join('');
-    return `<table class="nut-table">
+    return `<div class="nut-wrap"><table class="nut-table">
       <thead><tr>${heads}</tr></thead>
       <tbody><tr>${cells}</tr></tbody>
-    </table>`;
+    </table></div>`;
   }
 
   // ── Karta produktu ───────────────────────────────────────────
