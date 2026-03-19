@@ -1,0 +1,79 @@
+{
+  "legenda": {
+    "E": "Energia (kcal)",
+    "B": "Białko",
+    "T": "Tłuszcz",
+    "N": "Kwasy tłuszczowe nasycone",
+    "W": "Węglowodany",
+    "C": "Cukry",
+    "Bl": "Błonnik",
+    "S": "Sól"
+  },
+  "kategorie": [
+    {
+      "nazwa": "Nabiał",
+      "produkty": [
+        {
+          "nazwa": "Almette serek śmietankowy",
+          "zdjecie_przod": "Serek_śmietankowy_Almette_przód.JPG",
+          "sklad": "ser twarogowy, śmietanka pasteryzowana, białka mleka, sól",
+          "wartosci_odzywcze": {
+            "E_kcal": "256",
+            "B": "6,7",
+            "T": "24",
+            "N": "17",
+            "W": "3,2",
+            "C": "3,2",
+            "Bl": "—",
+            "S": "0,61"
+          }
+        },
+        {
+          "nazwa": "Piątnica serek wiejski naturalny",
+          "zdjecie_przod": "Piątnica_serek_wiejski_przód.JPG",
+          "sklad": "twaróg ziarnisty, śmietanka pasteryzowana, sól",
+          "wartosci_odzywcze": {
+            "E_kcal": "97",
+            "B": "11",
+            "T": "5,0",
+            "N": "3,5",
+            "W": "2,0",
+            "C": "1,5",
+            "Bl": "—",
+            "S": "0,70"
+          }
+        },
+        {
+          "nazwa": "Pilos serek wiejski High Protein",
+          "zdjecie_przod": "Pilos_serek_wiejski_przód.JPG",
+          "sklad": "twaróg wiejski wysokobiałkowy, śmietana pasteryzowana, sól",
+          "wartosci_odzywcze": {
+            "E_kcal": "92",
+            "B": "14,0",
+            "T": "3,0",
+            "N": "2,0",
+            "W": "2,2",
+            "C": "2,2",
+            "Bl": "0",
+            "S": "0,70"
+          }
+        },
+        {
+          "nazwa": "Ryki ser żółty Active Plus",
+          "zdjecie_przod": "Ryki_ser_żółty_przód.JPG",
+          "sklad": "mleko, białka serwatkowe (z mleka), sól, kultury bakterii",
+          "wartosci_odzywcze": {
+            "E_kcal": "198",
+            "B": "31",
+            "T": "8,2",
+            "N": "5,9",
+            "W": "0",
+            "C": "0",
+            "Bl": "—",
+            "S": "1,2"
+          }
+        }
+      ]
+    }
+  ]
+}

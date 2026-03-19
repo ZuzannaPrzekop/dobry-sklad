@@ -1,0 +1,12 @@
+{
+  "name": "dobry-sklad",
+  "version": "1.0.0",
+  "private": true,
+  "scripts": {
+    "compress": "node compress.js",
+    "preview": "npx serve ."
+  },
+  "devDependencies": {
+    "sharp": "^0.33.5"
+  }
+}

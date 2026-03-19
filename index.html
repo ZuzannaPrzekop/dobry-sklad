@@ -1,0 +1,516 @@
+<!DOCTYPE html>
+<html lang="pl">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Dobry Skład — Zuzanna Przekop</title>
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link href="https://fonts.googleapis.com/css2?family=Sora:wght@400;600;700&family=Inter:ital,wght@0,300;0,400;0,600;1,400&family=Crimson+Pro:ital,wght@0,400;1,400&display=swap" rel="stylesheet">
+  <style>
+    :root {
+      --ink:       #1F2937;
+      --bg:        #FFFBF5;
+      --surface:   #FFFFFF;
+      --navy:      #0B2162;
+      --sage:      #8BC9A2;
+      --sage-soft: #D6E7E1;
+      --lime:      #CBEA4F;
+      --warning:   #F59E0B;
+    }
+
+    *, *::before, *::after { box-sizing: border-box; margin: 0; padding: 0; }
+
+    body {
+      font-family: 'Inter', system-ui, sans-serif;
+      background: var(--bg);
+      color: var(--ink);
+      min-height: 100vh;
+    }
+
+    /* ── HEADER ─────────────────────────────────────────────── */
+    .app-header {
+      background: var(--surface);
+      border-bottom: 1px solid var(--sage-soft);
+      padding: 20px 32px 14px;
+      position: sticky;
+      top: 0;
+      z-index: 100;
+      box-shadow: 0 2px 12px rgba(0,0,0,0.04);
+    }
+
+    .header-top {
+      display: flex;
+      align-items: baseline;
+      gap: 14px;
+      margin-bottom: 14px;
+    }
+
+    .app-title {
+      font-family: 'Sora', sans-serif;
+      font-weight: 700;
+      font-size: 20px;
+      letter-spacing: -0.3px;
+      color: var(--ink);
+    }
+
+    .app-subtitle {
+      font-family: 'Crimson Pro', serif;
+      font-style: italic;
+      font-size: 15px;
+      color: #aaa;
+    }
+
+    .search-wrap {
+      position: relative;
+      margin-bottom: 12px;
+    }
+
+    .search-icon {
+      position: absolute;
+      left: 14px;
+      top: 50%;
+      transform: translateY(-50%);
+      color: #bbb;
+      pointer-events: none;
+      font-size: 14px;
+    }
+
+    .search-bar {
+      width: 100%;
+      padding: 10px 16px 10px 38px;
+      border: 1.5px solid var(--sage-soft);
+      border-radius: 99px;
+      font-family: 'Inter', sans-serif;
+      font-size: 13.5px;
+      background: var(--bg);
+      color: var(--ink);
+      outline: none;
+      transition: border-color 0.2s;
+    }
+    .search-bar:focus { border-color: var(--sage); background: #fff; }
+    .search-bar::placeholder { color: #ccc; }
+
+    .filters { display: flex; flex-wrap: wrap; gap: 6px; }
+
+    .filter-btn {
+      font-family: 'Sora', sans-serif;
+      font-size: 10.5px;
+      font-weight: 600;
+      letter-spacing: 0.6px;
+      text-transform: uppercase;
+      padding: 5px 14px;
+      border-radius: 99px;
+      border: 1.5px solid var(--sage-soft);
+      background: transparent;
+      color: var(--ink);
+      cursor: pointer;
+      transition: all 0.15s;
+    }
+    .filter-btn:hover  { background: var(--sage-soft); }
+    .filter-btn.active { background: var(--sage); border-color: var(--sage); }
+
+    /* ── MAIN ───────────────────────────────────────────────── */
+    .app-main {
+      padding: 20px 32px 56px;
+      max-width: 1140px;
+      margin: 0 auto;
+    }
+
+    .top-bar {
+      display: flex;
+      align-items: center;
+      justify-content: space-between;
+      margin-bottom: 16px;
+    }
+
+    .results-count {
+      font-size: 11.5px;
+      color: #aaa;
+    }
+
+    .legenda-toggle {
+      background: none;
+      border: none;
+      font-family: 'Inter', sans-serif;
+      font-size: 11px;
+      color: var(--sage);
+      cursor: pointer;
+      text-decoration: underline;
+      text-underline-offset: 2px;
+      padding: 0;
+    }
+
+    /* ── LEGENDA ─────────────────────────────────────────────── */
+    .legenda-box {
+      background: var(--surface);
+      border: 1px solid var(--sage-soft);
+      border-radius: 10px;
+      padding: 14px 18px;
+      margin-bottom: 20px;
+      display: none;
+      flex-wrap: wrap;
+      gap: 6px 22px;
+    }
+    .legenda-box.open { display: flex; }
+    .legenda-box span { font-size: 11.5px; color: #666; }
+    .legenda-box b    { color: var(--navy); font-family: 'Sora', sans-serif; }
+
+    /* ── KATEGORIA ───────────────────────────────────────────── */
+    .kat-section  { margin-bottom: 28px; }
+
+    .kat-label {
+      font-family: 'Sora', sans-serif;
+      font-size: 10px;
+      font-weight: 700;
+      letter-spacing: 2.5px;
+      text-transform: uppercase;
+      color: var(--navy);
+      border-bottom: 2px solid var(--sage);
+      padding-bottom: 6px;
+      margin-bottom: 14px;
+    }
+
+    /* ── GRID ────────────────────────────────────────────────── */
+    .produkty-grid {
+      display: grid;
+      grid-template-columns: repeat(auto-fill, minmax(430px, 1fr));
+      gap: 10px;
+    }
+
+    /* ── KARTA ───────────────────────────────────────────────── */
+    .produkt-card {
+      background: var(--surface);
+      border-radius: 10px;
+      border: 1px solid #ede9e3;
+      display: flex;
+      gap: 14px;
+      padding: 14px;
+      transition: box-shadow 0.2s, border-color 0.2s;
+    }
+    .produkt-card:hover {
+      box-shadow: 0 4px 20px rgba(139,201,162,0.15);
+      border-color: var(--sage-soft);
+    }
+
+    .card-photo {
+      flex: 0 0 105px;
+      display: flex;
+      align-items: center;
+      justify-content: center;
+    }
+
+    .card-img {
+      width: 105px;
+      height: 135px;
+      object-fit: contain;
+    }
+
+    .no-img {
+      width: 105px;
+      height: 135px;
+      background: var(--bg);
+      border-radius: 8px;
+      display: flex;
+      align-items: center;
+      justify-content: center;
+      color: #ddd;
+      font-size: 11px;
+    }
+
+    .card-body {
+      flex: 1;
+      display: flex;
+      flex-direction: column;
+      gap: 9px;
+      min-width: 0;
+    }
+
+    .card-nazwa {
+      font-family: 'Sora', sans-serif;
+      font-size: 13.5px;
+      font-weight: 700;
+      color: var(--ink);
+      line-height: 1.3;
+    }
+
+    .card-etykieta {
+      display: block;
+      font-size: 9px;
+      font-weight: 700;
+      text-transform: uppercase;
+      letter-spacing: 1px;
+      color: var(--sage);
+      margin-bottom: 3px;
+      font-family: 'Sora', sans-serif;
+    }
+
+    .card-sklad {
+      font-size: 11.5px;
+      line-height: 1.65;
+      color: #555;
+    }
+
+    /* ── TABELA ODŻYWCZA ─────────────────────────────────────── */
+    .nut-table {
+      border-collapse: collapse;
+      font-size: 11px;
+    }
+
+    .nut-table th {
+      background: var(--navy);
+      color: #fff;
+      padding: 4px 9px;
+      text-align: center;
+      font-family: 'Sora', sans-serif;
+      font-size: 10px;
+      font-weight: 700;
+      white-space: nowrap;
+    }
+
+    .nut-table td {
+      background: var(--bg);
+      border: 1px solid var(--sage-soft);
+      padding: 4px 9px;
+      text-align: center;
+      color: var(--ink);
+      white-space: nowrap;
+    }
+
+    .nut-table td.check {
+      background: #fff8e1;
+      color: #7a5c00;
+      font-style: italic;
+    }
+
+    /* ── STANY ───────────────────────────────────────────────── */
+    .empty-state {
+      text-align: center;
+      padding: 72px 32px;
+      color: #ccc;
+      font-family: 'Crimson Pro', serif;
+      font-style: italic;
+      font-size: 20px;
+    }
+
+    .loading-state {
+      text-align: center;
+      padding: 72px 32px;
+      color: #aaa;
+      font-family: 'Crimson Pro', serif;
+      font-style: italic;
+      font-size: 18px;
+    }
+
+    .error-state {
+      text-align: center;
+      padding: 48px 32px;
+      color: var(--warning);
+      font-size: 14px;
+      line-height: 1.7;
+    }
+    .error-state code {
+      background: #f5f5f5;
+      padding: 2px 8px;
+      border-radius: 4px;
+      font-size: 13px;
+      color: var(--ink);
+    }
+
+    /* ── RESPONSIVE ──────────────────────────────────────────── */
+    @media (max-width: 640px) {
+      .app-header  { padding: 14px 16px 12px; }
+      .app-main    { padding: 16px 16px 48px; }
+      .header-top  { flex-direction: column; gap: 2px; }
+      .produkty-grid { grid-template-columns: 1fr; }
+    }
+  </style>
+</head>
+<body>
+
+<header class="app-header">
+  <div class="header-top">
+    <span class="app-title">Dobry Skład</span>
+    <span class="app-subtitle">Zuzanna Przekop</span>
+  </div>
+  <div class="search-wrap">
+    <span class="search-icon">&#128269;</span>
+    <input type="search" class="search-bar" id="search" placeholder="Szukaj produktu lub składnika…">
+  </div>
+  <div class="filters" id="filters"></div>
+</header>
+
+<main class="app-main">
+  <div class="top-bar">
+    <span class="results-count" id="count"></span>
+    <button class="legenda-toggle" id="legenda-btn" onclick="toggleLegenda()">pokaż legendę skrótów</button>
+  </div>
+  <div class="legenda-box" id="legenda"></div>
+  <div id="app"><div class="loading-state">Ładowanie…</div></div>
+</main>
+
+<script>
+  const COLS = [
+    { key: 'E_kcal', label: 'E',  unit: 'kcal' },
+    { key: 'B',      label: 'B',  unit: 'g' },
+    { key: 'T',      label: 'T',  unit: 'g' },
+    { key: 'N',      label: 'N',  unit: 'g' },
+    { key: 'W',      label: 'W',  unit: 'g' },
+    { key: 'C',      label: 'C',  unit: 'g' },
+    { key: 'Bl',     label: 'Bł', unit: 'g' },
+    { key: 'S',      label: 'S',  unit: 'g' },
+  ];
+
+  let DATA            = null;
+  let activeCategory  = 'Wszystkie';
+  let searchQuery     = '';
+
+  // ── Fetch danych ────────────────────────────────────────────
+  async function init() {
+    try {
+      const res = await fetch('./produkty.json');
+      if (!res.ok) throw new Error(`HTTP ${res.status}`);
+      DATA = await res.json();
+      setupApp();
+    } catch (e) {
+      document.getElementById('app').innerHTML = `
+        <div class="error-state">
+          <p>Nie można załadować danych produktów.</p>
+          <p style="margin-top:12px;font-size:12px;color:#999;">
+            Aby otworzyć lokalnie, uruchom w terminalu:<br>
+            <code>npx serve .</code><br>
+            i otwórz <strong>localhost:3000</strong> w przeglądarce.
+          </p>
+        </div>`;
+    }
+  }
+
+  // ── Setup ────────────────────────────────────────────────────
+  function setupApp() {
+    buildLegenda();
+    buildFilters();
+    document.getElementById('search').addEventListener('input', e => {
+      searchQuery = e.target.value.toLowerCase().trim();
+      render();
+    });
+    render();
+  }
+
+  // ── Legenda ──────────────────────────────────────────────────
+  function buildLegenda() {
+    const box = document.getElementById('legenda');
+    Object.entries(DATA.legenda).forEach(([k, v]) => {
+      const s = document.createElement('span');
+      s.innerHTML = `<b>${k === 'Bl' ? 'Bł' : k}</b> — ${v}`;
+      box.appendChild(s);
+    });
+  }
+
+  function toggleLegenda() {
+    const box = document.getElementById('legenda');
+    box.classList.toggle('open');
+    document.getElementById('legenda-btn').textContent =
+      box.classList.contains('open') ? 'ukryj legendę' : 'pokaż legendę skrótów';
+  }
+
+  // ── Filtry kategorii ─────────────────────────────────────────
+  function buildFilters() {
+    const el = document.getElementById('filters');
+    const kategorie = ['Wszystkie', ...DATA.kategorie.map(k => k.nazwa)];
+    kategorie.forEach(kat => {
+      const btn = document.createElement('button');
+      btn.className = 'filter-btn' + (kat === activeCategory ? ' active' : '');
+      btn.textContent = kat;
+      btn.addEventListener('click', () => {
+        activeCategory = kat;
+        el.querySelectorAll('.filter-btn').forEach(b => b.classList.remove('active'));
+        btn.classList.add('active');
+        render();
+      });
+      el.appendChild(btn);
+    });
+  }
+
+  // ── Tabela odżywcza ──────────────────────────────────────────
+  function buildTable(w) {
+    const heads = COLS.map(c => `<th>${c.label}</th>`).join('');
+    const cells = COLS.map(c => {
+      const val     = w[c.key] ?? '—';
+      const special = val === '?' || val === '—';
+      const cls     = val === '?' ? ' class="check"' : '';
+      const text    = special ? val : `${val}\u00a0${c.unit}`;
+      return `<td${cls}>${text}</td>`;
+    }).join('');
+    return `<table class="nut-table">
+      <thead><tr>${heads}</tr></thead>
+      <tbody><tr>${cells}</tr></tbody>
+    </table>`;
+  }
+
+  // ── Karta produktu ───────────────────────────────────────────
+  function buildCard(p) {
+    const imgSrc = p.zdjecie_przod
+      ? `./zdjecia-web/${encodeURIComponent(p.zdjecie_przod)}`
+      : null;
+    const imgTag = imgSrc
+      ? `<img src="${imgSrc}" alt="${p.nazwa}" class="card-img" loading="lazy">`
+      : `<div class="no-img">brak zdjęcia</div>`;
+
+    return `<div class="produkt-card">
+      <div class="card-photo">${imgTag}</div>
+      <div class="card-body">
+        <div class="card-nazwa">${p.nazwa}</div>
+        <div>
+          <span class="card-etykieta">Skład</span>
+          <div class="card-sklad">${p.sklad}</div>
+        </div>
+        <div>
+          <span class="card-etykieta">Wartości odżywcze (100\u00a0g)</span>
+          ${buildTable(p.wartosci_odzywcze)}
+        </div>
+      </div>
+    </div>`;
+  }
+
+  // ── Render ────────────────────────────────────────────────────
+  function render() {
+    // Flat lista posortowana alfabetycznie
+    const wszystkie = DATA.kategorie.flatMap(kat =>
+      kat.produkty.map(p => ({ ...p, kategoria: kat.nazwa }))
+    ).sort((a, b) => a.nazwa.localeCompare(b.nazwa, 'pl'));
+
+    const filtered = wszystkie.filter(p => {
+      const katOk   = activeCategory === 'Wszystkie' || p.kategoria === activeCategory;
+      const tekst   = `${p.nazwa} ${p.sklad}`.toLowerCase();
+      const szukOk  = !searchQuery || tekst.includes(searchQuery);
+      return katOk && szukOk;
+    });
+
+    const n     = filtered.length;
+    const slowo = n === 1 ? 'produkt' : n < 5 ? 'produkty' : 'produktów';
+    document.getElementById('count').textContent = `${n}\u00a0${slowo}`;
+
+    const app = document.getElementById('app');
+
+    if (!filtered.length) {
+      app.innerHTML = '<div class="empty-state">Brak wyników dla podanej frazy…</div>';
+      return;
+    }
+
+    // Grupuj po kategorii
+    const grupy = Object.fromEntries(DATA.kategorie.map(k => [k.nazwa, []]));
+    filtered.forEach(p => grupy[p.kategoria].push(p));
+
+    app.innerHTML = Object.entries(grupy)
+      .filter(([, prods]) => prods.length)
+      .map(([kat, prods]) => `
+        <div class="kat-section">
+          <div class="kat-label">${kat}</div>
+          <div class="produkty-grid">${prods.map(buildCard).join('')}</div>
+        </div>`)
+      .join('');
+  }
+
+  init();
+</script>
+</body>
+</html>
