@@ -116,7 +116,7 @@
         {
           "nazwa": "Pilos serek wiejski High Protein",
           "zdjecie_przod": "Pilos_serek_wiejski_przód.JPG",
-          "sklad": "twaróg wiejski wysokobiałkowy, śmietana pasteryzowana, sół",
+          "sklad": "twaróg wiejski wysokobiałkowy, śmietana pasteryzowana, sól",
           "wartosci_odzywcze": {
             "E_kcal": "92",
             "B": "14,0",
@@ -141,6 +141,456 @@
             "C": "0",
             "Bl": "—",
             "S": "1,2"
+          }
+        },
+        {
+          "nazwa": "Auchan Mozzarella Light",
+          "zdjecie_przod": "Auchan_Mozzarella Light_przód.JPG",
+          "sklad": "mleko pasteryzowane (pochodzenie UE), sól, regulator kwasowości: kwas cytrynowy",
+          "wartosci_odzywcze": {
+            "E_kcal": "180",
+            "B": "22",
+            "T": "10",
+            "N": "6,9",
+            "W": "0,5",
+            "C": "0,5",
+            "Bl": "—",
+            "S": "0,6"
+          }
+        },
+        {
+          "nazwa": "Auchan Jogurt naturalny gęsty",
+          "zdjecie_przod": "Auchan_jogurt_naturalny_gęsty_przód.JPG",
+          "sklad": "śmietanka, kultury bakterii fermentacji mlekowej",
+          "wartosci_odzywcze": {
+            "E_kcal": "116",
+            "B": "2,8",
+            "T": "10",
+            "N": "6,0",
+            "W": "3,2",
+            "C": "3,2",
+            "Bl": "—",
+            "S": "0,1"
+          }
+        },
+        {
+          "nazwa": "Twaróg półtłusty",
+          "zdjecie_przod": "Twaróg półtłusty_przód.JPG",
+          "sklad": "mleko pasteryzowane, kultury bakterii fermentacji kwasu mlekowego",
+          "wartosci_odzywcze": {
+            "E_kcal": "130",
+            "B": "19",
+            "T": "4,0",
+            "N": "2,8",
+            "W": "4,2",
+            "C": "3,1",
+            "Bl": "—",
+            "S": "0,1"
+          }
+        },
+        {
+          "nazwa": "Smoothie jogurtowe jabłko-mango",
+          "zdjecie_przod": "Smoothie jogurtowe jabłko-mango_przód.JPG",
+          "sklad": "przecier jabłkowy 50%, przecier z mango 20%, jogurt naturalny 30% (mleko pasteryzowane, żywe kultury bakterii)",
+          "wartosci_odzywcze": {
+            "E_kcal": "78",
+            "B": "1,4",
+            "T": "1,5",
+            "N": "0,8",
+            "W": "15",
+            "C": "12",
+            "Bl": "0,6",
+            "S": "0,02"
+          }
+        }
+      ]
+    },
+    {
+      "nazwa": "Pieczywo",
+      "produkty": [
+        {
+          "nazwa": "Tesori Pinsa",
+          "zdjecie_przod": "Tesori_Pinsa_przód.JPG",
+          "sklad": "47% (mąka pszenna typ 0, woda, drożdże), mąka pszenna pełnoziarnista 30%, woda, oliwa z oliwek z pierwszego tłoczenia 3,6%, sól, mąka ryżowa, drożdże piwowarskie, substancje konserwujące: priopionian wapnia, sorbinian potasu; mąka pszenna słodowa, aromat",
+          "wartosci_odzywcze": {
+            "E_kcal": "252",
+            "B": "8,2",
+            "T": "4",
+            "N": "0,7",
+            "W": "44",
+            "C": "2,0",
+            "Bl": "4,0",
+            "S": "1,4"
+          }
+        },
+        {
+          "nazwa": "Oskroba bułka Hot-dog",
+          "zdjecie_przod": "",
+          "sklad": "mąka pszenna 59,1%, zakwas pszenny 16,3% (mąka pszenna, woda), woda, olej rzepakowy, cukier, drożdże, sól",
+          "wartosci_odzywcze": {
+            "E_kcal": "316",
+            "B": "7,7",
+            "T": "8,3",
+            "N": "0,7",
+            "W": "51,0",
+            "C": "7,8",
+            "Bl": "2,3",
+            "S": "1,1"
+          }
+        },
+        {
+          "nazwa": "Orva La Pinsa",
+          "zdjecie_przod": "",
+          "sklad": "miękka mąka pszenna (47%), woda, semolina z pszenicy durum (5,2%), zakwas (4,2%) (woda, miękka mąka pszenna), oliwa z oliwek najwyższej jakości z pierwszego tłoczenia (3,5%), sól, drożdże piwowarskie, mąka słodowa jęczmienna",
+          "wartosci_odzywcze": {
+            "E_kcal": "263",
+            "B": "9,4",
+            "T": "4,8",
+            "N": "0,9",
+            "W": "44",
+            "C": "3,1",
+            "Bl": "3,3",
+            "S": "1,8"
+          }
+        },
+        {
+          "nazwa": "Kraina chleba Tost graham",
+          "zdjecie_przod": "",
+          "sklad": "mąka pszenna graham 43%, woda, mąka pszenna 19%, gluten pszenny, olej rzepakowy, drożdże, sól, fermentowana mąka pszenna, ocet spirytusowy, cukier",
+          "wartosci_odzywcze": {
+            "E_kcal": "269",
+            "B": "9,8",
+            "T": "3,9",
+            "N": "0,5",
+            "W": "46",
+            "C": "1,1",
+            "Bl": "5,2",
+            "S": "1,2"
+          }
+        },
+        {
+          "nazwa": "Oskroba Tost wysokobiałkowy",
+          "zdjecie_przod": "",
+          "sklad": "mąka pszenna 44,5%, woda, łamane prażone ziarno soi 10,4%, gluten pszenny, zakwas pszenny 4,5% (mąka pszenna, woda), drożdże, zarodki pszenne 2,7%, białko serwatkowe (z mleka) 2,1%, izolat białka sojowego 1,4%, sól, ocet spirytusowy",
+          "wartosci_odzywcze": {
+            "E_kcal": "248",
+            "B": "16",
+            "T": "3,7",
+            "N": "0,7",
+            "W": "35,4",
+            "C": "1,2",
+            "Bl": "4,3",
+            "S": "1,23"
+          }
+        },
+        {
+          "nazwa": "Auchan Tost 3 ziarna",
+          "zdjecie_przod": "",
+          "sklad": "mąka pszenna 50,4%, woda, żyto krojone 8,3%, siemię lniane 5,2%, zakwas pszenny 5% (mąka pszenna, woda), drożdże, nasiona sezamu 1,9%, sól, gluten (z pszenicy), olej rzepakowy, ocet spirytusowy, cukier",
+          "wartosci_odzywcze": {
+            "E_kcal": "271",
+            "B": "9,9",
+            "T": "4,5",
+            "N": "0,4",
+            "W": "46",
+            "C": "2,5",
+            "Bl": "3,3",
+            "S": "1,2"
+          }
+        },
+        {
+          "nazwa": "Oskroba chleb o niskim indeksie glikemicznym",
+          "zdjecie_przod": "",
+          "sklad": "mąka pszenna pełnoziarnista graham 35,6%, zakwas żytni 20,3% (mąka żytnia razowa 10%, woda), woda, siemię lniane 10,8%, nasiona słonecznika 5%, dynia 3,6%, gluten pszenny, sól, kminek",
+          "wartosci_odzywcze": {
+            "E_kcal": "256",
+            "B": "11,6",
+            "T": "9,7",
+            "N": "0,9",
+            "W": "27,7",
+            "C": "3,2",
+            "Bl": "6,0",
+            "S": "1,3"
+          }
+        },
+        {
+          "nazwa": "Oskroba pumpernikiel",
+          "zdjecie_przod": "",
+          "sklad": "żyto krojone 45,5%, woda, mąka żytnia razowa 18,7%, zakwas żytni 5,2% (mąka żytnia razowa, woda), słód żytni, sól",
+          "wartosci_odzywcze": {
+            "E_kcal": "216",
+            "B": "5,6",
+            "T": "1,8",
+            "N": "0,3",
+            "W": "44",
+            "C": "2,9",
+            "Bl": "5,7",
+            "S": "1,0"
+          }
+        },
+        {
+          "nazwa": "Auchan chleb żytni razowy pumpernikiem",
+          "zdjecie_przod": "",
+          "sklad": "żyto krojone 45,5%, woda, mąka żytnia razowa 18,7%, zakwas żytni 5,2% (mąka żytnia razowa, woda), słód żytni, sól",
+          "wartosci_odzywcze": {
+            "E_kcal": "226",
+            "B": "5,6",
+            "T": "1,8",
+            "N": "0,3",
+            "W": "44",
+            "C": "2,9",
+            "Bl": "5,7",
+            "S": "1,0"
+          }
+        },
+        {
+          "nazwa": "Oskroba chleb żytni słonecznikowy",
+          "zdjecie_przod": "",
+          "sklad": "mąka żytnia razowa 35%, zakwas żytni 30,6% (woda, mąka żytnia), woda, mąka żytnia 8,5%, słonecznik 5,7%, płatki owsiane 5,4%, sól",
+          "wartosci_odzywcze": {
+            "E_kcal": "230",
+            "B": "7,0",
+            "T": "4,1",
+            "N": "0,5",
+            "W": "41",
+            "C": "2,2",
+            "Bl": "5,1",
+            "S": "1,0"
+          }
+        },
+        {
+          "nazwa": "Oskroba chleb żytni razowy",
+          "zdjecie_przod": "",
+          "sklad": "mąka żytnia razowa 30,8%, woda, mąka żytnia 20%, zakwas żytni 17,8% (woda, mąka żytnia), sól",
+          "wartosci_odzywcze": {
+            "E_kcal": "219",
+            "B": "4,8",
+            "T": "1,8",
+            "N": "0,3",
+            "W": "44",
+            "C": "1,6",
+            "Bl": "3,1",
+            "S": "1,4"
+          }
+        },
+        {
+          "nazwa": "Oskroba chleb żytni wileński",
+          "zdjecie_przod": "",
+          "sklad": "mąka żytnia 54,1% (w tym mąka żytnia razowa 24,4%), zakwas żytni 23,7% (woda, mąka żytnia), sól, kminek mielony",
+          "wartosci_odzywcze": {
+            "E_kcal": "229",
+            "B": "5,7",
+            "T": "1,3",
+            "N": "0,3",
+            "W": "45",
+            "C": "3,8",
+            "Bl": "4,1",
+            "S": "1,2"
+          }
+        },
+        {
+          "nazwa": "Mestemacher Pestka Dyni",
+          "zdjecie_przod": "",
+          "sklad": "śruta żytnia pełnoziarnista, woda, pestki dyni (5%), sól, drożdże",
+          "wartosci_odzywcze": {
+            "E_kcal": "209",
+            "B": "5,5",
+            "T": "3,2",
+            "N": "0,6",
+            "W": "35,1",
+            "C": "1,5",
+            "Bl": "9,1",
+            "S": "1,0"
+          }
+        },
+        {
+          "nazwa": "Mestemacher chleb razowy",
+          "zdjecie_przod": "",
+          "sklad": "śruta żytnia pełnoziarnista, woda, sól, ekstrakt słodu jęczmiennego, drożdże",
+          "wartosci_odzywcze": {
+            "E_kcal": "198",
+            "B": "5,1",
+            "T": "1,2",
+            "N": "0,3",
+            "W": "37,9",
+            "C": "2,9",
+            "Bl": "7,7",
+            "S": "1,2"
+          }
+        },
+        {
+          "nazwa": "Mestemacher siemię lniane",
+          "zdjecie_przod": "",
+          "sklad": "śruta żytnia pełnoziarnista, woda, siemię lniane (5%), sól, drożdże",
+          "wartosci_odzywcze": {
+            "E_kcal": "193",
+            "B": "5,4",
+            "T": "3,3",
+            "N": "0,5",
+            "W": "30,6",
+            "C": "2,2",
+            "Bl": "9,5",
+            "S": "1,0"
+          }
+        },
+        {
+          "nazwa": "Mestemacher wielozbożowy",
+          "zdjecie_przod": "",
+          "sklad": "śruta żytnia pełnoziarnista (52%), woda, płatki jęczmienne (3%), płatki owsiane (3%), siemię lniane (3%), sól, drożdże",
+          "wartosci_odzywcze": {
+            "E_kcal": "201",
+            "B": "5,5",
+            "T": "2,4",
+            "N": "0,4",
+            "W": "34,7",
+            "C": "2,2",
+            "Bl": "9,4",
+            "S": "1,1"
+          }
+        },
+        {
+          "nazwa": "Mestemacher żytni pełnoziarniste",
+          "zdjecie_przod": "",
+          "sklad": "zakwas (35%) (śruta żytnia pełnoziarnista, woda), śruta żytnia pełnoziarnista (30%), woda, mąka żytnia pełnoziarnista (7%), sól, drożdże",
+          "wartosci_odzywcze": {
+            "E_kcal": "186",
+            "B": "4,5",
+            "T": "1,2",
+            "N": "0,3",
+            "W": "33,7",
+            "C": "2,8",
+            "Bl": "11,1",
+            "S": "1,1"
+          }
+        },
+        {
+          "nazwa": "Oskroba chleb dawny na zakwasie żytnim",
+          "zdjecie_przod": "",
+          "sklad": "zakwas żytni 47% (mąka żytnia 23,5%, woda), mąka żytnia 23,8%, mąka pszenna 20,6%, woda, sól, słód pszenny, kminek mielony",
+          "wartosci_odzywcze": {
+            "E_kcal": "240",
+            "B": "5,5",
+            "T": "1,3",
+            "N": "0,3",
+            "W": "49",
+            "C": "6,4",
+            "Bl": "3,7",
+            "S": "1,4"
+          }
+        },
+        {
+          "nazwa": "Oskroba chleb żytni razowy na zakwasie",
+          "zdjecie_przod": "",
+          "sklad": "mąka żytnia 45,4% (w tym razowa 27,3%), zakwas żytni 36% (mąka żytnia razowa 18%, woda), woda, sół",
+          "wartosci_odzywcze": {
+            "E_kcal": "216",
+            "B": "4,9",
+            "T": "1,6",
+            "N": "0,3",
+            "W": "43",
+            "C": "1,6",
+            "Bl": "4,8",
+            "S": "1,4"
+          }
+        }
+      ]
+    },
+    {
+      "nazwa": "Przekąski",
+      "produkty": [
+        {
+          "nazwa": "BOB Snail Roll Apple-Strawberry Fruit Rolls",
+          "zdjecie_przod": "BOB Snail Roll Apple-Strawberry Fruit Rolls_przód.JPG",
+          "sklad": "jabłko 80%, truskawki 20%",
+          "wartosci_odzywcze": {
+            "E_kcal": "281",
+            "B": "2,5",
+            "T": "2,3",
+            "N": "0,3",
+            "W": "56",
+            "C": "52",
+            "Bl": "13",
+            "S": "0,04"
+          }
+        },
+        {
+          "nazwa": "BOB Snail Roll Apple-Rasberry Fruit Rolls",
+          "zdjecie_przod": "BOB Snail Roll Apple-Rasberry Fruit Rolls_przód.JPG",
+          "sklad": "jabłko 80%, maliny 20%",
+          "wartosci_odzywcze": {
+            "E_kcal": "281",
+            "B": "3,2",
+            "T": "2,1",
+            "N": "0,3",
+            "W": "54",
+            "C": "50",
+            "Bl": "16",
+            "S": "0,03"
+          }
+        },
+        {
+          "nazwa": "Auchan Chipsy jabłkowe",
+          "zdjecie_przod": "Auchan Chipsy jabłkowe_przód.JPG",
+          "sklad": "jabłko suszone",
+          "wartosci_odzywcze": {
+            "E_kcal": "362",
+            "B": "1,4",
+            "T": "0,6",
+            "N": "0,2",
+            "W": "81",
+            "C": "77",
+            "Bl": "14",
+            "S": "0,02"
+          }
+        },
+        {
+          "nazwa": "Auchan Chipsy gruszkowe",
+          "zdjecie_przod": "Auchan Chipsy gruszkowe_przód.JPG",
+          "sklad": "gruszka suszona",
+          "wartosci_odzywcze": {
+            "E_kcal": "340",
+            "B": "2,2",
+            "T": "0,6",
+            "N": "<0,1",
+            "W": "70",
+            "C": "54",
+            "Bl": "22",
+            "S": "0,02"
+          }
+        },
+        {
+          "nazwa": "Dobry Squad Vitamin Power Maca",
+          "zdjecie_przod": "Dobry quad Vitamin Power maca_baton_przód.JPG",
+          "sklad": "suszone daktyle 67%, czekolada mleczna (substancja słodząca: maltitol, tłuszcz kakaowy, mleko pełne (krowie) w proszku, miazga kakaowa, emulgator: lecytyny z soi), ekstrakt z wanilii, suszone mango 8%, orzeszki ziemne, substancja wzbogacająca: proszek z korzeni maca 5%, naturalny aromat mango",
+          "wartosci_odzywcze": {
+            "E_kcal": "418",
+            "B": "8",
+            "T": "22",
+            "N": "6",
+            "W": "54",
+            "C": "36",
+            "Bl": "8",
+            "S": "0,1"
+          }
+        }
+      ]
+    },
+    {
+      "nazwa": "Napoje",
+      "produkty": [
+        {
+          "nazwa": "Auchan Sok tłoczony jabłko",
+          "zdjecie_przod": "",
+          "sklad": "sok tłoczony z jabłek 100%",
+          "wartosci_odzywcze": {
+            "E_kcal": "44",
+            "B": "0",
+            "T": "0",
+            "N": "0",
+            "W": "11",
+            "C": "10",
+            "Bl": "—",
+            "S": "0"
           }
         }
       ]
@@ -191,6 +641,21 @@
             "C": "4,5",
             "Bl": "2,2",
             "S": "0,80"
+          }
+        },
+        {
+          "nazwa": "Auchan Kapary w zalewie",
+          "zdjecie_przod": "",
+          "sklad": "kapary, woda, sól, ocet",
+          "wartosci_odzywcze": {
+            "E_kcal": "26",
+            "B": "2",
+            "T": "<0,5",
+            "N": "0,1",
+            "W": "2,4",
+            "C": "<0,5",
+            "Bl": "3,0",
+            "S": "5,6"
           }
         }
       ]
