@@ -11,10 +11,10 @@ if (!fs.existsSync(WEB)) fs.mkdirSync(WEB);
 
 async function run() {
   const files = fs.readdirSync(ZDJECIA)
-    .filter(f => /\.(jpg|jpeg|png)$/i.test(f) && f.includes('przód'));
+    .filter(f => /\.(jpg|jpeg|png)$/i.test(f) && !f.includes('tył') && !f.includes('tabela'));
 
   if (!files.length) {
-    console.log('Brak nowych zdjęć przodu do kompresji.');
+    console.log('Brak zdjęć do kompresji.');
     return;
   }
 
