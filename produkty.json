@@ -47,6 +47,126 @@
             "Bl": "0,6",
             "S": "0,95"
           }
+        },
+        {
+          "nazwa": "Auchan pasztet drobiowy",
+          "zdjecie_przod": "Auchan pasztet drobiowy.JPG",
+          "sklad": "mięso z kurczaka 41%, woda, skórki z kurczaka 10%, wątroba z kurczaka 6%, cebula smażona (cebula, olej rzepakowy), bułka tarta (zawiera pszenicę, żyto), błonnik sojowy, sól, warzywa suszone (pasternak, marchew, cebula, pietruszka, nać, czosnek), przyprawy, cukier, zioła",
+          "wartosci_odzywcze": {
+            "E_kcal": "148",
+            "B": "12",
+            "T": "9,1",
+            "N": "2,9",
+            "W": "3,0",
+            "C": "2,1",
+            "Bl": "b.d.",
+            "S": "1,1"
+          }
+        },
+        {
+          "nazwa": "Henaff Mousse pur Canard mus z kaczki",
+          "zdjecie_przod": "Henaff Mausse pur Canard mus z kaczki.JPG",
+          "sklad": "kaczka 68% (chuda wątróbka z kaczki, tłuszcz z kaczki), mleko, żółtko jajka, śmietana, porto, sól morska, cukier, przyprawy",
+          "wartosci_odzywcze": {
+            "E_kcal": "395",
+            "B": "10",
+            "T": "39",
+            "N": "14",
+            "W": "1,1",
+            "C": "1,1",
+            "Bl": "b.d.",
+            "S": "1,7"
+          }
+        },
+        {
+          "nazwa": "Henaff Rillettes wieprzowe",
+          "zdjecie_przod": "Henaff Rillettes wieprzowe.JPG",
+          "sklad": "106 g wieprzowiny na 100 g, słonina wieprzowa, sól morska, pieprz",
+          "wartosci_odzywcze": {
+            "E_kcal": "416",
+            "B": "18",
+            "T": "38",
+            "N": "15",
+            "W": "<0,5",
+            "C": "<0,5",
+            "Bl": "b.d.",
+            "S": "1,0"
+          }
+        },
+        {
+          "nazwa": "Thon albacore au naturel — tuńczyk kawałki w sosie własnym",
+          "zdjecie_przod": "Thon albacore au naturel. Tuńczyk kawałki w sosie własnym.JPG",
+          "sklad": "tuńczyk żółtopłetwy (Thunnus albacares), woda, sól",
+          "wartosci_odzywcze": {
+            "E_kcal": "116",
+            "B": "27",
+            "T": "0,9",
+            "N": "0",
+            "W": "0",
+            "C": "0",
+            "Bl": "0",
+            "S": "1,0"
+          }
+        },
+        {
+          "nazwa": "Lisner tuńczyk w kawałkach w sosie własnym",
+          "zdjecie_przod": "Lisner tuńczyk w kawałkach w sosie własnym.JPG",
+          "sklad": "tuńczyk pasiasty (Katsuwonus pelamis), woda, sól",
+          "wartosci_odzywcze": {
+            "E_kcal": "113",
+            "B": "24,3",
+            "T": "0,69",
+            "N": "0,26",
+            "W": "0",
+            "C": "0",
+            "Bl": "b.d.",
+            "S": "1,1"
+          }
+        },
+        {
+          "nazwa": "Delicius Filetti di Sgombro BIO — filety makreli w oliwie extra vergine",
+          "zdjecie_przod": "Delicius Filetti di Sgombro BIO.png",
+          "sklad": "filety makreli BIO (Scomber scombrus) 73%, BIO oliwa z oliwek extra vergine 27%, sól",
+          "wartosci_odzywcze": {
+            "E_kcal": "252",
+            "B": "26,3",
+            "T": "17,6",
+            "N": "3,2",
+            "W": "0",
+            "C": "0",
+            "Bl": "0",
+            "S": "0,88"
+          }
+        },
+        {
+          "nazwa": "IASA Dorada w sosie śródziemnomorskim",
+          "zdjecie_przod": "IASA Dorada w sosie śródziemnomorskim.png",
+          "sklad": "filet z dorady 50%, sos śródziemnomorski 48% (pomidory, woda, oliwa z oliwek, oliwki, kapary), sól",
+          "wartosci_odzywcze": {
+            "E_kcal": "122",
+            "B": "17,0",
+            "T": "6,0",
+            "N": "2,0",
+            "W": "0",
+            "C": "0",
+            "Bl": "b.d.",
+            "S": "0,75"
+          }
+        },
+        {
+          "nazwa": "El Raño Talarki a la ośmiornica w oleju słonecznikowym",
+          "zdjecie_przod": "El Raño Talarki ośmiornica.png",
+          "sklad": "talarki mołuszka blaas (głowonóg) 64%, olej słonecznikowy 35%, sól",
+          "wartosci_odzywcze": {
+            "E_kcal": "240",
+            "B": "24,0",
+            "T": "16,0",
+            "N": "1,8",
+            "W": "0",
+            "C": "0",
+            "Bl": "b.d.",
+            "S": "0,4"
+          }
         }
       ]
     },
@@ -211,7 +331,7 @@
         {
           "nazwa": "Tesori Pinsa",
           "zdjecie_przod": "Tesori_Pinsa_przód.JPG",
-          "sklad": "47% (mąka pszenna typ 0, woda, drożdże), mąka pszenna pełnoziarnista 30%, woda, oliwa z oliwek z pierwszego tłoczenia 3,6%, sól, mąka ryżowa, drożdże piwowarskie, substancje konserwujące: priopionian wapnia, sorbinian potasu; mąka pszenna słodowa, aromat",
+          "sklad": "47% (mąka pszenna typ 0, woda, drożdże), mąka pszenna pełnoziarnista 30%, woda, oliwa z oliwek z pierwszego tłoczenia 3,6%, sól, mąka ryżowa, drożdże piwowarskie, substancje konserwujące: propionian wapnia, sorbinian potasu; mąka pszenna słodowa, aromat",
           "wartosci_odzywcze": {
             "E_kcal": "252",
             "B": "8,2",
@@ -329,7 +449,7 @@
           }
         },
         {
-          "nazwa": "Auchan chleb żytni razowy pumpernikiem",
+          "nazwa": "Auchan chleb żytni razowy pumpernikiel",
           "zdjecie_przod": "Auchan chleb żytni razowy pumpernikiel.JPG",
           "sklad": "żyto krojone 45,5%, woda, mąka żytnia razowa 18,7%, zakwas żytni 5,2% (mąka żytnia razowa, woda), słód żytni, sól",
           "wartosci_odzywcze": {
@@ -346,7 +466,7 @@
         {
           "nazwa": "Oskroba chleb żytni słonecznikowy",
           "zdjecie_przod": "Oskroba chleb żytni razowy słonecznikowy.JPG",
-          "sklad": "mąka żytnia razowa 35%, zakwas żytni 30,6% (woda, mąka żytnia), woda, mąka żytnia 8,5%, słonecznik 5,7%, płatki owsiane 5,4%, sól",
+          "sklad": "mąka żytnia razowa 35%, zakwas żytni 30,6% (woda, mąka żytnia), woda, mąka żytnia 8,5%, słonecznik 5,7%, płatki owsiane 5,4%, sół",
           "wartosci_odzywcze": {
             "E_kcal": "230",
             "B": "7,0",
@@ -406,7 +526,7 @@
         {
           "nazwa": "Mestemacher chleb razowy",
           "zdjecie_przod": "Mestemacher chleb razowy.JPG",
-          "sklad": "śruta żytnia pełnoziarnista, woda, sól, ekstrakt słodu jęczmiennego, drożdże",
+          "sklad": "śruta żytnia pełnoziarnista, woda, sół, ekstrakt słodu jęczmiennego, drożdże",
           "wartosci_odzywcze": {
             "E_kcal": "198",
             "B": "5,1",
@@ -421,7 +541,7 @@
         {
           "nazwa": "Mestemacher siemię lniane",
           "zdjecie_przod": "Mestemacher siemię lniane.JPG",
-          "sklad": "śruta żytnia pełnoziarnista, woda, siemię lniane (5%), sól, drożdże",
+          "sklad": "śruta żytnia pełnoziarnista, woda, siemię lniane (5%), sół, drożdże",
           "wartosci_odzywcze": {
             "E_kcal": "193",
             "B": "5,4",
@@ -481,7 +601,7 @@
         {
           "nazwa": "Oskroba chleb żytni razowy na zakwasie",
           "zdjecie_przod": "Oskroba chleb żytni razowy na zakwasie.JPG",
-          "sklad": "mąka żytnia 45,4% (w tym razowa 27,3%), zakwas żytni 36% (mąka żytnia razowa 18%, woda), woda, sół",
+          "sklad": "mąka żytnia 45,4% (w tym razowa 27,3%), zakwas żytni 36% (mąka żytnia razowa 18%, woda), woda, sól",
           "wartosci_odzywcze": {
             "E_kcal": "216",
             "B": "4,9",
@@ -491,6 +611,51 @@
             "C": "1,6",
             "Bl": "4,8",
             "S": "1,4"
+          }
+        },
+        {
+          "nazwa": "Oskroba Chleb Litewski",
+          "zdjecie_przod": "Oskroba Chleb Litewski.JPG",
+          "sklad": "zakwas żytni 45,6% (mąka żytnia 22,8%, woda), mąka pszenna 26,8%, woda, mąka żytnia 16,3%, słód żytni ciemny 2,4%, sól, kminek mielony, słód pszenny 0,2%",
+          "wartosci_odzywcze": {
+            "E_kcal": "237",
+            "B": "6,0",
+            "T": "1,1",
+            "N": "<0,3",
+            "W": "49",
+            "C": "7,2",
+            "Bl": "3,4",
+            "S": "1,4"
+          }
+        },
+        {
+          "nazwa": "Putka Chleb Razowy żytni",
+          "zdjecie_przod": "Putka Chleb razowy żytni.JPG",
+          "sklad": "mąka żytnia 65% (w tym mąka żytnia razowa 39%), woda, sól",
+          "wartosci_odzywcze": {
+            "E_kcal": "200",
+            "B": "5,4",
+            "T": "1,3",
+            "N": "0,2",
+            "W": "38",
+            "C": "<0,5",
+            "Bl": "7,5",
+            "S": "1,3"
+          }
+        },
+        {
+          "nazwa": "Putka Chleb Razowy ze Słonecznikiem żytni",
+          "zdjecie_przod": "Putka Chleb razowy ze słonecznikiem żytni.JPG",
+          "sklad": "mąka żytnia 52% (w tym mąka żytnia razowa 31%), woda, nasiona słonecznika 9%, mąka pszenna, sól",
+          "wartosci_odzywcze": {
+            "E_kcal": "277",
+            "B": "7,9",
+            "T": "12",
+            "N": "1,3",
+            "W": "32",
+            "C": "<0,5",
+            "Bl": "4,8",
+            "S": "1,2"
           }
         }
       ]
@@ -571,6 +736,21 @@
             "C": "36",
             "Bl": "8",
             "S": "0,1"
+          }
+        },
+        {
+          "nazwa": "Brets chipsy ziemniaczane o smaku słonego masła",
+          "zdjecie_przod": "Brets chipsy ziemniaczane o smaku słonego masła.JPG",
+          "sklad": "ziemniaki świeże (61,9%), olej słonecznikowy, masło w proszku, sól, aromaty, maślanka w proszku, laktoza",
+          "wartosci_odzywcze": {
+            "E_kcal": "522",
+            "B": "6,3",
+            "T": "31",
+            "N": "2,6",
+            "W": "52",
+            "C": "1",
+            "Bl": "b.d.",
+            "S": "1,5"
           }
         }
       ]
@@ -657,6 +837,586 @@
             "Bl": "3,0",
             "S": "5,6"
           }
+        },
+        {
+          "nazwa": "Mutti pomidory bez skórek w soku pomidorowym",
+          "zdjecie_przod": "Mutti pomidory bez skórek, całe, w soku pomidorowym.JPG",
+          "sklad": "pomidory San Marzano, sok pomidorowy z pomidorów San Marzano",
+          "wartosci_odzywcze": {
+            "E_kcal": "22",
+            "B": "1,1",
+            "T": "<0,5",
+            "N": "0,1",
+            "W": "3,6",
+            "C": "2,9",
+            "Bl": "b.d.",
+            "S": "0,01"
+          }
+        },
+        {
+          "nazwa": "Mutti Pelati pomidory całe bez skórki",
+          "zdjecie_przod": "Mutii Pelati pomidory całe bez skórki.JPG",
+          "sklad": "pomidory bez skórki, sok pomidorowy",
+          "wartosci_odzywcze": {
+            "E_kcal": "22",
+            "B": "1,1",
+            "T": "<0,5",
+            "N": "0,1",
+            "W": "3,6",
+            "C": "2,9",
+            "Bl": "0",
+            "S": "0,01"
+          }
+        },
+        {
+          "nazwa": "Auchan Pulpa pomidorowa",
+          "zdjecie_przod": "Auchan Pulpa pomidorowa.JPG",
+          "sklad": "pomidory 100%",
+          "wartosci_odzywcze": {
+            "E_kcal": "31",
+            "B": "1,4",
+            "T": "<0,5",
+            "N": "<0,1",
+            "W": "5",
+            "C": "5",
+            "Bl": "1,4",
+            "S": "0"
+          }
+        },
+        {
+          "nazwa": "Valfrutta Pelati",
+          "zdjecie_przod": "Valfrutta pelati.JPG",
+          "sklad": "pomidory (60%), sok pomidorowy (40%), regulator kwasowości: kwas cytrynowy",
+          "wartosci_odzywcze": {
+            "E_kcal": "27",
+            "B": "1,1",
+            "T": "0,2",
+            "N": "0,1",
+            "W": "4,2",
+            "C": "3,8",
+            "Bl": "1,1",
+            "S": "0,02"
+          }
+        },
+        {
+          "nazwa": "Podravka przecier pomidorowy",
+          "zdjecie_przod": "Podravka przecier pomidorowy.JPG",
+          "sklad": "przecier pomidorowy z koncentratu",
+          "wartosci_odzywcze": {
+            "E_kcal": "31",
+            "B": "1,3",
+            "T": "0,1",
+            "N": "0,0",
+            "W": "5,4",
+            "C": "5,0",
+            "Bl": "1,8",
+            "S": "0,2"
+          }
+        },
+        {
+          "nazwa": "Auchan Tahini pasta sezamowa",
+          "zdjecie_przod": "Auchan Tahini pasta sezamowa.JPG",
+          "sklad": "pasta sezamowa 100%",
+          "wartosci_odzywcze": {
+            "E_kcal": "663",
+            "B": "26",
+            "T": "59",
+            "N": "9,8",
+            "W": "1,9",
+            "C": "1,3",
+            "Bl": "10",
+            "S": "0"
+          }
+        },
+        {
+          "nazwa": "QF tahini premium",
+          "zdjecie_przod": "QF tahini premium.JPG",
+          "sklad": "nasiona sezamu 100%",
+          "wartosci_odzywcze": {
+            "E_kcal": "684",
+            "B": "20",
+            "T": "60",
+            "N": "10",
+            "W": "13",
+            "C": "0",
+            "Bl": "6",
+            "S": "0,7"
+          }
+        },
+        {
+          "nazwa": "Tavor tahini",
+          "zdjecie_przod": "Tavor tahini.JPG",
+          "sklad": "prażone, mielone ziarna sezamu",
+          "wartosci_odzywcze": {
+            "E_kcal": "683",
+            "B": "23",
+            "T": "61,7",
+            "N": "10",
+            "W": "11,3",
+            "C": "1",
+            "Bl": "?",
+            "S": "0"
+          }
+        }
+      ]
+    },
+    {
+      "nazwa": "Sosy i kondymenty",
+      "produkty": [
+        {
+          "nazwa": "Majonez Kielecki",
+          "zdjecie_przod": "Majonez Kielecki.JPG",
+          "sklad": "olej rzepakowy rafinowany, musztarda (woda, ocet spirytusowy, gorczyca, cukier, sól, przyprawy), woda, żółtka jaj kurzych (7,0%)",
+          "wartosci_odzywcze": {
+            "E_kcal": "631",
+            "B": "1,9",
+            "T": "68",
+            "N": "5,3",
+            "W": "2,3",
+            "C": "2,0",
+            "Bl": "?",
+            "S": "1,0"
+          }
+        },
+        {
+          "nazwa": "Majonez Kielecki omega-3",
+          "zdjecie_przod": "Majonez Kielecki omega-3.JPG",
+          "sklad": "olej rzepakowy rafinowany (75,9%), woda, żółtka jaj kurzych (7,0%), ocet spirytusowy, cukier, gorczyca, sół, regulator kwasowości: kwas cytrynowy; przyprawy",
+          "wartosci_odzywcze": {
+            "E_kcal": "722",
+            "B": "1,6",
+            "T": "78",
+            "N": "5,7",
+            "W": "2,9",
+            "C": "2,7",
+            "Bl": "?",
+            "S": "0,77"
+          }
+        },
+        {
+          "nazwa": "Dawtona Ketchup łagodny",
+          "zdjecie_przod": "Dawtona Ketchup łagodny.JPG",
+          "sklad": "przecier pomidorowy 72% (174 g pomidorów na 100 g produktu), cukier, ocet spirytusowy, sól, przyprawy",
+          "wartosci_odzywcze": {
+            "E_kcal": "107",
+            "B": "1,7",
+            "T": "<0,5",
+            "N": "<0,1",
+            "W": "22",
+            "C": "22",
+            "Bl": "?",
+            "S": "2,1"
+          }
+        },
+        {
+          "nazwa": "Roleski Ketchup Premium łagodny",
+          "zdjecie_przod": "Roleski Ketchup premium łagnody.JPG",
+          "sklad": "pomidory (232 g na 100 g ketchupu), cukier trzcinowy, ocet jabłkowy (8%), sól himalajska (2,3%), przyprawy",
+          "wartosci_odzywcze": {
+            "E_kcal": "123",
+            "B": "1,9",
+            "T": "<0,5",
+            "N": "<0,1",
+            "W": "27",
+            "C": "25",
+            "Bl": "?",
+            "S": "2,3"
+          }
+        },
+        {
+          "nazwa": "Motyl Chrzan staropolski",
+          "zdjecie_przod": "Motyl Chrzan staropolski.JPG",
+          "sklad": "62% korzeń chrzanu tarty, woda, ocet spirytusowy, olej rzepakowy, cukier, sól, regulator kwasowości: kwas cytrynowy, przeciwutleniacz: pirosiarczyn sodu",
+          "wartosci_odzywcze": {
+            "E_kcal": "136",
+            "B": "2,8",
+            "T": "5,6",
+            "N": "0,4",
+            "W": "16",
+            "C": "8,7",
+            "Bl": "?",
+            "S": "0,94"
+          }
+        },
+        {
+          "nazwa": "Prymat Musztarda Francuska łagodna",
+          "zdjecie_przod": "Prymat Musztarda Francuska łagodna.JPG",
+          "sklad": "woda, gorczyca biała, ocet winny, cukier, gorczyca czarna, sól, regulator kwasowości: kwas cytrynowy, ekstrakt z kurkumy",
+          "wartosci_odzywcze": {
+            "E_kcal": "226",
+            "B": "9,0",
+            "T": "9,8",
+            "N": "0,6",
+            "W": "20",
+            "C": "12",
+            "Bl": "b.d.",
+            "S": "2,0"
+          }
+        },
+        {
+          "nazwa": "Kamis Musztarda Sarepska",
+          "zdjecie_przod": "Kamis Musztarda Sarepska.JPG",
+          "sklad": "woda, gorczyca, ocet spirytusowy, cukier, sól, przyprawy, estragon, barwnik: kurkumina",
+          "wartosci_odzywcze": {
+            "E_kcal": "101",
+            "B": "3,7",
+            "T": "5,1",
+            "N": "0,3",
+            "W": "8,3",
+            "C": "6,9",
+            "Bl": "b.d.",
+            "S": "2,52"
+          }
+        },
+        {
+          "nazwa": "Roleski Musztarda Sarepska z czarną gorczycą",
+          "zdjecie_przod": "Roleski Musztarda Sarepska z czarną gorczycą.JPG",
+          "sklad": "woda, gorczyca (w tym gorczyca czarna 6,8%), ocet spirytusowy, cukier, sól, przyprawy, naturalny aromat",
+          "wartosci_odzywcze": {
+            "E_kcal": "79",
+            "B": "1,5",
+            "T": "2,2",
+            "N": "0,3",
+            "W": "7,9",
+            "C": "7,0",
+            "Bl": "b.d.",
+            "S": "2,1"
+          }
+        },
+        {
+          "nazwa": "Białuty Musztarda Sarepska",
+          "zdjecie_przod": "Białuty Musztarda Sarepska.JPG",
+          "sklad": "woda, gorczyca, ocet spirytusowy, cukier, sól, przyprawy",
+          "wartosci_odzywcze": {
+            "E_kcal": "79",
+            "B": "1,5",
+            "T": "2,2",
+            "N": "0,3",
+            "W": "7,9",
+            "C": "7,0",
+            "Bl": "b.d.",
+            "S": "2,1"
+          }
+        },
+        {
+          "nazwa": "Develey Musztarda Kremzska",
+          "zdjecie_przod": "Develey Musztarda Kratovska Horcica Kremzska.JPG",
+          "sklad": "woda, gorczyca, ocet spirytusowy, cukier, sól, przyprawy",
+          "wartosci_odzywcze": {
+            "E_kcal": "146",
+            "B": "5,6",
+            "T": "5,1",
+            "N": "0,3",
+            "W": "17",
+            "C": "16",
+            "Bl": "b.d.",
+            "S": "1,8"
+          }
+        },
+        {
+          "nazwa": "Ocetix Musztarda pikantna",
+          "zdjecie_przod": "Ocetix Musztarda pikantna.JPG",
+          "sklad": "woda, gorczyca, ocet spirytusowy, sól, cukier, przyprawy naturalne, barwnik: ryboflawiny",
+          "wartosci_odzywcze": {
+            "E_kcal": "111",
+            "B": "5,8",
+            "T": "6,4",
+            "N": "0,3",
+            "W": "3,9",
+            "C": "3,9",
+            "Bl": "7,1",
+            "S": "2,3"
+          }
+        },
+        {
+          "nazwa": "Roleski Musztarda Delikatesowa Chrzanowa",
+          "zdjecie_przod": "Roleski Musztarda Delikatesowa Chrzanowa.JPG",
+          "sklad": "woda, gorczyca, ocet spirytusowy, cukier, chrzan (4%), sól, naturalny aromat, przyprawy",
+          "wartosci_odzywcze": {
+            "E_kcal": "131",
+            "B": "5,2",
+            "T": "5,8",
+            "N": "0,3",
+            "W": "12",
+            "C": "12",
+            "Bl": "b.d.",
+            "S": "2,1"
+          }
+        },
+        {
+          "nazwa": "Mosso Musztarda Czeska",
+          "zdjecie_przod": "Mosso Musztarda Czeska.JPG",
+          "sklad": "woda, ocet spirytusowy, gorczyca biała i czarna (18,6%), cukier, sól, przyprawy",
+          "wartosci_odzywcze": {
+            "E_kcal": "110",
+            "B": "4,6",
+            "T": "3,7",
+            "N": "0,2",
+            "W": "18",
+            "C": "12",
+            "Bl": "b.d.",
+            "S": "1,6"
+          }
+        },
+        {
+          "nazwa": "Podravka Ajvar łagodny",
+          "zdjecie_przod": "Podravka Ajvar łagodny.JPG",
+          "sklad": "papryka (76%), bakłażany (12%), olej słonecznikowy, ocet spirytusowy, koncentrat pomidorowy (2,6%), sól jodowana, cukier, przyprawy, ostra papryka",
+          "wartosci_odzywcze": {
+            "E_kcal": "78",
+            "B": "1,5",
+            "T": "4,0",
+            "N": "0,3",
+            "W": "8",
+            "C": "8",
+            "Bl": "b.d.",
+            "S": "1,5"
+          }
+        },
+        {
+          "nazwa": "Podravka Ajvar Ostry",
+          "zdjecie_przod": "Podravka Ajvar Ostry.JPG",
+          "sklad": "papryka (76%), bakłażany (12%), olej słonecznikowy, ocet spirytusowy, koncentrat pomidorowy (2,6%), sól jodowana, ostra papryka (1%), cukier, przyprawy",
+          "wartosci_odzywcze": {
+            "E_kcal": "78",
+            "B": "1,5",
+            "T": "4",
+            "N": "0,3",
+            "W": "8",
+            "C": "8",
+            "Bl": "b.d.",
+            "S": "1,5"
+          }
+        },
+        {
+          "nazwa": "House of Asia Sos sojowy jasny",
+          "zdjecie_przod": "House of Asia Sos sojowy jasny.JPG",
+          "sklad": "soja 38%, woda, sól, mąka pszenna",
+          "wartosci_odzywcze": {
+            "E_kcal": "42",
+            "B": "4,5",
+            "T": "0",
+            "N": "0",
+            "W": "5,9",
+            "C": "1,7",
+            "Bl": "b.d.",
+            "S": "16,6"
+          }
+        },
+        {
+          "nazwa": "House of Asia Sos sojowy bezglutenowy",
+          "zdjecie_przod": "House of Asia Sos sojowy bezglutenowy.JPG",
+          "sklad": "woda, soja 34%, sól, cukier",
+          "wartosci_odzywcze": {
+            "E_kcal": "27",
+            "B": "3,2",
+            "T": "0",
+            "N": "0",
+            "W": "3,5",
+            "C": "1,6",
+            "Bl": "b.d.",
+            "S": "17,0"
+          }
+        },
+        {
+          "nazwa": "Ponti Dolce Agro Biały Dressing",
+          "zdjecie_przod": "Ponti Dolce Agro Biały Dressing.JPG",
+          "sklad": "ocet winny, rektyfikowany skoncentrowany moszcz gronowy, moszcz gronowy",
+          "wartosci_odzywcze": {
+            "E_kcal": "105",
+            "B": "0",
+            "T": "0",
+            "N": "0",
+            "W": "23",
+            "C": "22",
+            "Bl": "0",
+            "S": "0,01"
+          }
+        }
+      ]
+    },
+    {
+      "nazwa": "Octy",
+      "produkty": [
+        {
+          "nazwa": "Due Vittorie Aceto Balsamico Di Modena",
+          "zdjecie_przod": "Due Vittorie Aceto Balsamico Di Modena.JPG",
+          "sklad": "moszcz winogronowy, ocet winny",
+          "wartosci_odzywcze": {
+            "E_kcal": "331",
+            "B": "1,3",
+            "T": "0",
+            "N": "0",
+            "W": "77",
+            "C": "77",
+            "Bl": "?",
+            "S": "0,04"
+          }
+        },
+        {
+          "nazwa": "Due Vittorie Aceto di Mele",
+          "zdjecie_przod": "Due Vittorie Aceto di Mele.JPG",
+          "sklad": "sok z jabłek",
+          "wartosci_odzywcze": {
+            "E_kcal": "179",
+            "B": "0,1",
+            "T": "0",
+            "N": "0",
+            "W": "41",
+            "C": "41",
+            "Bl": "0",
+            "S": "0,1"
+          }
+        },
+        {
+          "nazwa": "Ponti Ocet Jabłkowy 100% włoskich jabłek",
+          "zdjecie_przod": "Ponti Ocet Jabłkowy 100% włoskich jabłek.JPG",
+          "sklad": "cydr jabłkowy, przeciwutleniacz E224 (zawiera siarczyny)",
+          "wartosci_odzywcze": {
+            "E_kcal": "17",
+            "B": "0",
+            "T": "0",
+            "N": "0",
+            "W": "0",
+            "C": "0",
+            "Bl": "0",
+            "S": "0"
+          }
+        },
+        {
+          "nazwa": "Develey ocet jabłkowy premium",
+          "zdjecie_przod": "Develey ocet jabłkowy premium.JPG",
+          "sklad": "ocet jabłkowy (zawiera siarczyny)",
+          "wartosci_odzywcze": {
+            "E_kcal": "22",
+            "B": "0",
+            "T": "0",
+            "N": "0",
+            "W": "1,2",
+            "C": "1,2",
+            "Bl": "0",
+            "S": "0"
+          }
+        },
+        {
+          "nazwa": "Develey Premium Ocet Jabłkowy Niefiltrowany",
+          "zdjecie_przod": "Develey ocet jabłkowy premium niefiltrowany.JPG",
+          "sklad": "ocet jabłkowy (zawiera siarczyny)",
+          "wartosci_odzywcze": {
+            "E_kcal": "?",
+            "B": "?",
+            "T": "?",
+            "N": "?",
+            "W": "?",
+            "C": "?",
+            "Bl": "?",
+            "S": "?"
+          }
+        },
+        {
+          "nazwa": "De Nigris ocet winny czerwony",
+          "zdjecie_przod": "De Nigris ocet winny czerwony.JPG",
+          "sklad": "ocet winny, przeciwutleniacz E224 (siarczyny)",
+          "wartosci_odzywcze": {
+            "E_kcal": "19",
+            "B": "0",
+            "T": "0",
+            "N": "0",
+            "W": "<0,5",
+            "C": "0",
+            "Bl": "?",
+            "S": "<0,01"
+          }
+        },
+        {
+          "nazwa": "De Nigris ocet winny biały",
+          "zdjecie_przod": "De Nigris ocet winny biały.JPG",
+          "sklad": "ocet winny, przeciwutleniacz E224 (siarczyny)",
+          "wartosci_odzywcze": {
+            "E_kcal": "19",
+            "B": "0",
+            "T": "0",
+            "N": "0",
+            "W": "<0,5",
+            "C": "0",
+            "Bl": "0",
+            "S": "<0,01"
+          }
+        },
+        {
+          "nazwa": "Kamis ocet z czerwonego wina",
+          "zdjecie_przod": "Kamis ocet z czerwonego wina.JPG",
+          "sklad": "ocet winny z czerwonego wina, przeciwutleniacz: pirosiarczyn sodu (zawiera dwutlenek siarki)",
+          "wartosci_odzywcze": {
+            "E_kcal": "20",
+            "B": "0",
+            "T": "0",
+            "N": "0",
+            "W": "0,5",
+            "C": "0,5",
+            "Bl": "?",
+            "S": "0"
+          }
+        },
+        {
+          "nazwa": "Kamis ocet z białego wina",
+          "zdjecie_przod": "Kamis ocet z białego wina.JPG",
+          "sklad": "ocet winny z białego wina, przeciwutleniacz: pirosiarczyn sodu (zawiera dwutlenek siarki)",
+          "wartosci_odzywcze": {
+            "E_kcal": "20",
+            "B": "0",
+            "T": "0",
+            "N": "0",
+            "W": "0,5",
+            "C": "0,5",
+            "Bl": "?",
+            "S": "0"
+          }
+        },
+        {
+          "nazwa": "Monari Federzoni Aceto di Vino",
+          "zdjecie_przod": "Monari Federzoni Aceto di Vino.JPG",
+          "sklad": "wino, przeciwutleniacz: pirosiarczyn potasu",
+          "wartosci_odzywcze": {
+            "E_kcal": "23",
+            "B": "0",
+            "T": "0",
+            "N": "0",
+            "W": "0",
+            "C": "0",
+            "Bl": "0",
+            "S": "0,08"
+          }
+        },
+        {
+          "nazwa": "Monari Federzoni Aceto di Vino Vineddike",
+          "zdjecie_przod": "Monari Federzoni Aceto di Vino Vineddike.JPG",
+          "sklad": "wino, przeciwutleniacz: pirosiarczyn potasu",
+          "wartosci_odzywcze": {
+            "E_kcal": "23",
+            "B": "0",
+            "T": "0",
+            "N": "0",
+            "W": "0",
+            "C": "0",
+            "Bl": "0",
+            "S": "0,08"
+          }
+        },
+        {
+          "nazwa": "Monini Aceto di vino blanco",
+          "zdjecie_przod": "Monini Aceto di vino blanco.JPG",
+          "sklad": "wino, przeciwutleniacz: pirosiarczyn potasu (zawiera siarczyny)",
+          "wartosci_odzywcze": {
+            "E_kcal": "23",
+            "B": "<0,5",
+            "T": "0",
+            "N": "0",
+            "W": "0",
+            "C": "0",
+            "Bl": "0",
+            "S": "0"
+          }
         }
       ]
     },
@@ -666,7 +1426,7 @@
         {
           "nazwa": "Biedronka Zupa ogórkowa",
           "zdjecie_przod": "Zupa ogórkowa_przód i tył.JPG",
-          "sklad": "woda, ogórki kiszone 22% (ogórki, sól, czosnek, koper), ziemniaki, marchew, cebula, mięso z indyka (z mleka), olej rzepakowy, koper 0,3%, sól, przyprawy",
+          "sklad": "woda, ogórki kiszone 22% (ogórki, sól, czosnek, koper), ziemniaki, marchew, cebula, mięso z indyka, olej rzepakowy, koper 0,3%, sól, przyprawy",
           "wartosci_odzywcze": {
             "E_kcal": "21",
             "B": "1,5",
@@ -681,7 +1441,7 @@
         {
           "nazwa": "Biedronka Zupa pomidorowa z makaronem orzo",
           "zdjecie_przod": "Zupa pomidorowa_przód i tył.JPG",
-          "sklad": "przecier pomidorowy 44%, woda, marchew 6%, makaron orzo 4% (semolina z pszenicy twardej), cebula 3%, kurzeń pietruszki 1%, seler, sól, czosnek 0,3%, olej rzepakowy, przyprawy",
+          "sklad": "przecier pomidorowy 44%, woda, marchew 6%, makaron orzo 4% (semolina z pszenicy twardej), cebula 3%, korzeń pietruszki 1%, seler, sól, czosnek 0,3%, olej rzepakowy, przyprawy",
           "wartosci_odzywcze": {
             "E_kcal": "34",
             "B": "1,6",
