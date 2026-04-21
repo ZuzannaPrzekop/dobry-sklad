@@ -1,0 +1,197 @@
+[
+  {
+    "nazwa": "Słońce WOW Smoothie Keen for Green (Banan, Szpinak, Jęczmień)",
+    "sklad": "sok jabłkowy 59,9%, przecier bananowy 27,3%, szpinak 10,2%, sok z cytryny 2,5%, młody jęczmień 0,1%",
+    "wartosci_odzywcze": {
+      "E_kcal": "60",
+      "B": "0,8",
+      "T": "0,4",
+      "N": "b.d.",
+      "W": "14",
+      "C": "12,7",
+      "Bl": "1,9",
+      "S": "0,01"
+    },
+    "zrodlo": "https://sokislonce.pl/produkt/keen-for-green/"
+  },
+  {
+    "nazwa": "Solevita Smoothie Strawberry & Friends",
+    "sklad": "b.d.",
+    "wartosci_odzywcze": {
+      "E_kcal": "b.d.",
+      "B": "b.d.",
+      "T": "b.d.",
+      "N": "b.d.",
+      "W": "b.d.",
+      "C": "b.d.",
+      "Bl": "b.d.",
+      "S": "b.d."
+    },
+    "zrodlo": "tyl-proc/IMG_9955.png (zdjęcie za małe by odczytać pewnie)"
+  },
+  {
+    "nazwa": "Solevita Smoothie Pomarańcza Mango Mandarynka",
+    "sklad": "b.d.",
+    "wartosci_odzywcze": {
+      "E_kcal": "b.d.",
+      "B": "b.d.",
+      "T": "b.d.",
+      "N": "b.d.",
+      "W": "b.d.",
+      "C": "b.d.",
+      "Bl": "b.d.",
+      "S": "b.d."
+    },
+    "zrodlo": "tyl-proc/IMG_9957.png (zdjęcie za małe by odczytać pewnie)"
+  },
+  {
+    "nazwa": "Cymes Tłocznia Sok Dnia Burak Jabłko",
+    "sklad": "sok z buraków ćwikłowych 51% (pasteryzowany przed rozlewem), świeżo wyciśnięty sok jabłkowy 49%, regulator kwasowości: kwas cytrynowy, przeciwutleniacz: kwas askorbinowy",
+    "wartosci_odzywcze": {
+      "E_kcal": "b.d.",
+      "B": "b.d.",
+      "T": "b.d.",
+      "N": "b.d.",
+      "W": "b.d.",
+      "C": "b.d.",
+      "Bl": "b.d.",
+      "S": "b.d."
+    },
+    "zrodlo": "https://e-delikatesydwojka.pl/produkt/swiezy-sok-buraczany-z-jablkiem-500-ml-cymes/"
+  },
+  {
+    "nazwa": "Cymes Tłocznia Sok świeża Marchewka Pomarańcza Jabłko",
+    "sklad": "b.d.",
+    "wartosci_odzywcze": {
+      "E_kcal": "b.d.",
+      "B": "b.d.",
+      "T": "b.d.",
+      "N": "b.d.",
+      "W": "b.d.",
+      "C": "b.d.",
+      "Bl": "b.d.",
+      "S": "b.d."
+    },
+    "zrodlo": "tyl-proc/IMG_9962.png (zdjęcie za małe by odczytać pewnie)"
+  },
+  {
+    "nazwa": "Solevita Sok 100% Pomarańcza Kiwi (tłoczony na zimno)",
+    "sklad": "b.d.",
+    "wartosci_odzywcze": {
+      "E_kcal": "51",
+      "B": "b.d.",
+      "T": "b.d.",
+      "N": "b.d.",
+      "W": "b.d.",
+      "C": "b.d.",
+      "Bl": "b.d.",
+      "S": "b.d."
+    },
+    "zrodlo": "WebSearch: fatsecret.pl / lidl.pl Solevita"
+  },
+  {
+    "nazwa": "Piekarnia Lidla Chleb Złocisty Pszenno-Żytni",
+    "sklad": "mąka pszenna 42%, woda, mąka żytnia 26% (12% mąka żytnia, woda, 6,8% mąka żytnia), 4,8% nasiona słonecznika, 2,4% siemię lniane, drożdże, gluten (z pszenicy), sól, otręby pszenne, 0,3% nasiona sezamu, słód pszenny jasny. Może zawierać jaja, orzeszki arachidowe, mleko i soję.",
+    "wartosci_odzywcze": {
+      "E_kcal": "272",
+      "B": "9,5",
+      "T": "5,2",
+      "N": "0,5",
+      "W": "45",
+      "C": "2,3",
+      "Bl": "3,5",
+      "S": "1,40"
+    },
+    "zrodlo": "tyl-proc/IMG_9914.png"
+  },
+  {
+    "nazwa": "Tastino Chrupkie Pieczywo Żytnie z Sezamem",
+    "sklad": "mąka żytnia pełnoziarnista, 10% nasiona sezamu, sól. Może zawierać mleko i zboża zawierające gluten z pszenicy, pszenicy orkisz, jęczmienia i owsa.",
+    "wartosci_odzywcze": {
+      "E_kcal": "362",
+      "B": "13",
+      "T": "6,0",
+      "N": "1,0",
+      "W": "58,0",
+      "C": "b.d.",
+      "Bl": "16",
+      "S": "1,3"
+    },
+    "zrodlo": "tyl-proc/IMG_9916.png"
+  },
+  {
+    "nazwa": "Tastino Chrupkie Pieczywo Żytnie",
+    "sklad": "mąka żytnia pełnoziarnista, woda, sól. Może zawierać sezam, mleko i zboża zawierające gluten (pszenica, pszenica orkisz, jęczmień, owies).",
+    "wartosci_odzywcze": {
+      "E_kcal": "b.d.",
+      "B": "b.d.",
+      "T": "b.d.",
+      "N": "b.d.",
+      "W": "b.d.",
+      "C": "b.d.",
+      "Bl": "b.d.",
+      "S": "b.d."
+    },
+    "zrodlo": "tyl-proc/IMG_9919.png (zdjęcie za małe by odczytać tabelę pewnie)"
+  },
+  {
+    "nazwa": "Piekarnia Lidla Chleb Żytni z Ziarnami Żyta",
+    "sklad": "Chleb żytni razowy z ziarnami żyta i siemieniem lnianym, krojony, pasteryzowany. Składniki: 32,8% ziarno żyta krojone, woda, 17% zakwas żytni (woda, 8,5% mąka żytnia razowa), 10,7% mąka żytnia razowa, 5,9% siemię lniane, 5,9% siemię lniane złote, płatki ziemniaczane, sól. Produkt może zawierać: jaja, nasiona soi, nasiona sezamu, orzeszki arachidowe i orzechy.",
+    "wartosci_odzywcze": {
+      "E_kcal": "223",
+      "B": "6,3",
+      "T": "b.d.",
+      "N": "0,7",
+      "W": "33",
+      "C": "b.d.",
+      "Bl": "9,5",
+      "S": "0,98"
+    },
+    "zrodlo": "tyl-proc/IMG_9921.png"
+  },
+  {
+    "nazwa": "Piekarnia Lidla Burger z Nasionami Sezamu",
+    "sklad": "Bułka pszenna z nasionami sezamu. Składniki: 57,5% mąka pszenna, woda, 10,5% cukier piekarski (mąka pszenna, woda, sól), cukier, drożdże, olej, 3% nasiona sezamu, sól, białko, mleka. Produkt może zawierać: soję, gorczycę i jaja.",
+    "wartosci_odzywcze": {
+      "E_kcal": "b.d.",
+      "B": "b.d.",
+      "T": "b.d.",
+      "N": "b.d.",
+      "W": "b.d.",
+      "C": "b.d.",
+      "Bl": "b.d.",
+      "S": "b.d."
+    },
+    "zrodlo": "tyl-proc/IMG_9923.png (tabela wartości odżywczych nie widoczna na zdjęciu)"
+  },
+  {
+    "nazwa": "Piekarnia Lidla Hot Dog amerykański",
+    "sklad": "Bułki pszenne typu hot-dog. Składniki: 59,3% mąka pszenna, 16,5% zakwas pszenny (mąka pszenna, woda), olej rzepakowy, cukier, drożdże, sól. Produkt może zawierać soję, nasiona sezamu, gorczycę, jaja i mleko.",
+    "wartosci_odzywcze": {
+      "E_kcal": "289",
+      "B": "b.d.",
+      "T": "8,1",
+      "N": "b.d.",
+      "W": "b.d.",
+      "C": "b.d.",
+      "Bl": "2,8",
+      "S": "b.d."
+    },
+    "zrodlo": "tyl-proc/IMG_9928.png"
+  },
+  {
+    "nazwa": "Piekarnia Lidla Pinsa Pełnoziarnista Flat Bread",
+    "sklad": "Pieczywo typu flat bread (pinsa). Składniki: mąka pszenna, woda, mąka ryżowa, mąka sojowa, oliwa z oliwek extra virgin 1,5%, sól, drożdże, suszony zaczyn z zakwasu, naturalne aromaty, substancja konserwująca: kwas sorbowy.",
+    "wartosci_odzywcze": {
+      "E_kcal": "b.d.",
+      "B": "b.d.",
+      "T": "0,8",
+      "N": "b.d.",
+      "W": "40,6",
+      "C": "b.d.",
+      "Bl": "5,9",
+      "S": "1,47"
+    },
+    "zrodlo": "tyl-proc/IMG_9931.png"
+  }
+]

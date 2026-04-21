@@ -391,31 +391,36 @@
       "nazwa": "Piekarnia Lidla Chleb Złocisty Pszenno-Żytni",
       "foto_przod": "IMG_9913.JPG",
       "foto_tyl": "IMG_9914.JPG",
-      "status": "zidentyfikowany"
+      "status": "zidentyfikowany",
+      "uzupelniony": true
     },
     {
       "nazwa": "Tastino Chrupkie Pieczywo Żytnie z Sezamem",
       "foto_przod": "IMG_9915.JPG",
       "foto_tyl": "IMG_9916.JPG",
-      "status": "zidentyfikowany"
+      "status": "zidentyfikowany",
+      "uzupelniony": true
     },
     {
       "nazwa": "Tastino Chrupkie Pieczywo Żytnie",
       "foto_przod": "IMG_9918.JPG",
       "foto_tyl": "IMG_9919.JPG",
-      "status": "zidentyfikowany"
+      "status": "zidentyfikowany",
+      "uzupelniony": true
     },
     {
       "nazwa": "Piekarnia Lidla Chleb Żytni z Ziarnami Żyta",
       "foto_przod": "IMG_9920.JPG",
       "foto_tyl": "IMG_9921.JPG",
-      "status": "zidentyfikowany"
+      "status": "zidentyfikowany",
+      "uzupelniony": true
     },
     {
       "nazwa": "Piekarnia Lidla Burger z Nasionami Sezamu",
       "foto_przod": "IMG_9922.JPG",
       "foto_tyl": "IMG_9923.JPG",
-      "status": "zidentyfikowany"
+      "status": "zidentyfikowany",
+      "uzupelniony": true
     },
     {
       "nazwa": "Sondey Pop Corn Snack Wafle Kukurydziane smak Pizza",
@@ -433,7 +438,8 @@
       "nazwa": "Piekarnia Lidla Pinsa Pełnoziarnista Flat Bread",
       "foto_przod": "IMG_9930.JPG",
       "foto_tyl": "IMG_9931.JPG",
-      "status": "zidentyfikowany"
+      "status": "zidentyfikowany",
+      "uzupelniony": true
     },
     {
       "nazwa": "Combino Sos Pomidorowy Arrabbiata",
@@ -507,19 +513,22 @@
       "nazwa": "Cymes Tłocznia Sok Dnia Burak Jabłko",
       "foto_przod": "IMG_9959.JPG",
       "foto_tyl": "IMG_9960.JPG",
-      "status": "zidentyfikowany"
+      "status": "zidentyfikowany",
+      "uzupelniony": true
     },
     {
       "nazwa": "Cymes Tłocznia Sok świeża Marchewka Pomarańcza Jabłko",
       "foto_przod": "IMG_9961.JPG",
       "foto_tyl": "IMG_9962.JPG",
-      "status": "zidentyfikowany"
+      "status": "zidentyfikowany",
+      "uzupelniony": true
     },
     {
       "nazwa": "Solevita Sok 100% Pomarańcza Kiwi (tłoczony na zimno)",
       "foto_przod": "IMG_9963.JPG",
       "foto_tyl": "IMG_9964.JPG",
-      "status": "zidentyfikowany"
+      "status": "zidentyfikowany",
+      "uzupelniony": true
     },
     {
       "nazwa": "Vemondo Tofu",

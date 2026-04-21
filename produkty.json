@@ -1186,37 +1186,37 @@
         {
           "nazwa": "Piekarnia Lidla Chleb Złocisty Pszenno-Żytni",
           "zdjecie_przod": "Piekarnia Lidla Chleb Złocisty Pszenno-Żytni.png",
-          "sklad": "b.d.",
+          "sklad": "mąka pszenna 42%, woda, mąka żytnia 26% (12% mąka żytnia, woda, 6,8% mąka żytnia), 4,8% nasiona słonecznika, 2,4% siemię lniane, drożdże, gluten (z pszenicy), sól, otręby pszenne, 0,3% nasiona sezamu, słód pszenny jasny. Może zawierać jaja, orzeszki arachidowe, mleko i soję.",
           "wartosci_odzywcze": {
-            "E_kcal": "b.d.",
-            "B": "b.d.",
-            "T": "b.d.",
-            "N": "b.d.",
-            "W": "b.d.",
-            "C": "b.d.",
-            "Bl": "b.d.",
-            "S": "b.d."
+            "E_kcal": "272",
+            "B": "9,5",
+            "T": "5,2",
+            "N": "0,5",
+            "W": "45",
+            "C": "2,3",
+            "Bl": "3,5",
+            "S": "1,40"
           }
         },
         {
           "nazwa": "Tastino Chrupkie Pieczywo Żytnie z Sezamem",
           "zdjecie_przod": "Tastino Chrupkie Pieczywo Żytnie z Sezamem.png",
-          "sklad": "b.d.",
+          "sklad": "mąka żytnia pełnoziarnista, 10% nasiona sezamu, sól. Może zawierać mleko i zboża zawierające gluten z pszenicy, pszenicy orkisz, jęczmienia i owsa.",
           "wartosci_odzywcze": {
-            "E_kcal": "b.d.",
-            "B": "b.d.",
-            "T": "b.d.",
-            "N": "b.d.",
-            "W": "b.d.",
+            "E_kcal": "362",
+            "B": "13",
+            "T": "6,0",
+            "N": "1,0",
+            "W": "58,0",
             "C": "b.d.",
-            "Bl": "b.d.",
-            "S": "b.d."
+            "Bl": "16",
+            "S": "1,3"
           }
         },
         {
           "nazwa": "Tastino Chrupkie Pieczywo Żytnie",
           "zdjecie_przod": "Tastino Chrupkie Pieczywo Żytnie.png",
-          "sklad": "b.d.",
+          "sklad": "mąka żytnia pełnoziarnista, woda, sól. Może zawierać sezam, mleko i zboża zawierające gluten (pszenica, pszenica orkisz, jęczmień, owies).",
           "wartosci_odzywcze": {
             "E_kcal": "b.d.",
             "B": "b.d.",
@@ -1231,22 +1231,22 @@
         {
           "nazwa": "Piekarnia Lidla Chleb Żytni z Ziarnami Żyta",
           "zdjecie_przod": "Piekarnia Lidla Chleb Żytni z Ziarnami Żyta.png",
-          "sklad": "b.d.",
+          "sklad": "Chleb żytni razowy z ziarnami żyta i siemieniem lnianym, krojony, pasteryzowany. Składniki: 32,8% ziarno żyta krojone, woda, 17% zakwas żytni (woda, 8,5% mąka żytnia razowa), 10,7% mąka żytnia razowa, 5,9% siemię lniane, 5,9% siemię lniane złote, płatki ziemniaczane, sól. Produkt może zawierać: jaja, nasiona soi, nasiona sezamu, orzeszki arachidowe i orzechy.",
           "wartosci_odzywcze": {
-            "E_kcal": "b.d.",
-            "B": "b.d.",
+            "E_kcal": "223",
+            "B": "6,3",
             "T": "b.d.",
-            "N": "b.d.",
-            "W": "b.d.",
+            "N": "0,7",
+            "W": "33",
             "C": "b.d.",
-            "Bl": "b.d.",
-            "S": "b.d."
+            "Bl": "9,5",
+            "S": "0,98"
           }
         },
         {
           "nazwa": "Piekarnia Lidla Burger z Nasionami Sezamu",
           "zdjecie_przod": "Piekarnia Lidla Burger z Nasionami Sezamu.png",
-          "sklad": "b.d.",
+          "sklad": "Bułka pszenna z nasionami sezamu. Składniki: 57,5% mąka pszenna, woda, 10,5% cukier piekarski (mąka pszenna, woda, sól), cukier, drożdże, olej, 3% nasiona sezamu, sól, białko, mleka. Produkt może zawierać: soję, gorczycę i jaja.",
           "wartosci_odzywcze": {
             "E_kcal": "b.d.",
             "B": "b.d.",
@@ -1261,31 +1261,31 @@
         {
           "nazwa": "Piekarnia Lidla Hot Dog amerykański",
           "zdjecie_przod": "Piekarnia Lidla Hot Dog amerykański.png",
-          "sklad": "b.d.",
+          "sklad": "Bułki pszenne typu hot-dog. Składniki: 59,3% mąka pszenna, 16,5% zakwas pszenny (mąka pszenna, woda), olej rzepakowy, cukier, drożdże, sól. Produkt może zawierać soję, nasiona sezamu, gorczycę, jaja i mleko.",
           "wartosci_odzywcze": {
-            "E_kcal": "b.d.",
+            "E_kcal": "289",
             "B": "b.d.",
-            "T": "b.d.",
+            "T": "8,1",
             "N": "b.d.",
             "W": "b.d.",
             "C": "b.d.",
-            "Bl": "b.d.",
+            "Bl": "2,8",
             "S": "b.d."
           }
         },
         {
           "nazwa": "Piekarnia Lidla Pinsa Pełnoziarnista Flat Bread",
           "zdjecie_przod": "Piekarnia Lidla Pinsa Pełnoziarnista.png",
-          "sklad": "b.d.",
+          "sklad": "Pieczywo typu flat bread (pinsa). Składniki: mąka pszenna, woda, mąka ryżowa, mąka sojowa, oliwa z oliwek extra virgin 1,5%, sól, drożdże, suszony zaczyn z zakwasu, naturalne aromaty, substancja konserwująca: kwas sorbowy.",
           "wartosci_odzywcze": {
             "E_kcal": "b.d.",
             "B": "b.d.",
-            "T": "b.d.",
+            "T": "0,8",
             "N": "b.d.",
-            "W": "b.d.",
+            "W": "40,6",
             "C": "b.d.",
-            "Bl": "b.d.",
-            "S": "b.d."
+            "Bl": "5,9",
+            "S": "1,47"
           }
         }
       ]
@@ -1976,16 +1976,16 @@
         {
           "nazwa": "Słońce WOW Smoothie Keen for Green (Banan, Szpinak, Jęczmień)",
           "zdjecie_przod": "Słońce WOW Smoothie Keen for Green.png",
-          "sklad": "b.d.",
+          "sklad": "sok jabłkowy 59,9%, przecier bananowy 27,3%, szpinak 10,2%, sok z cytryny 2,5%, młody jęczmień 0,1%",
           "wartosci_odzywcze": {
-            "E_kcal": "b.d.",
-            "B": "b.d.",
-            "T": "b.d.",
+            "E_kcal": "60",
+            "B": "0,8",
+            "T": "0,4",
             "N": "b.d.",
-            "W": "b.d.",
-            "C": "b.d.",
-            "Bl": "b.d.",
-            "S": "b.d."
+            "W": "14",
+            "C": "12,7",
+            "Bl": "1,9",
+            "S": "0,01"
           }
         },
         {
@@ -2021,7 +2021,7 @@
         {
           "nazwa": "Cymes Tłocznia Sok Dnia Burak Jabłko",
           "zdjecie_przod": "Cymes Tłocznia Sok Burak Jabłko.png",
-          "sklad": "b.d.",
+          "sklad": "sok z buraków ćwikłowych 51% (pasteryzowany przed rozlewem), świeżo wyciśnięty sok jabłkowy 49%, regulator kwasowości: kwas cytrynowy, przeciwutleniacz: kwas askorbinowy",
           "wartosci_odzywcze": {
             "E_kcal": "b.d.",
             "B": "b.d.",
@@ -2053,7 +2053,7 @@
           "zdjecie_przod": "Solevita Sok 100% Pomarańcza Kiwi.png",
           "sklad": "b.d.",
           "wartosci_odzywcze": {
-            "E_kcal": "b.d.",
+            "E_kcal": "51",
             "B": "b.d.",
             "T": "b.d.",
             "N": "b.d.",
