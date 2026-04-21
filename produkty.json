@@ -1403,12 +1403,12 @@
           "zdjecie_przod": "Vivi Musli tropikalne.png",
           "sklad": "b.d.",
           "wartosci_odzywcze": {
-            "E_kcal": "b.d.",
-            "B": "b.d.",
+            "E_kcal": "348",
+            "B": "5,9",
             "T": "b.d.",
             "N": "b.d.",
-            "W": "b.d.",
-            "C": "b.d.",
+            "W": "74,2",
+            "C": "7,2",
             "Bl": "b.d.",
             "S": "b.d."
           }
@@ -1446,7 +1446,7 @@
         {
           "nazwa": "Auchan Wafle Ryżowe Naturalne (białe)",
           "zdjecie_przod": "Auchan Wafle Ryżowe Naturalne białe.png",
-          "sklad": "b.d.",
+          "sklad": "ryż brązowy (100%). Produkt może zawierać: nasiona sezamu.",
           "wartosci_odzywcze": {
             "E_kcal": "b.d.",
             "B": "b.d.",
@@ -1461,7 +1461,7 @@
         {
           "nazwa": "Auchan Wafle Ryżowe Naturalne (brązowe)",
           "zdjecie_przod": "Auchan Wafle Ryżowe Naturalne brązowe.png",
-          "sklad": "b.d.",
+          "sklad": "ryż brązowy (100%). Produkt może zawierać nasiona sezamu.",
           "wartosci_odzywcze": {
             "E_kcal": "b.d.",
             "B": "b.d.",
@@ -1476,7 +1476,7 @@
         {
           "nazwa": "Sante Extra Cienkie Wafle Ryżowe",
           "zdjecie_przod": "Sante Extra Cienkie Wafle Ryżowe.png",
-          "sklad": "b.d.",
+          "sklad": "ryż 100% (brązowy, biały). Produkt bezglutenowy. Może zawierać mleko, soję, orzeszki arachidowe oraz inne orzechy.",
           "wartosci_odzywcze": {
             "E_kcal": "b.d.",
             "B": "b.d.",
@@ -1491,7 +1491,7 @@
         {
           "nazwa": "Sonko Wafle Ryżowe Naturalne",
           "zdjecie_przod": "Sonko Wafle Ryżowe Naturalne.png",
-          "sklad": "b.d.",
+          "sklad": "ryż (100%). Produkt bezglutenowy.",
           "wartosci_odzywcze": {
             "E_kcal": "b.d.",
             "B": "b.d.",
@@ -1506,24 +1506,24 @@
         {
           "nazwa": "EuroWafki Waflitki Kukurydziane",
           "zdjecie_przod": "EuroWafki Waflitki Kukurydziane.png",
-          "sklad": "b.d.",
+          "sklad": "kasza kukurydziana 97,4%, olej rzepakowy, sól. Zawiera naturalnie występujące cukry. Źródło błonnika pokarmowego.",
           "wartosci_odzywcze": {
-            "E_kcal": "b.d.",
+            "E_kcal": "385",
             "B": "b.d.",
-            "T": "b.d.",
-            "N": "b.d.",
-            "W": "b.d.",
-            "C": "b.d.",
-            "Bl": "b.d.",
-            "S": "b.d."
+            "T": "3,7",
+            "N": "0,6",
+            "W": "75",
+            "C": "1,9",
+            "Bl": "4,5",
+            "S": "0,44"
           }
         },
         {
           "nazwa": "Głodny Wilk Owocowe Puzzle Truskawka",
           "zdjecie_przod": "Głodny Wilk Owocowe Puzzle Truskawka.png",
-          "sklad": "b.d.",
+          "sklad": "jabłka (84,1%), zagęszczony sok jabłkowy (5%), truskawka (6%), zagęszczony sok z czarnej marchwi, naturalny aromat truskawkowy.",
           "wartosci_odzywcze": {
-            "E_kcal": "b.d.",
+            "E_kcal": "337",
             "B": "b.d.",
             "T": "b.d.",
             "N": "b.d.",
@@ -1536,7 +1536,7 @@
         {
           "nazwa": "Irenki OatŁanki Ciastka z Żurawiną",
           "zdjecie_przod": "Irenki OatŁanki Ciastka z Żurawiną.png",
-          "sklad": "b.d.",
+          "sklad": "płatki owsiane (52,5%), cukier trzcinowy, jaja kurze, olej rzepakowy, żurawina suszona (7,8%) (żurawina, cukier, olej słonecznikowy), sól himalajska.",
           "wartosci_odzywcze": {
             "E_kcal": "b.d.",
             "B": "b.d.",
@@ -1568,14 +1568,14 @@
           "zdjecie_przod": "Sante Fit Ciasteczka Zbożowe z Jagodą.png",
           "sklad": "b.d.",
           "wartosci_odzywcze": {
-            "E_kcal": "b.d.",
-            "B": "b.d.",
-            "T": "b.d.",
-            "N": "b.d.",
-            "W": "b.d.",
+            "E_kcal": "421",
+            "B": "5,9",
+            "T": "14",
+            "N": "1,7",
+            "W": "71",
             "C": "b.d.",
-            "Bl": "b.d.",
-            "S": "b.d."
+            "Bl": "3,8",
+            "S": "0,71"
           }
         },
         {
@@ -1613,9 +1613,9 @@
           "zdjecie_przod": "Kopernik Serca Piernikowe z Czekoladą i Miodem.png",
           "sklad": "b.d.",
           "wartosci_odzywcze": {
-            "E_kcal": "b.d.",
+            "E_kcal": "383",
             "B": "b.d.",
-            "T": "b.d.",
+            "T": "9,3",
             "N": "b.d.",
             "W": "b.d.",
             "C": "b.d.",
@@ -1626,16 +1626,16 @@
         {
           "nazwa": "Kopernik Torcik Piernikowy smak limonki",
           "zdjecie_przod": "Kopernik Torcik Piernikowy limonka.png",
-          "sklad": "b.d.",
+          "sklad": "nadzienie 40% (cukier, zagęszczony przecier jabłkowy, koncentrat limonki 0,4%, regulatory kwasowości (kwas cytrynowy, kwas winowy), substancje konserwujące (sorbinian potasu), pirosiarczyn sodu), substancja zagęszczająca (pektyny), aromat, barwnik (kurkumina)), mąka pszenna, czekolada 15% (cukier, miazga kakaowa, tłuszcz kakaowy, emulgator (lecytyny (soja)), aromat), żytnia, cukier, barwnik (karmel), substancja spulchniająca (węglany amonu), przyprawy, olej, regulator kwasowości (kwas cytrynowy). Może zawierać jaja, mleko, orzeszki arachidowe, migdały oraz orzechy, nasiona sezamu.",
           "wartosci_odzywcze": {
-            "E_kcal": "b.d.",
-            "B": "b.d.",
-            "T": "b.d.",
-            "N": "b.d.",
-            "W": "b.d.",
-            "C": "b.d.",
+            "E_kcal": "353",
+            "B": "3,6",
+            "T": "5,7",
+            "N": "3,3",
+            "W": "71",
+            "C": "50",
             "Bl": "b.d.",
-            "S": "b.d."
+            "S": "0,07"
           }
         },
         {
@@ -1746,7 +1746,7 @@
         {
           "nazwa": "Dobra Kaloria Chrupiący Orzech",
           "zdjecie_przod": "Dobra Kaloria Chrupiący Orzech.png",
-          "sklad": "b.d.",
+          "sklad": "Baton daktylowy z orzeszkami ziemnymi. Składniki: daktyle (69%) (cale, pasta), orzeszki ziemne prażone (28%), chrupki zbożowe (mąka kukurydziana, mąka ryżowa). Może zawierać orzechy, nasiona sezamu, zboża zawierające gluten. Uwaga: może zawierać pestki owoców lub ich fragmenty. Bez dodatku cukru. Zawiera naturalnie występujące cukry.",
           "wartosci_odzywcze": {
             "E_kcal": "b.d.",
             "B": "b.d.",
@@ -1776,7 +1776,7 @@
         {
           "nazwa": "Dobra Kaloria Mini Batoniki Dla Serca Wiśnia",
           "zdjecie_przod": "Dobra Kaloria Mini Batoniki Dla Serca Wiśnia.png",
-          "sklad": "b.d.",
+          "sklad": "Batoniki owocowe z ekstraktem z rzeńca górskiego.",
           "wartosci_odzywcze": {
             "E_kcal": "b.d.",
             "B": "b.d.",
@@ -1791,16 +1791,16 @@
         {
           "nazwa": "Sens Pea Cricket Protein Chips Poppy Seeds & Sea Salt",
           "zdjecie_przod": "Sens Pea Cricket Protein Chips Poppy Seeds and Sea Salt.png",
-          "sklad": "b.d.",
+          "sklad": "Chipsy proteinowe z dodatkiem świerszczy. Składniki: mąka grochowa (76%), proszek ze świerszczy (Acheta domesticus) 10%, ekstrakt drożdżowy, pietruszka, mąka kukurydziana, sól morska, mieszanka ziół. Może zawierać soję. Osoby uczulone na mięczaki i skorupiaki lub rozrózka muga reagować alergicznie na świerszcze.",
           "wartosci_odzywcze": {
             "E_kcal": "b.d.",
-            "B": "b.d.",
+            "B": "24,6",
             "T": "b.d.",
             "N": "b.d.",
-            "W": "b.d.",
-            "C": "b.d.",
+            "W": "40,2",
+            "C": "4,7",
             "Bl": "b.d.",
-            "S": "b.d."
+            "S": "3,2"
           }
         },
         {
@@ -1821,7 +1821,7 @@
         {
           "nazwa": "Box Vital Ciasteczka Marchewkowe",
           "zdjecie_przod": "Box Vital Ciasteczka Marchewkowe.png",
-          "sklad": "b.d.",
+          "sklad": "Polskie ciastka marchewkowe z płatkami owsianymi, siemieniem lnianym i kardamonem. Zawiera substancję słodzącą. Zawiera naturalnie występujące cukry. Składniki: marchew 20% (przecier z marchwi 10%), płatki owsiane 17%, ziarno słonecznika, substancja słodząca: maltitol, błonnik z korzenia cykorii, siemię lniane 10%, olej rzepakowy, emulgator: lecytyna (z rzepaku), sok z cytryn, kardamon mielony 0,3%, imbir korzeń, sól himalajska. Produkt może zawierać sezam, orzeszki ziemne i inne orzechy.",
           "wartosci_odzywcze": {
             "E_kcal": "b.d.",
             "B": "b.d.",
@@ -1836,22 +1836,22 @@
         {
           "nazwa": "Cere Brownie Style Protein Organic Bar",
           "zdjecie_przod": "Cere Brownie Style Protein Organic Bar.png",
-          "sklad": "b.d.",
+          "sklad": "Ekologiczny baton proteinowy z kawałkami czekolady. Produkt bezglutenowy. Odpowiedni dla wegetarian. Odpowiedni dla wegan. Źródło białka. Składniki: orzechy nerkowca*, syrop z agawy*, pasta daktylowa*, mieszanka białek roślinnych* 14% (z ryżu 7,7%, z groszku 6,3%), kawałki ciemnej czekolady 11% (miazga kakaowa* (miazga kakaowa minimum 54%), cukier*, masło kakaowe*, wanilia w proszku*), olej z oliwek*, kakao w proszku odtłuszczone*, emulgator: lecytyny (ze słonecznika)*, naturalny aromat kawowy*. Certyfikowany składnik ekologiczny. Rolnictwo UE/spoza UE. Może zawierać orzechy, orzeszki ziemne i laktozę.",
           "wartosci_odzywcze": {
-            "E_kcal": "b.d.",
-            "B": "b.d.",
-            "T": "b.d.",
+            "E_kcal": "401",
+            "B": "21",
+            "T": "6,2",
             "N": "b.d.",
-            "W": "b.d.",
+            "W": "33",
             "C": "b.d.",
-            "Bl": "b.d.",
-            "S": "b.d."
+            "Bl": "5,6",
+            "S": "0,21"
           }
         },
         {
           "nazwa": "Foods by Ann Energy Choco Bar Śliwka & Czarna Porzeczka",
           "zdjecie_przod": "Foods by Ann Energy Choco Bar Śliwka Czarna Porzeczka.png",
-          "sklad": "b.d.",
+          "sklad": "Baton orzechowo-owocowy o smaku śliwkowo-porzeczkowym w czekoladzie. Zawiera substancję słodzącą. Zawiera naturalnie występujące cukry. Odpowiedni dla wegan. Składniki: pasta daktylowa, czekolada 27% (miazga kakaowa, słodzik: steviol glikozydy) 13%, migdały prażone 11%, suszone śliwki wiśniowe 11% (suszone śliwki, suszona czarna porzeczka 11%, sok z cytryny, wiórki kokosowe, sól), maltitol, coconut butter, olej z rzepakowy, świeży sok z cytryny, aromat. Może zawierać orzeszki ziemne, orzechy i mleko.",
           "wartosci_odzywcze": {
             "E_kcal": "b.d.",
             "B": "b.d.",
@@ -1866,7 +1866,7 @@
         {
           "nazwa": "Dobra Kaloria Proteina Krem Orzechowy & Sól",
           "zdjecie_przod": "Dobra Kaloria Proteina Krem Orzechowy Sól.png",
-          "sklad": "b.d.",
+          "sklad": "Wysokobiałkowy baton z orzeszków ziemnych i daktyli z solą. Składniki: masło z prażonych orzeszków ziemnych (35%), daktyle suszone (32%) (pasta, cal), białko grochu, błonnik z cykorii, sól (0,9%). Może zawierać orzechy, nasiona sezamu, zboża zawierające gluten. Zawiera naturalnie występujące cukry.",
           "wartosci_odzywcze": {
             "E_kcal": "b.d.",
             "B": "b.d.",
@@ -1881,7 +1881,7 @@
         {
           "nazwa": "Dobra Kaloria Proteina Mini Batoniki o smaku karmelu",
           "zdjecie_przod": "Dobra Kaloria Proteina Mini Batoniki karmel.png",
-          "sklad": "b.d.",
+          "sklad": "Batoniki owocowe z białkiem grochu i stewią. Składniki: orzeszki ziemne prażone, pasta daktylowa (23%), nerkowce (17%), białko grochu (17%), błonnik z cykorii, olej MCT, groszek (7%), nerkowce (14%) w proszku (7%), aromaty (1%), substancja słodząca: glikozydy stewiolowe.",
           "wartosci_odzywcze": {
             "E_kcal": "b.d.",
             "B": "b.d.",
@@ -1896,9 +1896,9 @@
         {
           "nazwa": "Be Keto Keto Chips Swiss Cheese & French Onion",
           "zdjecie_przod": "Be Keto Keto Chips Swiss Cheese French Onion.png",
-          "sklad": "b.d.",
+          "sklad": "Chips (Soy Protein Concentrate, Tapioca And Potato Starch, Fibre (Soy), Salt, Potato Flakes, Emulsifier: Soy Lecithin), Flavours (Milk, Sunflower Oil, Milk Protein).",
           "wartosci_odzywcze": {
-            "E_kcal": "b.d.",
+            "E_kcal": "354",
             "B": "b.d.",
             "T": "b.d.",
             "N": "b.d.",
@@ -1911,22 +1911,22 @@
         {
           "nazwa": "Alesto RAW Kokos & Kakao",
           "zdjecie_przod": "Alesto RAW Kokos Kakao.png",
-          "sklad": "b.d.",
+          "sklad": "Baton daktylowy z wiórkami kokosa i kakao. Produkt bezglutenowy. Bez dodatku cukru. Zawiera naturalnie występujące cukry. Składniki: 68% daktyle, 26% wiórki kokosa, 6% kakao. Może zawierać orzechy, orzeszki ziemne, mleko, soję i nasiona sezamu.",
           "wartosci_odzywcze": {
-            "E_kcal": "b.d.",
-            "B": "b.d.",
-            "T": "b.d.",
-            "N": "b.d.",
-            "W": "b.d.",
-            "C": "b.d.",
+            "E_kcal": "400",
+            "B": "3,3",
+            "T": "18,0",
+            "N": "14,2",
+            "W": "44,0",
+            "C": "40,0",
             "Bl": "b.d.",
-            "S": "b.d."
+            "S": "0,0"
           }
         },
         {
           "nazwa": "Sondey Pop Corn Snack Wafle Kukurydziane smak Pizza",
           "zdjecie_przod": "Sondey Pop Corn Snack Pizza.png",
-          "sklad": "b.d.",
+          "sklad": "Małe wafle kukurydziane o smaku pizzy. Składniki: 86% kaszka kukurydziana, 7% preparat o smaku pizzy (laktoza, olej rzepakowy, cukier, syrop glukozowy, aromat, sól, 0,4% suszone pomidory, chudy proszek, mąka ryżowa, 0,4% cebula w proszku, cukier, pieprz czerwony, przeciwutleniacze: ekstrakty z rozmarynu i naturalne tokoferole). Produkt bezglutenowy. Produkt może być spożyty przez: pasta tyl spożywania. Produkt bezglutenowy.",
           "wartosci_odzywcze": {
             "E_kcal": "b.d.",
             "B": "b.d.",
@@ -1941,14 +1941,14 @@
         {
           "nazwa": "Maple Joe Syrop Klonowy Amber Rich",
           "zdjecie_przod": "Maple Joe Syrop Klonowy Amber Rich.png",
-          "sklad": "b.d.",
+          "sklad": "100% czysty syrop klonowy.",
           "wartosci_odzywcze": {
-            "E_kcal": "b.d.",
-            "B": "b.d.",
-            "T": "b.d.",
-            "N": "b.d.",
-            "W": "b.d.",
-            "C": "b.d.",
+            "E_kcal": "258",
+            "B": "0,02",
+            "T": "0",
+            "N": "0",
+            "W": "67",
+            "C": "66",
             "Bl": "b.d.",
             "S": "b.d."
           }

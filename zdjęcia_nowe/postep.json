@@ -102,7 +102,8 @@
       "nazwa": "Maple Joe Syrop Klonowy Amber Rich",
       "foto_przod": "IMG_9763.JPG",
       "foto_tyl": "IMG_9764.JPG",
-      "status": "zidentyfikowany"
+      "status": "zidentyfikowany",
+      "uzupelniony": true
     },
     {
       "nazwa": "QF Mango Alphonso Pulp",
@@ -128,25 +129,29 @@
       "nazwa": "Auchan Musli Owocowe Polskie Owoce",
       "foto_przod": "IMG_9771.JPG",
       "foto_tyl": "IMG_9772.JPG",
-      "status": "zidentyfikowany"
+      "status": "zidentyfikowany",
+      "uzupelniony": true
     },
     {
       "nazwa": "Vivi Musli tropikalne",
       "foto_przod": "IMG_9773.JPG",
       "foto_tyl": "IMG_9774.JPG",
-      "status": "zidentyfikowany"
+      "status": "zidentyfikowany",
+      "uzupelniony": true
     },
     {
       "nazwa": "One Day More Muesli Fruit",
       "foto_przod": "IMG_9775.JPG",
       "foto_tyl": "IMG_9776.JPG",
-      "status": "zidentyfikowany"
+      "status": "zidentyfikowany",
+      "uzupelniony": true
     },
     {
       "nazwa": "One Day More Oatmeal Apple & Cinnamon",
       "foto_przod": "IMG_9777.JPG",
       "foto_tyl": "IMG_9778.JPG",
-      "status": "zidentyfikowany"
+      "status": "zidentyfikowany",
+      "uzupelniony": true
     },
     {
       "nazwa": "Auchan Wafle Ryżowe Naturalne (białe opakowanie)",
@@ -164,19 +169,22 @@
       "nazwa": "Sante Extra Cienkie Wafle Ryżowe",
       "foto_przod": "IMG_9783.JPG",
       "foto_tyl": "IMG_9784.JPG",
-      "status": "zidentyfikowany"
+      "status": "zidentyfikowany",
+      "uzupelniony": true
     },
     {
       "nazwa": "Sonko Wafle Ryżowe Naturalne",
       "foto_przod": "IMG_9785.JPG",
       "foto_tyl": "IMG_9786.JPG",
-      "status": "zidentyfikowany"
+      "status": "zidentyfikowany",
+      "uzupelniony": true
     },
     {
       "nazwa": "EuroWafki Waflitki Kukurydziane",
       "foto_przod": "IMG_9787.JPG",
       "foto_tyl": "IMG_9788.JPG",
-      "status": "zidentyfikowany"
+      "status": "zidentyfikowany",
+      "uzupelniony": true
     },
     {
       "nazwa": "Biofix Rumianek Herbatka Ziołowa",
@@ -188,43 +196,50 @@
       "nazwa": "Głodny Wilk Owocowe Puzzle Truskawka",
       "foto_przod": "IMG_9795.JPG",
       "foto_tyl": "IMG_9796.JPG",
-      "status": "zidentyfikowany"
+      "status": "zidentyfikowany",
+      "uzupelniony": true
     },
     {
       "nazwa": "Irenki OatŁanki Ciastka z Żurawiną",
       "foto_przod": "IMG_9797.JPG",
       "foto_tyl": "IMG_9798.JPG",
-      "status": "zidentyfikowany"
+      "status": "zidentyfikowany",
+      "uzupelniony": true
     },
     {
       "nazwa": "Irenki OatŁanki Ciastka z Czekoladą",
       "foto_przod": "IMG_9799.JPG",
       "foto_tyl": "IMG_9800.JPG",
-      "status": "zidentyfikowany"
+      "status": "zidentyfikowany",
+      "uzupelniony": true
     },
     {
       "nazwa": "Sante Fit Ciasteczka Zbożowe z Jagodą",
       "foto_przod": "IMG_9801.JPG",
       "foto_tyl": "IMG_9802.JPG",
-      "status": "zidentyfikowany"
+      "status": "zidentyfikowany",
+      "uzupelniony": true
     },
     {
       "nazwa": "Sante Fit Ciasteczka Zbożowe z Morelą",
       "foto_przod": "IMG_9803.JPG",
       "foto_tyl": "IMG_9804.JPG",
-      "status": "zidentyfikowany"
+      "status": "zidentyfikowany",
+      "uzupelniony": true
     },
     {
       "nazwa": "Kopernik Pierniki Toruńskie Śliwka",
       "foto_przod": "IMG_9805.JPG",
       "foto_tyl": "IMG_9806.JPG",
-      "status": "zidentyfikowany"
+      "status": "zidentyfikowany",
+      "uzupelniony": true
     },
     {
       "nazwa": "Kopernik Serca Piernikowe z Czekoladą i Miodem",
       "foto_przod": "IMG_9807.JPG",
       "foto_tyl": "IMG_9808.JPG",
-      "status": "zidentyfikowany"
+      "status": "zidentyfikowany",
+      "uzupelniony": true
     },
     {
       "nazwa": "Kopernik Torcik Piernikowy o smaku limonki",
@@ -285,73 +300,85 @@
       "nazwa": "Eat Real Veggie Straws (pomidor, jarmuż, szpinak)",
       "foto_przod": "IMG_9825.JPG",
       "foto_tyl": "IMG_9826.JPG",
-      "status": "zidentyfikowany"
+      "status": "zidentyfikowany",
+      "uzupelniony": true
     },
     {
       "nazwa": "Eat Real Quinoa Chips Sour Cream & Chive",
       "foto_przod": "IMG_9827.JPG",
       "foto_tyl": "IMG_9828.JPG",
-      "status": "zidentyfikowany"
+      "status": "zidentyfikowany",
+      "uzupelniony": true
     },
     {
       "nazwa": "Biosaurus Chrupki Kukurydziane Ketchup",
       "foto_przod": "IMG_9829.JPG",
       "foto_tyl": "IMG_9830.JPG",
-      "status": "zidentyfikowany"
+      "status": "zidentyfikowany",
+      "uzupelniony": true
     },
     {
       "nazwa": "Biosaurus Chrupki Kukurydziane Sea Salt",
       "foto_przod": "IMG_9831.JPG",
       "foto_tyl": "IMG_9832.JPG",
-      "status": "zidentyfikowany"
+      "status": "zidentyfikowany",
+      "uzupelniony": true
     },
     {
       "nazwa": "Gullón Zero Sugar Free Short Bread",
       "foto_przod": "IMG_9833.JPG",
       "foto_tyl": "IMG_9834.JPG",
-      "status": "zidentyfikowany"
+      "status": "zidentyfikowany",
+      "uzupelniony": true
     },
     {
       "nazwa": "Dobra Kaloria Mini Batoniki Odporność Żurawina",
       "foto_przod": "IMG_9836.JPG",
       "foto_tyl": "IMG_9837.JPG",
-      "status": "zidentyfikowany"
+      "status": "zidentyfikowany",
+      "uzupelniony": true
     },
     {
       "nazwa": "Sens Cricket Protein Bar Dark Chocolate & Sour Cherry",
       "foto_przod": "IMG_9838.JPG",
       "foto_tyl": "IMG_9839.JPG",
-      "status": "zidentyfikowany"
+      "status": "zidentyfikowany",
+      "uzupelniony": true
     },
     {
       "nazwa": "Dobra Kaloria Chrupiący Orzech",
       "foto_przod": "IMG_9840.JPG",
       "foto_tyl": "IMG_9841.JPG",
-      "status": "zidentyfikowany"
+      "status": "zidentyfikowany",
+      "uzupelniony": true
     },
     {
       "nazwa": "Dobra Kaloria Nerkowce & Kokos",
       "foto_przod": "IMG_9842.JPG",
       "foto_tyl": "IMG_9843.JPG",
-      "status": "zidentyfikowany"
+      "status": "zidentyfikowany",
+      "uzupelniony": true
     },
     {
       "nazwa": "Dobra Kaloria Mini Batoniki Dla Serca Wiśnia",
       "foto_przod": "IMG_9844.JPG",
       "foto_tyl": "IMG_9845.JPG",
-      "status": "zidentyfikowany"
+      "status": "zidentyfikowany",
+      "uzupelniony": true
     },
     {
       "nazwa": "Sens Pea Cricket Protein Chips Poppy Seeds & Sea Salt",
       "foto_przod": "IMG_9846.JPG",
       "foto_tyl": "IMG_9847.JPG",
-      "status": "zidentyfikowany"
+      "status": "zidentyfikowany",
+      "uzupelniony": true
     },
     {
       "nazwa": "Zawiera Błonnik Junior Pałeczki Wielozbożowe",
       "foto_przod": "IMG_9848.JPG",
       "foto_tyl": "IMG_9849.JPG",
-      "status": "zidentyfikowany"
+      "status": "zidentyfikowany",
+      "uzupelniony": true
     },
     {
       "nazwa": "Baton Warszawski (Ananas i Kokos)",
@@ -363,37 +390,43 @@
       "nazwa": "Box Vital Ciasteczka Marchewkowe",
       "foto_przod": "IMG_9852.JPG",
       "foto_tyl": "IMG_9853.JPG",
-      "status": "zidentyfikowany"
+      "status": "zidentyfikowany",
+      "uzupelniony": true
     },
     {
       "nazwa": "Cere Brownie Style Protein Organic Bar",
       "foto_przod": "IMG_9854.JPG",
       "foto_tyl": "IMG_9855.JPG",
-      "status": "zidentyfikowany"
+      "status": "zidentyfikowany",
+      "uzupelniony": true
     },
     {
       "nazwa": "Foods by Ann Energy Choco Bar Śliwka & Czarna Porzeczka",
       "foto_przod": "IMG_9856.JPG",
       "foto_tyl": "IMG_9857.JPG",
-      "status": "zidentyfikowany"
+      "status": "zidentyfikowany",
+      "uzupelniony": true
     },
     {
       "nazwa": "Dobra Kaloria Proteina Krem Orzechowy & Sól",
       "foto_przod": "IMG_9858.JPG",
       "foto_tyl": "IMG_9859.JPG",
-      "status": "zidentyfikowany"
+      "status": "zidentyfikowany",
+      "uzupelniony": true
     },
     {
       "nazwa": "Dobra Kaloria Proteina Mini Batoniki o smaku karmelu",
       "foto_przod": "IMG_9860.JPG",
       "foto_tyl": "IMG_9861.JPG",
-      "status": "zidentyfikowany"
+      "status": "zidentyfikowany",
+      "uzupelniony": true
     },
     {
       "nazwa": "Be Keto Keto Chips Swiss Cheese & French Onion",
       "foto_przod": "IMG_9862.JPG",
       "foto_tyl": "IMG_9863.JPG",
-      "status": "zidentyfikowany"
+      "status": "zidentyfikowany",
+      "uzupelniony": true
     },
     {
       "nazwa": "Owocal Bio Charsznickie Ogórki Kiszone",
@@ -441,7 +474,8 @@
       "nazwa": "Sondey Pop Corn Snack Wafle Kukurydziane smak Pizza",
       "foto_przod": "IMG_9925.JPG",
       "foto_tyl": "IMG_9926.JPG",
-      "status": "zidentyfikowany"
+      "status": "zidentyfikowany",
+      "uzupelniony": true
     },
     {
       "nazwa": "Piekarnia Lidla Hot Dog typu amerykańskiego",
@@ -474,7 +508,8 @@
       "nazwa": "Alesto RAW Kokos & Kakao",
       "foto_przod": "IMG_9938.JPG",
       "foto_tyl": "IMG_9939.JPG",
-      "status": "zidentyfikowany"
+      "status": "zidentyfikowany",
+      "uzupelniony": true
     },
     {
       "nazwa": "Deluxe Burrata di Bufala",
