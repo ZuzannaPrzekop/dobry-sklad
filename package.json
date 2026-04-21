@@ -7,6 +7,10 @@
     "preview": "npx serve ."
   },
   "devDependencies": {
+    "mammoth": "^1.12.0",
     "sharp": "^0.33.5"
+  },
+  "dependencies": {
+    "@imgly/background-removal-node": "^1.4.5"
   }
 }

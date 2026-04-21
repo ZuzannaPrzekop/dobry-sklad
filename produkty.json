@@ -27,6 +27,81 @@
             "Bl": "?",
             "S": "1,0"
           }
+        },
+        {
+          "nazwa": "Chef Select Pierogi z Mięsem (Kuchnia Polska)",
+          "zdjecie_przod": "Chef Select Pierogi z Mięsem.png",
+          "sklad": "b.d.",
+          "wartosci_odzywcze": {
+            "E_kcal": "b.d.",
+            "B": "b.d.",
+            "T": "b.d.",
+            "N": "b.d.",
+            "W": "b.d.",
+            "C": "b.d.",
+            "Bl": "b.d.",
+            "S": "b.d."
+          }
+        },
+        {
+          "nazwa": "Chef Select Pierogi Ruskie (Kuchnia Polska)",
+          "zdjecie_przod": "Chef Select Pierogi Ruskie.png",
+          "sklad": "b.d.",
+          "wartosci_odzywcze": {
+            "E_kcal": "b.d.",
+            "B": "b.d.",
+            "T": "b.d.",
+            "N": "b.d.",
+            "W": "b.d.",
+            "C": "b.d.",
+            "Bl": "b.d.",
+            "S": "b.d."
+          }
+        },
+        {
+          "nazwa": "Chef Select Tortelloni z Pomidorami i Mozzarellą",
+          "zdjecie_przod": "Chef Select Tortelloni z Pomidorami i Mozzarellą.png",
+          "sklad": "b.d.",
+          "wartosci_odzywcze": {
+            "E_kcal": "b.d.",
+            "B": "b.d.",
+            "T": "b.d.",
+            "N": "b.d.",
+            "W": "b.d.",
+            "C": "b.d.",
+            "Bl": "b.d.",
+            "S": "b.d."
+          }
+        },
+        {
+          "nazwa": "Vemondo Gyros Roślinny",
+          "zdjecie_przod": "Vemondo Gyros Roślinny.png",
+          "sklad": "b.d.",
+          "wartosci_odzywcze": {
+            "E_kcal": "b.d.",
+            "B": "b.d.",
+            "T": "b.d.",
+            "N": "b.d.",
+            "W": "b.d.",
+            "C": "b.d.",
+            "Bl": "b.d.",
+            "S": "b.d."
+          }
+        },
+        {
+          "nazwa": "Well Well Pasta Falafelowa",
+          "zdjecie_przod": "Well Well Pasta Falafelowa.png",
+          "sklad": "b.d.",
+          "wartosci_odzywcze": {
+            "E_kcal": "b.d.",
+            "B": "b.d.",
+            "T": "b.d.",
+            "N": "b.d.",
+            "W": "b.d.",
+            "C": "b.d.",
+            "Bl": "b.d.",
+            "S": "b.d."
+          }
         }
       ]
     },
@@ -166,6 +241,321 @@
             "C": "0",
             "Bl": "b.d.",
             "S": "0,4"
+          }
+        },
+        {
+          "nazwa": "Mazury Fish Szczupak w oliwie z oliwek",
+          "zdjecie_przod": "Mazury Fish Szczupak w oliwie z oliwek.png",
+          "sklad": "b.d.",
+          "wartosci_odzywcze": {
+            "E_kcal": "b.d.",
+            "B": "b.d.",
+            "T": "b.d.",
+            "N": "b.d.",
+            "W": "b.d.",
+            "C": "b.d.",
+            "Bl": "b.d.",
+            "S": "b.d."
+          }
+        },
+        {
+          "nazwa": "El Raño Małże w zalewie naturalnej",
+          "zdjecie_przod": "El Raño Małże w zalewie naturalnej.png",
+          "sklad": "b.d.",
+          "wartosci_odzywcze": {
+            "E_kcal": "b.d.",
+            "B": "b.d.",
+            "T": "b.d.",
+            "N": "b.d.",
+            "W": "b.d.",
+            "C": "b.d.",
+            "Bl": "b.d.",
+            "S": "b.d."
+          }
+        },
+        {
+          "nazwa": "Coargal Filety Anchois w oleju z oliwek",
+          "zdjecie_przod": "Coargal Filety Anchois w oleju z oliwek.png",
+          "sklad": "b.d.",
+          "wartosci_odzywcze": {
+            "E_kcal": "b.d.",
+            "B": "b.d.",
+            "T": "b.d.",
+            "N": "b.d.",
+            "W": "b.d.",
+            "C": "b.d.",
+            "Bl": "b.d.",
+            "S": "b.d."
+          }
+        },
+        {
+          "nazwa": "Mari de Sud Filety Anchois (słoik)",
+          "zdjecie_przod": "Mari de Sud Filety Anchois.png",
+          "sklad": "b.d.",
+          "wartosci_odzywcze": {
+            "E_kcal": "b.d.",
+            "B": "b.d.",
+            "T": "b.d.",
+            "N": "b.d.",
+            "W": "b.d.",
+            "C": "b.d.",
+            "Bl": "b.d.",
+            "S": "b.d."
+          }
+        },
+        {
+          "nazwa": "Nazarena Filety z Makreli w oliwie",
+          "zdjecie_przod": "Nazarena Filety z Makreli w oliwie.png",
+          "sklad": "b.d.",
+          "wartosci_odzywcze": {
+            "E_kcal": "b.d.",
+            "B": "b.d.",
+            "T": "b.d.",
+            "N": "b.d.",
+            "W": "b.d.",
+            "C": "b.d.",
+            "Bl": "b.d.",
+            "S": "b.d."
+          }
+        },
+        {
+          "nazwa": "Nazarena Tuńczyk w wodzie",
+          "zdjecie_przod": "Nazarena Tuńczyk w wodzie.png",
+          "sklad": "b.d.",
+          "wartosci_odzywcze": {
+            "E_kcal": "b.d.",
+            "B": "b.d.",
+            "T": "b.d.",
+            "N": "b.d.",
+            "W": "b.d.",
+            "C": "b.d.",
+            "Bl": "b.d.",
+            "S": "b.d."
+          }
+        },
+        {
+          "nazwa": "Nazarena Sardynki w sosie pomidorowym",
+          "zdjecie_przod": "Nazarena Sardynki w sosie pomidorowym.png",
+          "sklad": "b.d.",
+          "wartosci_odzywcze": {
+            "E_kcal": "b.d.",
+            "B": "b.d.",
+            "T": "b.d.",
+            "N": "b.d.",
+            "W": "b.d.",
+            "C": "b.d.",
+            "Bl": "b.d.",
+            "S": "b.d."
+          }
+        },
+        {
+          "nazwa": "Tenorio Filety tuńczyka ao natural",
+          "zdjecie_przod": "Tenorio Filety tuńczyka ao natural.png",
+          "sklad": "b.d.",
+          "wartosci_odzywcze": {
+            "E_kcal": "b.d.",
+            "B": "b.d.",
+            "T": "b.d.",
+            "N": "b.d.",
+            "W": "b.d.",
+            "C": "b.d.",
+            "Bl": "b.d.",
+            "S": "b.d."
+          }
+        },
+        {
+          "nazwa": "Emperatriz Tuńczyk Biały w oliwie z oliwek",
+          "zdjecie_przod": "Emperatriz Tuńczyk Biały w oliwie z oliwek.png",
+          "sklad": "b.d.",
+          "wartosci_odzywcze": {
+            "E_kcal": "b.d.",
+            "B": "b.d.",
+            "T": "b.d.",
+            "N": "b.d.",
+            "W": "b.d.",
+            "C": "b.d.",
+            "Bl": "b.d.",
+            "S": "b.d."
+          }
+        },
+        {
+          "nazwa": "Śledzie od Serca Filety Norweskie z pieprzem",
+          "zdjecie_przod": "Śledzie od Serca Filety Norweskie z pieprzem.png",
+          "sklad": "b.d.",
+          "wartosci_odzywcze": {
+            "E_kcal": "b.d.",
+            "B": "b.d.",
+            "T": "b.d.",
+            "N": "b.d.",
+            "W": "b.d.",
+            "C": "b.d.",
+            "Bl": "b.d.",
+            "S": "b.d."
+          }
+        },
+        {
+          "nazwa": "Mirko Śledź z Żurawiną (chłodzony)",
+          "zdjecie_przod": "Mirko Śledź z Żurawiną.png",
+          "sklad": "b.d.",
+          "wartosci_odzywcze": {
+            "E_kcal": "b.d.",
+            "B": "b.d.",
+            "T": "b.d.",
+            "N": "b.d.",
+            "W": "b.d.",
+            "C": "b.d.",
+            "Bl": "b.d.",
+            "S": "b.d."
+          }
+        },
+        {
+          "nazwa": "Auchan Filet z Pstrąga wędzony naturalny",
+          "zdjecie_przod": "Auchan Filet z Pstrąga wędzony naturalny.png",
+          "sklad": "b.d.",
+          "wartosci_odzywcze": {
+            "E_kcal": "b.d.",
+            "B": "b.d.",
+            "T": "b.d.",
+            "N": "b.d.",
+            "W": "b.d.",
+            "C": "b.d.",
+            "Bl": "b.d.",
+            "S": "b.d."
+          }
+        },
+        {
+          "nazwa": "Auchan Filet z Pstrąga z Pieprzem wędzony",
+          "zdjecie_przod": "Auchan Filet z Pstrąga z Pieprzem wędzony.png",
+          "sklad": "b.d.",
+          "wartosci_odzywcze": {
+            "E_kcal": "b.d.",
+            "B": "b.d.",
+            "T": "b.d.",
+            "N": "b.d.",
+            "W": "b.d.",
+            "C": "b.d.",
+            "Bl": "b.d.",
+            "S": "b.d."
+          }
+        },
+        {
+          "nazwa": "Suempol Łosoś Atlantycki wędzony na zimno",
+          "zdjecie_przod": "Suempol Łosoś Atlantycki wędzony na zimno.png",
+          "sklad": "b.d.",
+          "wartosci_odzywcze": {
+            "E_kcal": "b.d.",
+            "B": "b.d.",
+            "T": "b.d.",
+            "N": "b.d.",
+            "W": "b.d.",
+            "C": "b.d.",
+            "Bl": "b.d.",
+            "S": "b.d."
+          }
+        },
+        {
+          "nazwa": "Mowi Signature Łosoś wędzony na gorąco",
+          "zdjecie_przod": "Mowi Signature Łosoś wędzony na gorąco.png",
+          "sklad": "b.d.",
+          "wartosci_odzywcze": {
+            "E_kcal": "b.d.",
+            "B": "b.d.",
+            "T": "b.d.",
+            "N": "b.d.",
+            "W": "b.d.",
+            "C": "b.d.",
+            "Bl": "b.d.",
+            "S": "b.d."
+          }
+        },
+        {
+          "nazwa": "Connoisseur Łosoś wędzony na gorąco",
+          "zdjecie_przod": "Connoisseur Łosoś wędzony na gorąco.png",
+          "sklad": "b.d.",
+          "wartosci_odzywcze": {
+            "E_kcal": "b.d.",
+            "B": "b.d.",
+            "T": "b.d.",
+            "N": "b.d.",
+            "W": "b.d.",
+            "C": "b.d.",
+            "Bl": "b.d.",
+            "S": "b.d."
+          }
+        },
+        {
+          "nazwa": "Seamor Halibut wędzony na gorąco",
+          "zdjecie_przod": "Seamor Halibut wędzony na gorąco.png",
+          "sklad": "b.d.",
+          "wartosci_odzywcze": {
+            "E_kcal": "b.d.",
+            "B": "b.d.",
+            "T": "b.d.",
+            "N": "b.d.",
+            "W": "b.d.",
+            "C": "b.d.",
+            "Bl": "b.d.",
+            "S": "b.d."
+          }
+        },
+        {
+          "nazwa": "Seamor Trewal wędzony na gorąco",
+          "zdjecie_przod": "Seamor Trewal wędzony na gorąco.png",
+          "sklad": "b.d.",
+          "wartosci_odzywcze": {
+            "E_kcal": "b.d.",
+            "B": "b.d.",
+            "T": "b.d.",
+            "N": "b.d.",
+            "W": "b.d.",
+            "C": "b.d.",
+            "Bl": "b.d.",
+            "S": "b.d."
+          }
+        },
+        {
+          "nazwa": "Seamor Sieja Kanadyjska wędzona na gorąco",
+          "zdjecie_przod": "Seamor Sieja Kanadyjska wędzona na gorąco.png",
+          "sklad": "b.d.",
+          "wartosci_odzywcze": {
+            "E_kcal": "b.d.",
+            "B": "b.d.",
+            "T": "b.d.",
+            "N": "b.d.",
+            "W": "b.d.",
+            "C": "b.d.",
+            "Bl": "b.d.",
+            "S": "b.d."
+          }
+        },
+        {
+          "nazwa": "Pikok Pure Szynka Wieprzowa 95%",
+          "zdjecie_przod": "Pikok Pure Szynka Wieprzowa.png",
+          "sklad": "b.d.",
+          "wartosci_odzywcze": {
+            "E_kcal": "b.d.",
+            "B": "b.d.",
+            "T": "b.d.",
+            "N": "b.d.",
+            "W": "b.d.",
+            "C": "b.d.",
+            "Bl": "b.d.",
+            "S": "b.d."
+          }
+        },
+        {
+          "nazwa": "Italiamo Prosciutto di Parma DOP",
+          "zdjecie_przod": "Italiamo Prosciutto di Parma DOP.png",
+          "sklad": "b.d.",
+          "wartosci_odzywcze": {
+            "E_kcal": "b.d.",
+            "B": "b.d.",
+            "T": "b.d.",
+            "N": "b.d.",
+            "W": "b.d.",
+            "C": "b.d.",
+            "Bl": "b.d.",
+            "S": "b.d."
           }
         }
       ]
@@ -321,6 +711,141 @@
             "C": "12",
             "Bl": "0,6",
             "S": "0,02"
+          }
+        },
+        {
+          "nazwa": "Deluxe Burrata di Bufala",
+          "zdjecie_przod": "Deluxe Burrata di Bufala.png",
+          "sklad": "b.d.",
+          "wartosci_odzywcze": {
+            "E_kcal": "b.d.",
+            "B": "b.d.",
+            "T": "b.d.",
+            "N": "b.d.",
+            "W": "b.d.",
+            "C": "b.d.",
+            "Bl": "b.d.",
+            "S": "b.d."
+          }
+        },
+        {
+          "nazwa": "Milbona Free From Lactose Burrata",
+          "zdjecie_przod": "Milbona Free From Lactose Burrata.png",
+          "sklad": "b.d.",
+          "wartosci_odzywcze": {
+            "E_kcal": "b.d.",
+            "B": "b.d.",
+            "T": "b.d.",
+            "N": "b.d.",
+            "W": "b.d.",
+            "C": "b.d.",
+            "Bl": "b.d.",
+            "S": "b.d."
+          }
+        },
+        {
+          "nazwa": "Milbona Free From Lactose Mascarpone",
+          "zdjecie_przod": "Milbona Free From Lactose Mascarpone.png",
+          "sklad": "b.d.",
+          "wartosci_odzywcze": {
+            "E_kcal": "b.d.",
+            "B": "b.d.",
+            "T": "b.d.",
+            "N": "b.d.",
+            "W": "b.d.",
+            "C": "b.d.",
+            "Bl": "b.d.",
+            "S": "b.d."
+          }
+        },
+        {
+          "nazwa": "Lublanka Twaróg z Bychawy tłusty",
+          "zdjecie_przod": "Lublanka Twaróg z Bychawy tłusty.png",
+          "sklad": "b.d.",
+          "wartosci_odzywcze": {
+            "E_kcal": "b.d.",
+            "B": "b.d.",
+            "T": "b.d.",
+            "N": "b.d.",
+            "W": "b.d.",
+            "C": "b.d.",
+            "Bl": "b.d.",
+            "S": "b.d."
+          }
+        },
+        {
+          "nazwa": "Piłos Serek Wiejski Lekki 3%",
+          "zdjecie_przod": "Piłos Serek Wiejski Lekki.png",
+          "sklad": "b.d.",
+          "wartosci_odzywcze": {
+            "E_kcal": "b.d.",
+            "B": "b.d.",
+            "T": "b.d.",
+            "N": "b.d.",
+            "W": "b.d.",
+            "C": "b.d.",
+            "Bl": "b.d.",
+            "S": "b.d."
+          }
+        },
+        {
+          "nazwa": "Cambozola (ser niemiecki)",
+          "zdjecie_przod": "Cambozola.png",
+          "sklad": "b.d.",
+          "wartosci_odzywcze": {
+            "E_kcal": "b.d.",
+            "B": "b.d.",
+            "T": "b.d.",
+            "N": "b.d.",
+            "W": "b.d.",
+            "C": "b.d.",
+            "Bl": "b.d.",
+            "S": "b.d."
+          }
+        },
+        {
+          "nazwa": "Le Gruyère (ser szwajcarski)",
+          "zdjecie_przod": "Le Gruyère.png",
+          "sklad": "b.d.",
+          "wartosci_odzywcze": {
+            "E_kcal": "b.d.",
+            "B": "b.d.",
+            "T": "b.d.",
+            "N": "b.d.",
+            "W": "b.d.",
+            "C": "b.d.",
+            "Bl": "b.d.",
+            "S": "b.d."
+          }
+        },
+        {
+          "nazwa": "Feta Grecki Ser Sałatkowy",
+          "zdjecie_przod": "Feta Grecki Ser Sałatkowy.png",
+          "sklad": "b.d.",
+          "wartosci_odzywcze": {
+            "E_kcal": "b.d.",
+            "B": "b.d.",
+            "T": "b.d.",
+            "N": "b.d.",
+            "W": "b.d.",
+            "C": "b.d.",
+            "Bl": "b.d.",
+            "S": "b.d."
+          }
+        },
+        {
+          "nazwa": "Vemondo Tofu",
+          "zdjecie_przod": "Vemondo Tofu.png",
+          "sklad": "b.d.",
+          "wartosci_odzywcze": {
+            "E_kcal": "b.d.",
+            "B": "b.d.",
+            "T": "b.d.",
+            "N": "b.d.",
+            "W": "b.d.",
+            "C": "b.d.",
+            "Bl": "b.d.",
+            "S": "b.d."
           }
         }
       ]
@@ -657,6 +1182,111 @@
             "Bl": "4,8",
             "S": "1,2"
           }
+        },
+        {
+          "nazwa": "Piekarnia Lidla Chleb Złocisty Pszenno-Żytni",
+          "zdjecie_przod": "Piekarnia Lidla Chleb Złocisty Pszenno-Żytni.png",
+          "sklad": "b.d.",
+          "wartosci_odzywcze": {
+            "E_kcal": "b.d.",
+            "B": "b.d.",
+            "T": "b.d.",
+            "N": "b.d.",
+            "W": "b.d.",
+            "C": "b.d.",
+            "Bl": "b.d.",
+            "S": "b.d."
+          }
+        },
+        {
+          "nazwa": "Tastino Chrupkie Pieczywo Żytnie z Sezamem",
+          "zdjecie_przod": "Tastino Chrupkie Pieczywo Żytnie z Sezamem.png",
+          "sklad": "b.d.",
+          "wartosci_odzywcze": {
+            "E_kcal": "b.d.",
+            "B": "b.d.",
+            "T": "b.d.",
+            "N": "b.d.",
+            "W": "b.d.",
+            "C": "b.d.",
+            "Bl": "b.d.",
+            "S": "b.d."
+          }
+        },
+        {
+          "nazwa": "Tastino Chrupkie Pieczywo Żytnie",
+          "zdjecie_przod": "Tastino Chrupkie Pieczywo Żytnie.png",
+          "sklad": "b.d.",
+          "wartosci_odzywcze": {
+            "E_kcal": "b.d.",
+            "B": "b.d.",
+            "T": "b.d.",
+            "N": "b.d.",
+            "W": "b.d.",
+            "C": "b.d.",
+            "Bl": "b.d.",
+            "S": "b.d."
+          }
+        },
+        {
+          "nazwa": "Piekarnia Lidla Chleb Żytni z Ziarnami Żyta",
+          "zdjecie_przod": "Piekarnia Lidla Chleb Żytni z Ziarnami Żyta.png",
+          "sklad": "b.d.",
+          "wartosci_odzywcze": {
+            "E_kcal": "b.d.",
+            "B": "b.d.",
+            "T": "b.d.",
+            "N": "b.d.",
+            "W": "b.d.",
+            "C": "b.d.",
+            "Bl": "b.d.",
+            "S": "b.d."
+          }
+        },
+        {
+          "nazwa": "Piekarnia Lidla Burger z Nasionami Sezamu",
+          "zdjecie_przod": "Piekarnia Lidla Burger z Nasionami Sezamu.png",
+          "sklad": "b.d.",
+          "wartosci_odzywcze": {
+            "E_kcal": "b.d.",
+            "B": "b.d.",
+            "T": "b.d.",
+            "N": "b.d.",
+            "W": "b.d.",
+            "C": "b.d.",
+            "Bl": "b.d.",
+            "S": "b.d."
+          }
+        },
+        {
+          "nazwa": "Piekarnia Lidla Hot Dog amerykański",
+          "zdjecie_przod": "Piekarnia Lidla Hot Dog amerykański.png",
+          "sklad": "b.d.",
+          "wartosci_odzywcze": {
+            "E_kcal": "b.d.",
+            "B": "b.d.",
+            "T": "b.d.",
+            "N": "b.d.",
+            "W": "b.d.",
+            "C": "b.d.",
+            "Bl": "b.d.",
+            "S": "b.d."
+          }
+        },
+        {
+          "nazwa": "Piekarnia Lidla Pinsa Pełnoziarnista Flat Bread",
+          "zdjecie_przod": "Piekarnia Lidla Pinsa Pełnoziarnista.png",
+          "sklad": "b.d.",
+          "wartosci_odzywcze": {
+            "E_kcal": "b.d.",
+            "B": "b.d.",
+            "T": "b.d.",
+            "N": "b.d.",
+            "W": "b.d.",
+            "C": "b.d.",
+            "Bl": "b.d.",
+            "S": "b.d."
+          }
         }
       ]
     },
@@ -752,6 +1382,576 @@
             "Bl": "b.d.",
             "S": "1,5"
           }
+        },
+        {
+          "nazwa": "Auchan Musli Owocowe Polskie Owoce",
+          "zdjecie_przod": "Auchan Musli Owocowe Polskie Owoce.png",
+          "sklad": "b.d.",
+          "wartosci_odzywcze": {
+            "E_kcal": "b.d.",
+            "B": "b.d.",
+            "T": "b.d.",
+            "N": "b.d.",
+            "W": "b.d.",
+            "C": "b.d.",
+            "Bl": "b.d.",
+            "S": "b.d."
+          }
+        },
+        {
+          "nazwa": "Vivi Musli tropikalne",
+          "zdjecie_przod": "Vivi Musli tropikalne.png",
+          "sklad": "b.d.",
+          "wartosci_odzywcze": {
+            "E_kcal": "b.d.",
+            "B": "b.d.",
+            "T": "b.d.",
+            "N": "b.d.",
+            "W": "b.d.",
+            "C": "b.d.",
+            "Bl": "b.d.",
+            "S": "b.d."
+          }
+        },
+        {
+          "nazwa": "One Day More Muesli Fruit",
+          "zdjecie_przod": "One Day More Muesli Fruit.png",
+          "sklad": "b.d.",
+          "wartosci_odzywcze": {
+            "E_kcal": "b.d.",
+            "B": "b.d.",
+            "T": "b.d.",
+            "N": "b.d.",
+            "W": "b.d.",
+            "C": "b.d.",
+            "Bl": "b.d.",
+            "S": "b.d."
+          }
+        },
+        {
+          "nazwa": "One Day More Oatmeal Apple & Cinnamon",
+          "zdjecie_przod": "One Day More Oatmeal Apple and Cinnamon.png",
+          "sklad": "b.d.",
+          "wartosci_odzywcze": {
+            "E_kcal": "b.d.",
+            "B": "b.d.",
+            "T": "b.d.",
+            "N": "b.d.",
+            "W": "b.d.",
+            "C": "b.d.",
+            "Bl": "b.d.",
+            "S": "b.d."
+          }
+        },
+        {
+          "nazwa": "Auchan Wafle Ryżowe Naturalne (białe)",
+          "zdjecie_przod": "Auchan Wafle Ryżowe Naturalne białe.png",
+          "sklad": "b.d.",
+          "wartosci_odzywcze": {
+            "E_kcal": "b.d.",
+            "B": "b.d.",
+            "T": "b.d.",
+            "N": "b.d.",
+            "W": "b.d.",
+            "C": "b.d.",
+            "Bl": "b.d.",
+            "S": "b.d."
+          }
+        },
+        {
+          "nazwa": "Auchan Wafle Ryżowe Naturalne (brązowe)",
+          "zdjecie_przod": "Auchan Wafle Ryżowe Naturalne brązowe.png",
+          "sklad": "b.d.",
+          "wartosci_odzywcze": {
+            "E_kcal": "b.d.",
+            "B": "b.d.",
+            "T": "b.d.",
+            "N": "b.d.",
+            "W": "b.d.",
+            "C": "b.d.",
+            "Bl": "b.d.",
+            "S": "b.d."
+          }
+        },
+        {
+          "nazwa": "Sante Extra Cienkie Wafle Ryżowe",
+          "zdjecie_przod": "Sante Extra Cienkie Wafle Ryżowe.png",
+          "sklad": "b.d.",
+          "wartosci_odzywcze": {
+            "E_kcal": "b.d.",
+            "B": "b.d.",
+            "T": "b.d.",
+            "N": "b.d.",
+            "W": "b.d.",
+            "C": "b.d.",
+            "Bl": "b.d.",
+            "S": "b.d."
+          }
+        },
+        {
+          "nazwa": "Sonko Wafle Ryżowe Naturalne",
+          "zdjecie_przod": "Sonko Wafle Ryżowe Naturalne.png",
+          "sklad": "b.d.",
+          "wartosci_odzywcze": {
+            "E_kcal": "b.d.",
+            "B": "b.d.",
+            "T": "b.d.",
+            "N": "b.d.",
+            "W": "b.d.",
+            "C": "b.d.",
+            "Bl": "b.d.",
+            "S": "b.d."
+          }
+        },
+        {
+          "nazwa": "EuroWafki Waflitki Kukurydziane",
+          "zdjecie_przod": "EuroWafki Waflitki Kukurydziane.png",
+          "sklad": "b.d.",
+          "wartosci_odzywcze": {
+            "E_kcal": "b.d.",
+            "B": "b.d.",
+            "T": "b.d.",
+            "N": "b.d.",
+            "W": "b.d.",
+            "C": "b.d.",
+            "Bl": "b.d.",
+            "S": "b.d."
+          }
+        },
+        {
+          "nazwa": "Głodny Wilk Owocowe Puzzle Truskawka",
+          "zdjecie_przod": "Głodny Wilk Owocowe Puzzle Truskawka.png",
+          "sklad": "b.d.",
+          "wartosci_odzywcze": {
+            "E_kcal": "b.d.",
+            "B": "b.d.",
+            "T": "b.d.",
+            "N": "b.d.",
+            "W": "b.d.",
+            "C": "b.d.",
+            "Bl": "b.d.",
+            "S": "b.d."
+          }
+        },
+        {
+          "nazwa": "Irenki OatŁanki Ciastka z Żurawiną",
+          "zdjecie_przod": "Irenki OatŁanki Ciastka z Żurawiną.png",
+          "sklad": "b.d.",
+          "wartosci_odzywcze": {
+            "E_kcal": "b.d.",
+            "B": "b.d.",
+            "T": "b.d.",
+            "N": "b.d.",
+            "W": "b.d.",
+            "C": "b.d.",
+            "Bl": "b.d.",
+            "S": "b.d."
+          }
+        },
+        {
+          "nazwa": "Irenki OatŁanki Ciastka z Czekoladą",
+          "zdjecie_przod": "Irenki OatŁanki Ciastka z Czekoladą.png",
+          "sklad": "b.d.",
+          "wartosci_odzywcze": {
+            "E_kcal": "b.d.",
+            "B": "b.d.",
+            "T": "b.d.",
+            "N": "b.d.",
+            "W": "b.d.",
+            "C": "b.d.",
+            "Bl": "b.d.",
+            "S": "b.d."
+          }
+        },
+        {
+          "nazwa": "Sante Fit Ciasteczka Zbożowe z Jagodą",
+          "zdjecie_przod": "Sante Fit Ciasteczka Zbożowe z Jagodą.png",
+          "sklad": "b.d.",
+          "wartosci_odzywcze": {
+            "E_kcal": "b.d.",
+            "B": "b.d.",
+            "T": "b.d.",
+            "N": "b.d.",
+            "W": "b.d.",
+            "C": "b.d.",
+            "Bl": "b.d.",
+            "S": "b.d."
+          }
+        },
+        {
+          "nazwa": "Sante Fit Ciasteczka Zbożowe z Morelą",
+          "zdjecie_przod": "Sante Fit Ciasteczka Zbożowe z Morelą.png",
+          "sklad": "b.d.",
+          "wartosci_odzywcze": {
+            "E_kcal": "b.d.",
+            "B": "b.d.",
+            "T": "b.d.",
+            "N": "b.d.",
+            "W": "b.d.",
+            "C": "b.d.",
+            "Bl": "b.d.",
+            "S": "b.d."
+          }
+        },
+        {
+          "nazwa": "Kopernik Pierniki Toruńskie Śliwka",
+          "zdjecie_przod": "Kopernik Pierniki Toruńskie Śliwka.png",
+          "sklad": "b.d.",
+          "wartosci_odzywcze": {
+            "E_kcal": "b.d.",
+            "B": "b.d.",
+            "T": "b.d.",
+            "N": "b.d.",
+            "W": "b.d.",
+            "C": "b.d.",
+            "Bl": "b.d.",
+            "S": "b.d."
+          }
+        },
+        {
+          "nazwa": "Kopernik Serca Piernikowe z Czekoladą i Miodem",
+          "zdjecie_przod": "Kopernik Serca Piernikowe z Czekoladą i Miodem.png",
+          "sklad": "b.d.",
+          "wartosci_odzywcze": {
+            "E_kcal": "b.d.",
+            "B": "b.d.",
+            "T": "b.d.",
+            "N": "b.d.",
+            "W": "b.d.",
+            "C": "b.d.",
+            "Bl": "b.d.",
+            "S": "b.d."
+          }
+        },
+        {
+          "nazwa": "Kopernik Torcik Piernikowy smak limonki",
+          "zdjecie_przod": "Kopernik Torcik Piernikowy limonka.png",
+          "sklad": "b.d.",
+          "wartosci_odzywcze": {
+            "E_kcal": "b.d.",
+            "B": "b.d.",
+            "T": "b.d.",
+            "N": "b.d.",
+            "W": "b.d.",
+            "C": "b.d.",
+            "Bl": "b.d.",
+            "S": "b.d."
+          }
+        },
+        {
+          "nazwa": "Eat Real Veggie Straws (pomidor, jarmuż, szpinak)",
+          "zdjecie_przod": "Eat Real Veggie Straws.png",
+          "sklad": "b.d.",
+          "wartosci_odzywcze": {
+            "E_kcal": "b.d.",
+            "B": "b.d.",
+            "T": "b.d.",
+            "N": "b.d.",
+            "W": "b.d.",
+            "C": "b.d.",
+            "Bl": "b.d.",
+            "S": "b.d."
+          }
+        },
+        {
+          "nazwa": "Eat Real Quinoa Chips Sour Cream & Chive",
+          "zdjecie_przod": "Eat Real Quinoa Chips Sour Cream and Chive.png",
+          "sklad": "b.d.",
+          "wartosci_odzywcze": {
+            "E_kcal": "b.d.",
+            "B": "b.d.",
+            "T": "b.d.",
+            "N": "b.d.",
+            "W": "b.d.",
+            "C": "b.d.",
+            "Bl": "b.d.",
+            "S": "b.d."
+          }
+        },
+        {
+          "nazwa": "Biosaurus Chrupki Kukurydziane Ketchup",
+          "zdjecie_przod": "Biosaurus Chrupki Kukurydziane Ketchup.png",
+          "sklad": "b.d.",
+          "wartosci_odzywcze": {
+            "E_kcal": "b.d.",
+            "B": "b.d.",
+            "T": "b.d.",
+            "N": "b.d.",
+            "W": "b.d.",
+            "C": "b.d.",
+            "Bl": "b.d.",
+            "S": "b.d."
+          }
+        },
+        {
+          "nazwa": "Biosaurus Chrupki Kukurydziane Sea Salt",
+          "zdjecie_przod": "Biosaurus Chrupki Kukurydziane Sea Salt.png",
+          "sklad": "b.d.",
+          "wartosci_odzywcze": {
+            "E_kcal": "b.d.",
+            "B": "b.d.",
+            "T": "b.d.",
+            "N": "b.d.",
+            "W": "b.d.",
+            "C": "b.d.",
+            "Bl": "b.d.",
+            "S": "b.d."
+          }
+        },
+        {
+          "nazwa": "Gullón Zero Sugar Free Short Bread",
+          "zdjecie_przod": "Gullón Zero Sugar Free Short Bread.png",
+          "sklad": "b.d.",
+          "wartosci_odzywcze": {
+            "E_kcal": "b.d.",
+            "B": "b.d.",
+            "T": "b.d.",
+            "N": "b.d.",
+            "W": "b.d.",
+            "C": "b.d.",
+            "Bl": "b.d.",
+            "S": "b.d."
+          }
+        },
+        {
+          "nazwa": "Dobra Kaloria Mini Batoniki Odporność Żurawina",
+          "zdjecie_przod": "Dobra Kaloria Mini Batoniki Odporność Żurawina.png",
+          "sklad": "b.d.",
+          "wartosci_odzywcze": {
+            "E_kcal": "b.d.",
+            "B": "b.d.",
+            "T": "b.d.",
+            "N": "b.d.",
+            "W": "b.d.",
+            "C": "b.d.",
+            "Bl": "b.d.",
+            "S": "b.d."
+          }
+        },
+        {
+          "nazwa": "Sens Cricket Protein Bar Dark Chocolate & Sour Cherry",
+          "zdjecie_przod": "Sens Cricket Protein Bar Dark Chocolate and Sour Cherry.png",
+          "sklad": "b.d.",
+          "wartosci_odzywcze": {
+            "E_kcal": "b.d.",
+            "B": "b.d.",
+            "T": "b.d.",
+            "N": "b.d.",
+            "W": "b.d.",
+            "C": "b.d.",
+            "Bl": "b.d.",
+            "S": "b.d."
+          }
+        },
+        {
+          "nazwa": "Dobra Kaloria Chrupiący Orzech",
+          "zdjecie_przod": "Dobra Kaloria Chrupiący Orzech.png",
+          "sklad": "b.d.",
+          "wartosci_odzywcze": {
+            "E_kcal": "b.d.",
+            "B": "b.d.",
+            "T": "b.d.",
+            "N": "b.d.",
+            "W": "b.d.",
+            "C": "b.d.",
+            "Bl": "b.d.",
+            "S": "b.d."
+          }
+        },
+        {
+          "nazwa": "Dobra Kaloria Nerkowce & Kokos",
+          "zdjecie_przod": "Dobra Kaloria Nerkowce Kokos.png",
+          "sklad": "b.d.",
+          "wartosci_odzywcze": {
+            "E_kcal": "b.d.",
+            "B": "b.d.",
+            "T": "b.d.",
+            "N": "b.d.",
+            "W": "b.d.",
+            "C": "b.d.",
+            "Bl": "b.d.",
+            "S": "b.d."
+          }
+        },
+        {
+          "nazwa": "Dobra Kaloria Mini Batoniki Dla Serca Wiśnia",
+          "zdjecie_przod": "Dobra Kaloria Mini Batoniki Dla Serca Wiśnia.png",
+          "sklad": "b.d.",
+          "wartosci_odzywcze": {
+            "E_kcal": "b.d.",
+            "B": "b.d.",
+            "T": "b.d.",
+            "N": "b.d.",
+            "W": "b.d.",
+            "C": "b.d.",
+            "Bl": "b.d.",
+            "S": "b.d."
+          }
+        },
+        {
+          "nazwa": "Sens Pea Cricket Protein Chips Poppy Seeds & Sea Salt",
+          "zdjecie_przod": "Sens Pea Cricket Protein Chips Poppy Seeds and Sea Salt.png",
+          "sklad": "b.d.",
+          "wartosci_odzywcze": {
+            "E_kcal": "b.d.",
+            "B": "b.d.",
+            "T": "b.d.",
+            "N": "b.d.",
+            "W": "b.d.",
+            "C": "b.d.",
+            "Bl": "b.d.",
+            "S": "b.d."
+          }
+        },
+        {
+          "nazwa": "Zawiera Błonnik Junior Pałeczki Wielozbożowe",
+          "zdjecie_przod": "Zawiera Błonnik Junior Pałeczki Wielozbożowe.png",
+          "sklad": "b.d.",
+          "wartosci_odzywcze": {
+            "E_kcal": "b.d.",
+            "B": "b.d.",
+            "T": "b.d.",
+            "N": "b.d.",
+            "W": "b.d.",
+            "C": "b.d.",
+            "Bl": "b.d.",
+            "S": "b.d."
+          }
+        },
+        {
+          "nazwa": "Box Vital Ciasteczka Marchewkowe",
+          "zdjecie_przod": "Box Vital Ciasteczka Marchewkowe.png",
+          "sklad": "b.d.",
+          "wartosci_odzywcze": {
+            "E_kcal": "b.d.",
+            "B": "b.d.",
+            "T": "b.d.",
+            "N": "b.d.",
+            "W": "b.d.",
+            "C": "b.d.",
+            "Bl": "b.d.",
+            "S": "b.d."
+          }
+        },
+        {
+          "nazwa": "Cere Brownie Style Protein Organic Bar",
+          "zdjecie_przod": "Cere Brownie Style Protein Organic Bar.png",
+          "sklad": "b.d.",
+          "wartosci_odzywcze": {
+            "E_kcal": "b.d.",
+            "B": "b.d.",
+            "T": "b.d.",
+            "N": "b.d.",
+            "W": "b.d.",
+            "C": "b.d.",
+            "Bl": "b.d.",
+            "S": "b.d."
+          }
+        },
+        {
+          "nazwa": "Foods by Ann Energy Choco Bar Śliwka & Czarna Porzeczka",
+          "zdjecie_przod": "Foods by Ann Energy Choco Bar Śliwka Czarna Porzeczka.png",
+          "sklad": "b.d.",
+          "wartosci_odzywcze": {
+            "E_kcal": "b.d.",
+            "B": "b.d.",
+            "T": "b.d.",
+            "N": "b.d.",
+            "W": "b.d.",
+            "C": "b.d.",
+            "Bl": "b.d.",
+            "S": "b.d."
+          }
+        },
+        {
+          "nazwa": "Dobra Kaloria Proteina Krem Orzechowy & Sól",
+          "zdjecie_przod": "Dobra Kaloria Proteina Krem Orzechowy Sól.png",
+          "sklad": "b.d.",
+          "wartosci_odzywcze": {
+            "E_kcal": "b.d.",
+            "B": "b.d.",
+            "T": "b.d.",
+            "N": "b.d.",
+            "W": "b.d.",
+            "C": "b.d.",
+            "Bl": "b.d.",
+            "S": "b.d."
+          }
+        },
+        {
+          "nazwa": "Dobra Kaloria Proteina Mini Batoniki o smaku karmelu",
+          "zdjecie_przod": "Dobra Kaloria Proteina Mini Batoniki karmel.png",
+          "sklad": "b.d.",
+          "wartosci_odzywcze": {
+            "E_kcal": "b.d.",
+            "B": "b.d.",
+            "T": "b.d.",
+            "N": "b.d.",
+            "W": "b.d.",
+            "C": "b.d.",
+            "Bl": "b.d.",
+            "S": "b.d."
+          }
+        },
+        {
+          "nazwa": "Be Keto Keto Chips Swiss Cheese & French Onion",
+          "zdjecie_przod": "Be Keto Keto Chips Swiss Cheese French Onion.png",
+          "sklad": "b.d.",
+          "wartosci_odzywcze": {
+            "E_kcal": "b.d.",
+            "B": "b.d.",
+            "T": "b.d.",
+            "N": "b.d.",
+            "W": "b.d.",
+            "C": "b.d.",
+            "Bl": "b.d.",
+            "S": "b.d."
+          }
+        },
+        {
+          "nazwa": "Alesto RAW Kokos & Kakao",
+          "zdjecie_przod": "Alesto RAW Kokos Kakao.png",
+          "sklad": "b.d.",
+          "wartosci_odzywcze": {
+            "E_kcal": "b.d.",
+            "B": "b.d.",
+            "T": "b.d.",
+            "N": "b.d.",
+            "W": "b.d.",
+            "C": "b.d.",
+            "Bl": "b.d.",
+            "S": "b.d."
+          }
+        },
+        {
+          "nazwa": "Sondey Pop Corn Snack Wafle Kukurydziane smak Pizza",
+          "zdjecie_przod": "Sondey Pop Corn Snack Pizza.png",
+          "sklad": "b.d.",
+          "wartosci_odzywcze": {
+            "E_kcal": "b.d.",
+            "B": "b.d.",
+            "T": "b.d.",
+            "N": "b.d.",
+            "W": "b.d.",
+            "C": "b.d.",
+            "Bl": "b.d.",
+            "S": "b.d."
+          }
+        },
+        {
+          "nazwa": "Maple Joe Syrop Klonowy Amber Rich",
+          "zdjecie_przod": "Maple Joe Syrop Klonowy Amber Rich.png",
+          "sklad": "b.d.",
+          "wartosci_odzywcze": {
+            "E_kcal": "b.d.",
+            "B": "b.d.",
+            "T": "b.d.",
+            "N": "b.d.",
+            "W": "b.d.",
+            "C": "b.d.",
+            "Bl": "b.d.",
+            "S": "b.d."
+          }
         }
       ]
     },
@@ -771,6 +1971,96 @@
             "C": "10",
             "Bl": "—",
             "S": "0"
+          }
+        },
+        {
+          "nazwa": "Słońce WOW Smoothie Keen for Green (Banan, Szpinak, Jęczmień)",
+          "zdjecie_przod": "Słońce WOW Smoothie Keen for Green.png",
+          "sklad": "b.d.",
+          "wartosci_odzywcze": {
+            "E_kcal": "b.d.",
+            "B": "b.d.",
+            "T": "b.d.",
+            "N": "b.d.",
+            "W": "b.d.",
+            "C": "b.d.",
+            "Bl": "b.d.",
+            "S": "b.d."
+          }
+        },
+        {
+          "nazwa": "Solevita Smoothie Strawberry & Friends",
+          "zdjecie_przod": "Solevita Smoothie Strawberry and Friends.png",
+          "sklad": "b.d.",
+          "wartosci_odzywcze": {
+            "E_kcal": "b.d.",
+            "B": "b.d.",
+            "T": "b.d.",
+            "N": "b.d.",
+            "W": "b.d.",
+            "C": "b.d.",
+            "Bl": "b.d.",
+            "S": "b.d."
+          }
+        },
+        {
+          "nazwa": "Solevita Smoothie Pomarańcza Mango Mandarynka",
+          "zdjecie_przod": "Solevita Smoothie Pomarańcza Mango Mandarynka.png",
+          "sklad": "b.d.",
+          "wartosci_odzywcze": {
+            "E_kcal": "b.d.",
+            "B": "b.d.",
+            "T": "b.d.",
+            "N": "b.d.",
+            "W": "b.d.",
+            "C": "b.d.",
+            "Bl": "b.d.",
+            "S": "b.d."
+          }
+        },
+        {
+          "nazwa": "Cymes Tłocznia Sok Dnia Burak Jabłko",
+          "zdjecie_przod": "Cymes Tłocznia Sok Burak Jabłko.png",
+          "sklad": "b.d.",
+          "wartosci_odzywcze": {
+            "E_kcal": "b.d.",
+            "B": "b.d.",
+            "T": "b.d.",
+            "N": "b.d.",
+            "W": "b.d.",
+            "C": "b.d.",
+            "Bl": "b.d.",
+            "S": "b.d."
+          }
+        },
+        {
+          "nazwa": "Cymes Tłocznia Sok świeża Marchewka Pomarańcza Jabłko",
+          "zdjecie_przod": "Cymes Tłocznia Sok Marchewka Pomarańcza Jabłko.png",
+          "sklad": "b.d.",
+          "wartosci_odzywcze": {
+            "E_kcal": "b.d.",
+            "B": "b.d.",
+            "T": "b.d.",
+            "N": "b.d.",
+            "W": "b.d.",
+            "C": "b.d.",
+            "Bl": "b.d.",
+            "S": "b.d."
+          }
+        },
+        {
+          "nazwa": "Solevita Sok 100% Pomarańcza Kiwi (tłoczony na zimno)",
+          "zdjecie_przod": "Solevita Sok 100% Pomarańcza Kiwi.png",
+          "sklad": "b.d.",
+          "wartosci_odzywcze": {
+            "E_kcal": "b.d.",
+            "B": "b.d.",
+            "T": "b.d.",
+            "N": "b.d.",
+            "W": "b.d.",
+            "C": "b.d.",
+            "Bl": "b.d.",
+            "S": "b.d."
           }
         }
       ]
@@ -956,6 +2246,51 @@
             "C": "1",
             "Bl": "?",
             "S": "0"
+          }
+        },
+        {
+          "nazwa": "Owocal Bio Charsznickie Ogórki Kiszone",
+          "zdjecie_przod": "Owocal Bio Charsznickie Ogórki Kiszone.png",
+          "sklad": "b.d.",
+          "wartosci_odzywcze": {
+            "E_kcal": "b.d.",
+            "B": "b.d.",
+            "T": "b.d.",
+            "N": "b.d.",
+            "W": "b.d.",
+            "C": "b.d.",
+            "Bl": "b.d.",
+            "S": "b.d."
+          }
+        },
+        {
+          "nazwa": "Dole Tropical Gold Pineapple Chunks",
+          "zdjecie_przod": "Dole Tropical Gold Pineapple Chunks.png",
+          "sklad": "b.d.",
+          "wartosci_odzywcze": {
+            "E_kcal": "b.d.",
+            "B": "b.d.",
+            "T": "b.d.",
+            "N": "b.d.",
+            "W": "b.d.",
+            "C": "b.d.",
+            "Bl": "b.d.",
+            "S": "b.d."
+          }
+        },
+        {
+          "nazwa": "Dole Tropical Gold Pineapple Slices",
+          "zdjecie_przod": "Dole Tropical Gold Pineapple Slices.png",
+          "sklad": "b.d.",
+          "wartosci_odzywcze": {
+            "E_kcal": "b.d.",
+            "B": "b.d.",
+            "T": "b.d.",
+            "N": "b.d.",
+            "W": "b.d.",
+            "C": "b.d.",
+            "Bl": "b.d.",
+            "S": "b.d."
           }
         }
       ]
@@ -1231,6 +2566,96 @@
             "C": "22",
             "Bl": "0",
             "S": "0,01"
+          }
+        },
+        {
+          "nazwa": "Mutti Sos Do Makaronu z Papryką Chili",
+          "zdjecie_przod": "Mutti Sos z Papryką Chili.png",
+          "sklad": "b.d.",
+          "wartosci_odzywcze": {
+            "E_kcal": "b.d.",
+            "B": "b.d.",
+            "T": "b.d.",
+            "N": "b.d.",
+            "W": "b.d.",
+            "C": "b.d.",
+            "Bl": "b.d.",
+            "S": "b.d."
+          }
+        },
+        {
+          "nazwa": "Mutti Sos Do Makaronu z Bazylią",
+          "zdjecie_przod": "Mutti Sos z Bazylią.png",
+          "sklad": "b.d.",
+          "wartosci_odzywcze": {
+            "E_kcal": "b.d.",
+            "B": "b.d.",
+            "T": "b.d.",
+            "N": "b.d.",
+            "W": "b.d.",
+            "C": "b.d.",
+            "Bl": "b.d.",
+            "S": "b.d."
+          }
+        },
+        {
+          "nazwa": "Mutti Sos Do Makaronu z Serem Parmigiano Reggiano",
+          "zdjecie_przod": "Mutti Sos z Parmigiano Reggiano.png",
+          "sklad": "b.d.",
+          "wartosci_odzywcze": {
+            "E_kcal": "b.d.",
+            "B": "b.d.",
+            "T": "b.d.",
+            "N": "b.d.",
+            "W": "b.d.",
+            "C": "b.d.",
+            "Bl": "b.d.",
+            "S": "b.d."
+          }
+        },
+        {
+          "nazwa": "Mutti Sos Do Makaronu Bolognese",
+          "zdjecie_przod": "Mutti Sos Bolognese.png",
+          "sklad": "b.d.",
+          "wartosci_odzywcze": {
+            "E_kcal": "b.d.",
+            "B": "b.d.",
+            "T": "b.d.",
+            "N": "b.d.",
+            "W": "b.d.",
+            "C": "b.d.",
+            "Bl": "b.d.",
+            "S": "b.d."
+          }
+        },
+        {
+          "nazwa": "Combino Sos Pomidorowy Arrabbiata",
+          "zdjecie_przod": "Combino Sos Pomidorowy Arrabbiata.png",
+          "sklad": "b.d.",
+          "wartosci_odzywcze": {
+            "E_kcal": "b.d.",
+            "B": "b.d.",
+            "T": "b.d.",
+            "N": "b.d.",
+            "W": "b.d.",
+            "C": "b.d.",
+            "Bl": "b.d.",
+            "S": "b.d."
+          }
+        },
+        {
+          "nazwa": "Combino Sos Pomidorowy Basilico",
+          "zdjecie_przod": "Combino Sos Pomidorowy Basilico.png",
+          "sklad": "b.d.",
+          "wartosci_odzywcze": {
+            "E_kcal": "b.d.",
+            "B": "b.d.",
+            "T": "b.d.",
+            "N": "b.d.",
+            "W": "b.d.",
+            "C": "b.d.",
+            "Bl": "b.d.",
+            "S": "b.d."
           }
         }
       ]
