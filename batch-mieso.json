@@ -1,0 +1,317 @@
+[
+  {
+    "nazwa": "Mazury Fish Szczupak w oliwie z oliwek",
+    "sklad": "70% szczupak pospolity filety (Esox Lucius) złowione w wodach śródlądowych (A – jezioro Winnipeg, Kanada lub *B – jezioro Solment Wielki, Polska), 28% oliwa z oliwek extra virgin, sól, olejek cytrynowy. A/B – patrz nadruk przy numerze partii. Złowione za pomocą sieci skrzelowych i podobnych. Może zawierać: soję, seler, gluten.",
+    "wartosci_odzywcze": {
+      "E_kcal": "167",
+      "B": "21",
+      "T": "9,2",
+      "N": "1,6",
+      "W": "0",
+      "C": "0",
+      "Bl": "b.d.",
+      "S": "0,76"
+    },
+    "zrodlo": "tyl-proc/IMG_9735.png"
+  },
+  {
+    "nazwa": "El Raño Małże w zalewie naturalnej",
+    "sklad": "Małże (średniej wielkości), woda, sól.",
+    "wartosci_odzywcze": {
+      "E_kcal": "b.d.",
+      "B": "b.d.",
+      "T": "b.d.",
+      "N": "b.d.",
+      "W": "b.d.",
+      "C": "b.d.",
+      "Bl": "b.d.",
+      "S": "b.d."
+    },
+    "zrodlo": "tyl-proc/IMG_9737.png"
+  },
+  {
+    "nazwa": "Coargal Filety Anchois w oleju z oliwek",
+    "sklad": "Filety z anchois (ryby), oliwa z oliwek, sól.",
+    "wartosci_odzywcze": {
+      "E_kcal": "b.d.",
+      "B": "22",
+      "T": "13",
+      "N": "1,5",
+      "W": "b.d.",
+      "C": "b.d.",
+      "Bl": "b.d.",
+      "S": "15"
+    },
+    "zrodlo": "tyl-proc/IMG_9739.png"
+  },
+  {
+    "nazwa": "Mari de Sud Filety Anchois (słoik)",
+    "sklad": "Anchois 51%, olej słonecznikowy, sól.",
+    "wartosci_odzywcze": {
+      "E_kcal": "b.d.",
+      "B": "b.d.",
+      "T": "b.d.",
+      "N": "b.d.",
+      "W": "b.d.",
+      "C": "b.d.",
+      "Bl": "b.d.",
+      "S": "b.d."
+    },
+    "zrodlo": "tyl-proc/IMG_9741.png"
+  },
+  {
+    "nazwa": "Nazarena Filety z Makreli w oliwie",
+    "sklad": "Makrela (ryby) (65%), oliwa i sól.",
+    "wartosci_odzywcze": {
+      "E_kcal": "b.d.",
+      "B": "b.d.",
+      "T": "b.d.",
+      "N": "b.d.",
+      "W": "b.d.",
+      "C": "b.d.",
+      "Bl": "b.d.",
+      "S": "b.d."
+    },
+    "zrodlo": "tyl-proc/IMG_9743.png"
+  },
+  {
+    "nazwa": "Nazarena Tuńczyk w wodzie",
+    "sklad": "b.d.",
+    "wartosci_odzywcze": {
+      "E_kcal": "104",
+      "B": "24",
+      "T": "0,7",
+      "N": "0,2",
+      "W": "7",
+      "C": "0",
+      "Bl": "b.d.",
+      "S": "0,2"
+    },
+    "zrodlo": "tyl-proc/IMG_9745.png"
+  },
+  {
+    "nazwa": "Nazarena Sardynki w sosie pomidorowym",
+    "sklad": "Sardynki (ryby) (Sardina Pilchardus) (65%), olej słonecznikowy, pomidory, sól.",
+    "wartosci_odzywcze": {
+      "E_kcal": "b.d.",
+      "B": "b.d.",
+      "T": "b.d.",
+      "N": "b.d.",
+      "W": "b.d.",
+      "C": "b.d.",
+      "Bl": "b.d.",
+      "S": "b.d."
+    },
+    "zrodlo": "tyl-proc/IMG_9748.png"
+  },
+  {
+    "nazwa": "Tenorio Filety tuńczyka ao natural",
+    "sklad": "Tuńczyk (70%), woda (29%), sól.",
+    "wartosci_odzywcze": {
+      "E_kcal": "108",
+      "B": "25,5",
+      "T": "b.d.",
+      "N": "b.d.",
+      "W": "b.d.",
+      "C": "b.d.",
+      "Bl": "b.d.",
+      "S": "b.d."
+    },
+    "zrodlo": "tyl-proc/IMG_9750.png"
+  },
+  {
+    "nazwa": "Emperatriz Tuńczyk Biały w oliwie z oliwek",
+    "sklad": "Tuńczyk biały (Thunnus Alalunga), oliwa z oliwek, sól.",
+    "wartosci_odzywcze": {
+      "E_kcal": "b.d.",
+      "B": "b.d.",
+      "T": "b.d.",
+      "N": "b.d.",
+      "W": "b.d.",
+      "C": "b.d.",
+      "Bl": "b.d.",
+      "S": "b.d."
+    },
+    "zrodlo": "tyl-proc/IMG_9752.png"
+  },
+  {
+    "nazwa": "Śledzie od Serca Filety Norweskie z pieprzem",
+    "sklad": "b.d.",
+    "wartosci_odzywcze": {
+      "E_kcal": "b.d.",
+      "B": "b.d.",
+      "T": "b.d.",
+      "N": "b.d.",
+      "W": "b.d.",
+      "C": "b.d.",
+      "Bl": "b.d.",
+      "S": "b.d."
+    },
+    "zrodlo": "tyl-proc/IMG_9812.png"
+  },
+  {
+    "nazwa": "Mirko Śledź z Żurawiną (chłodzony)",
+    "sklad": "55% krojone filety ze śledzia atlantyckiego bez skóry, cebula, woda, olej rzepakowy, ocet, 2% żurawina suszona (żurawina, cukier trzcinowy, olej słonecznikowy), sól, marchew suszona, regulatory kwasowości: kwas octowy, kwas cytrynowy, ocet spirytusowy, koper suszony, aromaty. Może zawierać: gluten (z pszenicy), skorupiaki, mięczaki, jaja, soję, mleko (łącznie z laktozą), seler, gorczycę, nasiona sezamu, migdały, orzeszki arachidowe.",
+    "wartosci_odzywcze": {
+      "E_kcal": "b.d.",
+      "B": "b.d.",
+      "T": "b.d.",
+      "N": "b.d.",
+      "W": "b.d.",
+      "C": "b.d.",
+      "Bl": "b.d.",
+      "S": "b.d."
+    },
+    "zrodlo": "tyl-proc/IMG_9814.png"
+  },
+  {
+    "nazwa": "Auchan Filet z Pstrąga wędzony naturalny",
+    "sklad": "Pstrąg łososiowy (Oncorhynchus mykiss) 98%, sól.",
+    "wartosci_odzywcze": {
+      "E_kcal": "b.d.",
+      "B": "21",
+      "T": "5,8",
+      "N": "b.d.",
+      "W": "0",
+      "C": "0",
+      "Bl": "b.d.",
+      "S": "3,0"
+    },
+    "zrodlo": "tyl-proc/IMG_9816.png"
+  },
+  {
+    "nazwa": "Auchan Filet z Pstrąga z Pieprzem wędzony",
+    "sklad": "Pstrąg tęczowy (Oncorhynchus mykiss) 97,6%, sól, mieszanka pieprzowa 0,4% (pieprz: czarny, różowy, biały, zielony).",
+    "wartosci_odzywcze": {
+      "E_kcal": "b.d.",
+      "B": "21",
+      "T": "4,7",
+      "N": "0,9",
+      "W": "0,4",
+      "C": "0",
+      "Bl": "b.d.",
+      "S": "2,0"
+    },
+    "zrodlo": "tyl-proc/IMG_9818.png"
+  },
+  {
+    "nazwa": "Suempol Łosoś Atlantycki wędzony na zimno",
+    "sklad": "Łosoś atlantycki (Salmo salar) 97%, sól.",
+    "wartosci_odzywcze": {
+      "E_kcal": "170",
+      "B": "20",
+      "T": "10",
+      "N": "1,4",
+      "W": "b.d.",
+      "C": "b.d.",
+      "Bl": "b.d.",
+      "S": "3"
+    },
+    "zrodlo": "tyl-proc/IMG_9820.png"
+  },
+  {
+    "nazwa": "Mowi Signature Łosoś wędzony na gorąco",
+    "sklad": "Łosoś atlantycki (Salmo salar) wyhodowany w Norwegii 99%, sól.",
+    "wartosci_odzywcze": {
+      "E_kcal": "228",
+      "B": "22,6",
+      "T": "15,4",
+      "N": "2,5",
+      "W": "b.d.",
+      "C": "b.d.",
+      "Bl": "b.d.",
+      "S": "2,3"
+    },
+    "zrodlo": "tyl-proc/IMG_9822.png"
+  },
+  {
+    "nazwa": "Connoisseur Łosoś wędzony na gorąco",
+    "sklad": "Łosoś (Salmo salar) wyhodowany w Norwegii, sól.",
+    "wartosci_odzywcze": {
+      "E_kcal": "211",
+      "B": "b.d.",
+      "T": "b.d.",
+      "N": "b.d.",
+      "W": "b.d.",
+      "C": "b.d.",
+      "Bl": "b.d.",
+      "S": "b.d."
+    },
+    "zrodlo": "tyl-proc/IMG_9824.png"
+  },
+  {
+    "nazwa": "Seamor Halibut wędzony na gorąco",
+    "sklad": "Halibut niebieski (Reinhardtius hippoglossoides), sól. Może zawierać: gorczycę, skorupiaki, mięczaki. Obszar połowu: FAO 21 Północno-zachodni Atlantyk.",
+    "wartosci_odzywcze": {
+      "E_kcal": "b.d.",
+      "B": "b.d.",
+      "T": "b.d.",
+      "N": "b.d.",
+      "W": "b.d.",
+      "C": "b.d.",
+      "Bl": "b.d.",
+      "S": "b.d."
+    },
+    "zrodlo": "tyl-proc/IMG_9974.png"
+  },
+  {
+    "nazwa": "Seamor Trewal wędzony na gorąco",
+    "sklad": "Trewal plamisty (trubal) (Seriolella punctata), sól. Może zawierać: skorupiaki, mięczaki, gorczycę. Obszar połowu: FAO 81 Południowo-zachodni Pacyfik.",
+    "wartosci_odzywcze": {
+      "E_kcal": "b.d.",
+      "B": "b.d.",
+      "T": "8,3",
+      "N": "b.d.",
+      "W": "b.d.",
+      "C": "b.d.",
+      "Bl": "b.d.",
+      "S": "1,8"
+    },
+    "zrodlo": "tyl-proc/IMG_9976.png"
+  },
+  {
+    "nazwa": "Seamor Sieja Kanadyjska wędzona na gorąco",
+    "sklad": "Sieja kanadyjska (trubal) (Coregonus clupeaformis), sól. Może zawierać: skorupiaki, mięczaki, gorczycę. Kraj pochodzenia: Kanada.",
+    "wartosci_odzywcze": {
+      "E_kcal": "91",
+      "B": "22",
+      "T": "0,5",
+      "N": "0,2",
+      "W": "0",
+      "C": "0",
+      "Bl": "b.d.",
+      "S": "1,9"
+    },
+    "zrodlo": "tyl-proc/IMG_9978.png"
+  },
+  {
+    "nazwa": "Pikok Pure Szynka Wieprzowa 95%",
+    "sklad": "95% szynka wieprzowa, woda, sól, bocznica, acerola, suszona marchew, suszony rozmaryn, naturalny aromat cytrusowy, kultury starterowe.",
+    "wartosci_odzywcze": {
+      "E_kcal": "b.d.",
+      "B": "b.d.",
+      "T": "b.d.",
+      "N": "b.d.",
+      "W": "b.d.",
+      "C": "b.d.",
+      "Bl": "b.d.",
+      "S": "b.d."
+    },
+    "zrodlo": "tyl-proc/IMG_9987.png"
+  },
+  {
+    "nazwa": "Italiamo Prosciutto di Parma DOP",
+    "sklad": "Prosciutto di Parma DOP — udziec wieprzowy surowy, posolony, dojrzewany, w plastrach.",
+    "wartosci_odzywcze": {
+      "E_kcal": "b.d.",
+      "B": "b.d.",
+      "T": "b.d.",
+      "N": "b.d.",
+      "W": "b.d.",
+      "C": "b.d.",
+      "Bl": "b.d.",
+      "S": "b.d."
+    },
+    "zrodlo": "tyl-proc/IMG_9989.png"
+  }
+]

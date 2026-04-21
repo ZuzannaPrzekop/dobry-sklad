@@ -1,0 +1,86 @@
+[
+  {
+    "nazwa": "Deluxe Burrata di Bufala",
+    "sklad": "mleko bawole pasteryzowane, śmietanka z mleka bawolego UHT, bakterie fermentacji mlecznej, podpuszczka cielęca, sól",
+    "wartosci_odzywcze": {"E_kcal": "b.d.", "B": "b.d.", "T": "b.d.", "N": "b.d.", "W": "b.d.", "C": "b.d.", "Bl": "b.d.", "S": "b.d."},
+    "zrodlo": "tyl-proc/IMG_9942.png"
+  },
+  {
+    "nazwa": "Milbona Free From Lactose Burrata",
+    "sklad": "mleko, śmietanka 48%, sól, podpuszczka, laktaza",
+    "wartosci_odzywcze": {"E_kcal": "b.d.", "B": "b.d.", "T": "b.d.", "N": "b.d.", "W": "b.d.", "C": "b.d.", "Bl": "b.d.", "S": "b.d."},
+    "zrodlo": "tyl-proc/IMG_9945.png"
+  },
+  {
+    "nazwa": "Milbona Free From Lactose Mascarpone",
+    "sklad": "śmietanka, regulator kwasowości: kwas cytrynowy, laktaza",
+    "wartosci_odzywcze": {"E_kcal": "b.d.", "B": "b.d.", "T": "b.d.", "N": "b.d.", "W": "b.d.", "C": "b.d.", "Bl": "b.d.", "S": "b.d."},
+    "zrodlo": "tyl-proc/IMG_9948.png"
+  },
+  {
+    "nazwa": "Lublanka Twaróg z Bychawy tłusty",
+    "sklad": "mleko pasteryzowane, kultury bakterii mlekowych",
+    "wartosci_odzywcze": {"E_kcal": "150", "B": "16", "T": "8", "N": "6,5", "W": "3,5", "C": "3,2", "Bl": "b.d.", "S": "0,08"},
+    "zrodlo": "tyl-proc/IMG_9950.png"
+  },
+  {
+    "nazwa": "Piłos Serek Wiejski Lekki 3%",
+    "sklad": "ser twarogowy, śmietanka, sól",
+    "wartosci_odzywcze": {"E_kcal": "b.d.", "B": "b.d.", "T": "b.d.", "N": "b.d.", "W": "b.d.", "C": "b.d.", "Bl": "b.d.", "S": "b.d."},
+    "zrodlo": "tyl-proc/IMG_9995.png"
+  },
+  {
+    "nazwa": "Cambozola (ser niemiecki)",
+    "sklad": "b.d.",
+    "wartosci_odzywcze": {"E_kcal": "b.d.", "B": "b.d.", "T": "b.d.", "N": "b.d.", "W": "b.d.", "C": "b.d.", "Bl": "b.d.", "S": "b.d."},
+    "zrodlo": "tyl-proc/IMG_9991.png"
+  },
+  {
+    "nazwa": "Le Gruyère (ser szwajcarski)",
+    "sklad": "surowe mleko, sól, bakterie fermentacji mlecznej, podpuszczka",
+    "wartosci_odzywcze": {"E_kcal": "b.d.", "B": "b.d.", "T": "b.d.", "N": "b.d.", "W": "b.d.", "C": "b.d.", "Bl": "b.d.", "S": "b.d."},
+    "zrodlo": "tyl-proc/IMG_9993.png"
+  },
+  {
+    "nazwa": "Feta Grecki Ser Sałatkowy",
+    "sklad": "mleko owcze, mleko kozie, sól, podpuszczka mikrobiologiczna, bakterie fermentacji kwasu mlekowego",
+    "wartosci_odzywcze": {"E_kcal": "287", "B": "16,2", "T": "24,6", "N": "17", "W": "0,2", "C": "0,2", "Bl": "0", "S": "2,00"},
+    "zrodlo": "tyl-proc/IMG_9999.png"
+  },
+  {
+    "nazwa": "Vemondo Tofu",
+    "sklad": "woda, ziarna soi 12% (non-GMO), substancja wiążąca: siarczan wapnia",
+    "wartosci_odzywcze": {"E_kcal": "b.d.", "B": "13,6", "T": "6,9", "N": "1,1", "W": "0,6", "C": "b.d.", "Bl": "2,2", "S": "0"},
+    "zrodlo": "tyl-proc/IMG_9967.png"
+  },
+  {
+    "nazwa": "Chef Select Pierogi z Mięsem (Kuchnia Polska)",
+    "sklad": "b.d.",
+    "wartosci_odzywcze": {"E_kcal": "b.d.", "B": "10,8", "T": "7,6", "N": "2,6", "W": "26,0", "C": "2,5", "Bl": "b.d.", "S": "0,95"},
+    "zrodlo": "tyl-proc/IMG_9980.png"
+  },
+  {
+    "nazwa": "Chef Select Pierogi Ruskie (Kuchnia Polska)",
+    "sklad": "b.d.",
+    "wartosci_odzywcze": {"E_kcal": "b.d.", "B": "3,6", "T": "2,5", "N": "b.d.", "W": "35,2", "C": "b.d.", "Bl": "b.d.", "S": "b.d."},
+    "zrodlo": "tyl-proc/IMG_9982.png"
+  },
+  {
+    "nazwa": "Chef Select Tortelloni z Pomidorami i Mozzarellą",
+    "sklad": "b.d.",
+    "wartosci_odzywcze": {"E_kcal": "b.d.", "B": "b.d.", "T": "b.d.", "N": "b.d.", "W": "b.d.", "C": "b.d.", "Bl": "b.d.", "S": "b.d."},
+    "zrodlo": "tyl-proc/IMG_9984.png"
+  },
+  {
+    "nazwa": "Vemondo Gyros Roślinny",
+    "sklad": "b.d.",
+    "wartosci_odzywcze": {"E_kcal": "b.d.", "B": "b.d.", "T": "b.d.", "N": "b.d.", "W": "b.d.", "C": "b.d.", "Bl": "b.d.", "S": "b.d."},
+    "zrodlo": "tyl-proc/IMG_9971.png"
+  },
+  {
+    "nazwa": "Well Well Pasta Falafelowa",
+    "sklad": "gotowana cieciorka, woda, bób mrożony, tofu naturalne 15% (ziarno soi, woda, substancja wiążąca: siarczan wapnia), olej rzepakowy, przyprawy (czosnek granulowany, kolendra, kmin, kurkuma, pieprz cayenne), skrobia natywna, sól, ekstrakt drożdżowy, mieszanka: natka pietruszki, rozmaryn, szczypiorek. Może zawierać gluten, gorczycę, sezam.",
+    "wartosci_odzywcze": {"E_kcal": "147", "B": "b.d.", "T": "10,0", "N": "0,9", "W": "5,0", "C": "0,5", "Bl": "6,0", "S": "b.d."},
+    "zrodlo": "tyl-proc/IMG_9969.png"
+  }
+]

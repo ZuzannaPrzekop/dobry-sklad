@@ -34,13 +34,13 @@
           "sklad": "b.d.",
           "wartosci_odzywcze": {
             "E_kcal": "b.d.",
-            "B": "b.d.",
-            "T": "b.d.",
-            "N": "b.d.",
-            "W": "b.d.",
-            "C": "b.d.",
+            "B": "10,8",
+            "T": "7,6",
+            "N": "2,6",
+            "W": "26,0",
+            "C": "2,5",
             "Bl": "b.d.",
-            "S": "b.d."
+            "S": "0,95"
           }
         },
         {
@@ -49,10 +49,10 @@
           "sklad": "b.d.",
           "wartosci_odzywcze": {
             "E_kcal": "b.d.",
-            "B": "b.d.",
-            "T": "b.d.",
+            "B": "3,6",
+            "T": "2,5",
             "N": "b.d.",
-            "W": "b.d.",
+            "W": "35,2",
             "C": "b.d.",
             "Bl": "b.d.",
             "S": "b.d."
@@ -91,15 +91,15 @@
         {
           "nazwa": "Well Well Pasta Falafelowa",
           "zdjecie_przod": "Well Well Pasta Falafelowa.png",
-          "sklad": "b.d.",
+          "sklad": "gotowana cieciorka, woda, bób mrożony, tofu naturalne 15% (ziarno soi, woda, substancja wiążąca: siarczan wapnia), olej rzepakowy, przyprawy (czosnek granulowany, kolendra, kmin, kurkuma, pieprz cayenne), skrobia natywna, sól, ekstrakt drożdżowy, mieszanka: natka pietruszki, rozmaryn, szczypiorek. Może zawierać gluten, gorczycę, sezam.",
           "wartosci_odzywcze": {
-            "E_kcal": "b.d.",
+            "E_kcal": "147",
             "B": "b.d.",
-            "T": "b.d.",
-            "N": "b.d.",
-            "W": "b.d.",
-            "C": "b.d.",
-            "Bl": "b.d.",
+            "T": "10,0",
+            "N": "0,9",
+            "W": "5,0",
+            "C": "0,5",
+            "Bl": "6,0",
             "S": "b.d."
           }
         }
@@ -246,22 +246,22 @@
         {
           "nazwa": "Mazury Fish Szczupak w oliwie z oliwek",
           "zdjecie_przod": "Mazury Fish Szczupak w oliwie z oliwek.png",
-          "sklad": "b.d.",
+          "sklad": "70% szczupak pospolity filety (Esox Lucius) złowione w wodach śródlądowych (A – jezioro Winnipeg, Kanada lub *B – jezioro Solment Wielki, Polska), 28% oliwa z oliwek extra virgin, sól, olejek cytrynowy. A/B – patrz nadruk przy numerze partii. Złowione za pomocą sieci skrzelowych i podobnych. Może zawierać: soję, seler, gluten.",
           "wartosci_odzywcze": {
-            "E_kcal": "b.d.",
-            "B": "b.d.",
-            "T": "b.d.",
-            "N": "b.d.",
-            "W": "b.d.",
-            "C": "b.d.",
+            "E_kcal": "167",
+            "B": "21",
+            "T": "9,2",
+            "N": "1,6",
+            "W": "0",
+            "C": "0",
             "Bl": "b.d.",
-            "S": "b.d."
+            "S": "0,76"
           }
         },
         {
           "nazwa": "El Raño Małże w zalewie naturalnej",
           "zdjecie_przod": "El Raño Małże w zalewie naturalnej.png",
-          "sklad": "b.d.",
+          "sklad": "Małże (średniej wielkości), woda, sól.",
           "wartosci_odzywcze": {
             "E_kcal": "b.d.",
             "B": "b.d.",
@@ -276,22 +276,22 @@
         {
           "nazwa": "Coargal Filety Anchois w oleju z oliwek",
           "zdjecie_przod": "Coargal Filety Anchois w oleju z oliwek.png",
-          "sklad": "b.d.",
+          "sklad": "Filety z anchois (ryby), oliwa z oliwek, sól.",
           "wartosci_odzywcze": {
             "E_kcal": "b.d.",
-            "B": "b.d.",
-            "T": "b.d.",
-            "N": "b.d.",
+            "B": "22",
+            "T": "13",
+            "N": "1,5",
             "W": "b.d.",
             "C": "b.d.",
             "Bl": "b.d.",
-            "S": "b.d."
+            "S": "15"
           }
         },
         {
           "nazwa": "Mari de Sud Filety Anchois (słoik)",
           "zdjecie_przod": "Mari de Sud Filety Anchois.png",
-          "sklad": "b.d.",
+          "sklad": "Anchois 51%, olej słonecznikowy, sól.",
           "wartosci_odzywcze": {
             "E_kcal": "b.d.",
             "B": "b.d.",
@@ -306,7 +306,7 @@
         {
           "nazwa": "Nazarena Filety z Makreli w oliwie",
           "zdjecie_przod": "Nazarena Filety z Makreli w oliwie.png",
-          "sklad": "b.d.",
+          "sklad": "Makrela (ryby) (65%), oliwa i sól.",
           "wartosci_odzywcze": {
             "E_kcal": "b.d.",
             "B": "b.d.",
@@ -323,20 +323,20 @@
           "zdjecie_przod": "Nazarena Tuńczyk w wodzie.png",
           "sklad": "b.d.",
           "wartosci_odzywcze": {
-            "E_kcal": "b.d.",
-            "B": "b.d.",
-            "T": "b.d.",
-            "N": "b.d.",
-            "W": "b.d.",
-            "C": "b.d.",
+            "E_kcal": "104",
+            "B": "24",
+            "T": "0,7",
+            "N": "0,2",
+            "W": "7",
+            "C": "0",
             "Bl": "b.d.",
-            "S": "b.d."
+            "S": "0,2"
           }
         },
         {
           "nazwa": "Nazarena Sardynki w sosie pomidorowym",
           "zdjecie_przod": "Nazarena Sardynki w sosie pomidorowym.png",
-          "sklad": "b.d.",
+          "sklad": "Sardynki (ryby) (Sardina Pilchardus) (65%), olej słonecznikowy, pomidory, sól.",
           "wartosci_odzywcze": {
             "E_kcal": "b.d.",
             "B": "b.d.",
@@ -351,10 +351,10 @@
         {
           "nazwa": "Tenorio Filety tuńczyka ao natural",
           "zdjecie_przod": "Tenorio Filety tuńczyka ao natural.png",
-          "sklad": "b.d.",
+          "sklad": "Tuńczyk (70%), woda (29%), sól.",
           "wartosci_odzywcze": {
-            "E_kcal": "b.d.",
-            "B": "b.d.",
+            "E_kcal": "108",
+            "B": "25,5",
             "T": "b.d.",
             "N": "b.d.",
             "W": "b.d.",
@@ -366,7 +366,7 @@
         {
           "nazwa": "Emperatriz Tuńczyk Biały w oliwie z oliwek",
           "zdjecie_przod": "Emperatriz Tuńczyk Biały w oliwie z oliwek.png",
-          "sklad": "b.d.",
+          "sklad": "Tuńczyk biały (Thunnus Alalunga), oliwa z oliwek, sól.",
           "wartosci_odzywcze": {
             "E_kcal": "b.d.",
             "B": "b.d.",
@@ -396,7 +396,7 @@
         {
           "nazwa": "Mirko Śledź z Żurawiną (chłodzony)",
           "zdjecie_przod": "Mirko Śledź z Żurawiną.png",
-          "sklad": "b.d.",
+          "sklad": "55% krojone filety ze śledzia atlantyckiego bez skóry, cebula, woda, olej rzepakowy, ocet, 2% żurawina suszona (żurawina, cukier trzcinowy, olej słonecznikowy), sól, marchew suszona, regulatory kwasowości: kwas octowy, kwas cytrynowy, ocet spirytusowy, koper suszony, aromaty. Może zawierać: gluten (z pszenicy), skorupiaki, mięczaki, jaja, soję, mleko (łącznie z laktozą), seler, gorczycę, nasiona sezamu, migdały, orzeszki arachidowe.",
           "wartosci_odzywcze": {
             "E_kcal": "b.d.",
             "B": "b.d.",
@@ -411,69 +411,69 @@
         {
           "nazwa": "Auchan Filet z Pstrąga wędzony naturalny",
           "zdjecie_przod": "Auchan Filet z Pstrąga wędzony naturalny.png",
-          "sklad": "b.d.",
+          "sklad": "Pstrąg łososiowy (Oncorhynchus mykiss) 98%, sól.",
           "wartosci_odzywcze": {
             "E_kcal": "b.d.",
-            "B": "b.d.",
-            "T": "b.d.",
+            "B": "21",
+            "T": "5,8",
             "N": "b.d.",
-            "W": "b.d.",
-            "C": "b.d.",
+            "W": "0",
+            "C": "0",
             "Bl": "b.d.",
-            "S": "b.d."
+            "S": "3,0"
           }
         },
         {
           "nazwa": "Auchan Filet z Pstrąga z Pieprzem wędzony",
           "zdjecie_przod": "Auchan Filet z Pstrąga z Pieprzem wędzony.png",
-          "sklad": "b.d.",
+          "sklad": "Pstrąg tęczowy (Oncorhynchus mykiss) 97,6%, sól, mieszanka pieprzowa 0,4% (pieprz: czarny, różowy, biały, zielony).",
           "wartosci_odzywcze": {
             "E_kcal": "b.d.",
-            "B": "b.d.",
-            "T": "b.d.",
-            "N": "b.d.",
-            "W": "b.d.",
-            "C": "b.d.",
+            "B": "21",
+            "T": "4,7",
+            "N": "0,9",
+            "W": "0,4",
+            "C": "0",
             "Bl": "b.d.",
-            "S": "b.d."
+            "S": "2,0"
           }
         },
         {
           "nazwa": "Suempol Łosoś Atlantycki wędzony na zimno",
           "zdjecie_przod": "Suempol Łosoś Atlantycki wędzony na zimno.png",
-          "sklad": "b.d.",
+          "sklad": "Łosoś atlantycki (Salmo salar) 97%, sól.",
           "wartosci_odzywcze": {
-            "E_kcal": "b.d.",
-            "B": "b.d.",
-            "T": "b.d.",
-            "N": "b.d.",
+            "E_kcal": "170",
+            "B": "20",
+            "T": "10",
+            "N": "1,4",
             "W": "b.d.",
             "C": "b.d.",
             "Bl": "b.d.",
-            "S": "b.d."
+            "S": "3"
           }
         },
         {
           "nazwa": "Mowi Signature Łosoś wędzony na gorąco",
           "zdjecie_przod": "Mowi Signature Łosoś wędzony na gorąco.png",
-          "sklad": "b.d.",
+          "sklad": "Łosoś atlantycki (Salmo salar) wyhodowany w Norwegii 99%, sól.",
           "wartosci_odzywcze": {
-            "E_kcal": "b.d.",
-            "B": "b.d.",
-            "T": "b.d.",
-            "N": "b.d.",
+            "E_kcal": "228",
+            "B": "22,6",
+            "T": "15,4",
+            "N": "2,5",
             "W": "b.d.",
             "C": "b.d.",
             "Bl": "b.d.",
-            "S": "b.d."
+            "S": "2,3"
           }
         },
         {
           "nazwa": "Connoisseur Łosoś wędzony na gorąco",
           "zdjecie_przod": "Connoisseur Łosoś wędzony na gorąco.png",
-          "sklad": "b.d.",
+          "sklad": "Łosoś (Salmo salar) wyhodowany w Norwegii, sól.",
           "wartosci_odzywcze": {
-            "E_kcal": "b.d.",
+            "E_kcal": "211",
             "B": "b.d.",
             "T": "b.d.",
             "N": "b.d.",
@@ -486,7 +486,7 @@
         {
           "nazwa": "Seamor Halibut wędzony na gorąco",
           "zdjecie_przod": "Seamor Halibut wędzony na gorąco.png",
-          "sklad": "b.d.",
+          "sklad": "Halibut niebieski (Reinhardtius hippoglossoides), sól. Może zawierać: gorczycę, skorupiaki, mięczaki. Obszar połowu: FAO 21 Północno-zachodni Atlantyk.",
           "wartosci_odzywcze": {
             "E_kcal": "b.d.",
             "B": "b.d.",
@@ -501,37 +501,37 @@
         {
           "nazwa": "Seamor Trewal wędzony na gorąco",
           "zdjecie_przod": "Seamor Trewal wędzony na gorąco.png",
-          "sklad": "b.d.",
+          "sklad": "Trewal plamisty (trubal) (Seriolella punctata), sól. Może zawierać: skorupiaki, mięczaki, gorczycę. Obszar połowu: FAO 81 Południowo-zachodni Pacyfik.",
           "wartosci_odzywcze": {
             "E_kcal": "b.d.",
             "B": "b.d.",
-            "T": "b.d.",
+            "T": "8,3",
             "N": "b.d.",
             "W": "b.d.",
             "C": "b.d.",
             "Bl": "b.d.",
-            "S": "b.d."
+            "S": "1,8"
           }
         },
         {
           "nazwa": "Seamor Sieja Kanadyjska wędzona na gorąco",
           "zdjecie_przod": "Seamor Sieja Kanadyjska wędzona na gorąco.png",
-          "sklad": "b.d.",
+          "sklad": "Sieja kanadyjska (trubal) (Coregonus clupeaformis), sól. Może zawierać: skorupiaki, mięczaki, gorczycę. Kraj pochodzenia: Kanada.",
           "wartosci_odzywcze": {
-            "E_kcal": "b.d.",
-            "B": "b.d.",
-            "T": "b.d.",
-            "N": "b.d.",
-            "W": "b.d.",
-            "C": "b.d.",
+            "E_kcal": "91",
+            "B": "22",
+            "T": "0,5",
+            "N": "0,2",
+            "W": "0",
+            "C": "0",
             "Bl": "b.d.",
-            "S": "b.d."
+            "S": "1,9"
           }
         },
         {
           "nazwa": "Pikok Pure Szynka Wieprzowa 95%",
           "zdjecie_przod": "Pikok Pure Szynka Wieprzowa.png",
-          "sklad": "b.d.",
+          "sklad": "95% szynka wieprzowa, woda, sól, bocznica, acerola, suszona marchew, suszony rozmaryn, naturalny aromat cytrusowy, kultury starterowe.",
           "wartosci_odzywcze": {
             "E_kcal": "b.d.",
             "B": "b.d.",
@@ -546,7 +546,7 @@
         {
           "nazwa": "Italiamo Prosciutto di Parma DOP",
           "zdjecie_przod": "Italiamo Prosciutto di Parma DOP.png",
-          "sklad": "b.d.",
+          "sklad": "Prosciutto di Parma DOP — udziec wieprzowy surowy, posolony, dojrzewany, w plastrach.",
           "wartosci_odzywcze": {
             "E_kcal": "b.d.",
             "B": "b.d.",
@@ -716,7 +716,7 @@
         {
           "nazwa": "Deluxe Burrata di Bufala",
           "zdjecie_przod": "Deluxe Burrata di Bufala.png",
-          "sklad": "b.d.",
+          "sklad": "mleko bawole pasteryzowane, śmietanka z mleka bawolego UHT, bakterie fermentacji mlecznej, podpuszczka cielęca, sól",
           "wartosci_odzywcze": {
             "E_kcal": "b.d.",
             "B": "b.d.",
@@ -731,7 +731,7 @@
         {
           "nazwa": "Milbona Free From Lactose Burrata",
           "zdjecie_przod": "Milbona Free From Lactose Burrata.png",
-          "sklad": "b.d.",
+          "sklad": "mleko, śmietanka 48%, sól, podpuszczka, laktaza",
           "wartosci_odzywcze": {
             "E_kcal": "b.d.",
             "B": "b.d.",
@@ -746,7 +746,7 @@
         {
           "nazwa": "Milbona Free From Lactose Mascarpone",
           "zdjecie_przod": "Milbona Free From Lactose Mascarpone.png",
-          "sklad": "b.d.",
+          "sklad": "śmietanka, regulator kwasowości: kwas cytrynowy, laktaza",
           "wartosci_odzywcze": {
             "E_kcal": "b.d.",
             "B": "b.d.",
@@ -761,22 +761,22 @@
         {
           "nazwa": "Lublanka Twaróg z Bychawy tłusty",
           "zdjecie_przod": "Lublanka Twaróg z Bychawy tłusty.png",
-          "sklad": "b.d.",
+          "sklad": "mleko pasteryzowane, kultury bakterii mlekowych",
           "wartosci_odzywcze": {
-            "E_kcal": "b.d.",
-            "B": "b.d.",
-            "T": "b.d.",
-            "N": "b.d.",
-            "W": "b.d.",
-            "C": "b.d.",
+            "E_kcal": "150",
+            "B": "16",
+            "T": "8",
+            "N": "6,5",
+            "W": "3,5",
+            "C": "3,2",
             "Bl": "b.d.",
-            "S": "b.d."
+            "S": "0,08"
           }
         },
         {
           "nazwa": "Piłos Serek Wiejski Lekki 3%",
           "zdjecie_przod": "Piłos Serek Wiejski Lekki.png",
-          "sklad": "b.d.",
+          "sklad": "ser twarogowy, śmietanka, sól",
           "wartosci_odzywcze": {
             "E_kcal": "b.d.",
             "B": "b.d.",
@@ -806,7 +806,7 @@
         {
           "nazwa": "Le Gruyère (ser szwajcarski)",
           "zdjecie_przod": "Le Gruyère.png",
-          "sklad": "b.d.",
+          "sklad": "surowe mleko, sól, bakterie fermentacji mlecznej, podpuszczka",
           "wartosci_odzywcze": {
             "E_kcal": "b.d.",
             "B": "b.d.",
@@ -821,31 +821,31 @@
         {
           "nazwa": "Feta Grecki Ser Sałatkowy",
           "zdjecie_przod": "Feta Grecki Ser Sałatkowy.png",
-          "sklad": "b.d.",
+          "sklad": "mleko owcze, mleko kozie, sól, podpuszczka mikrobiologiczna, bakterie fermentacji kwasu mlekowego",
           "wartosci_odzywcze": {
-            "E_kcal": "b.d.",
-            "B": "b.d.",
-            "T": "b.d.",
-            "N": "b.d.",
-            "W": "b.d.",
-            "C": "b.d.",
-            "Bl": "b.d.",
-            "S": "b.d."
+            "E_kcal": "287",
+            "B": "16,2",
+            "T": "24,6",
+            "N": "17",
+            "W": "0,2",
+            "C": "0,2",
+            "Bl": "0",
+            "S": "2,00"
           }
         },
         {
           "nazwa": "Vemondo Tofu",
           "zdjecie_przod": "Vemondo Tofu.png",
-          "sklad": "b.d.",
+          "sklad": "woda, ziarna soi 12% (non-GMO), substancja wiążąca: siarczan wapnia",
           "wartosci_odzywcze": {
             "E_kcal": "b.d.",
-            "B": "b.d.",
-            "T": "b.d.",
-            "N": "b.d.",
-            "W": "b.d.",
+            "B": "13,6",
+            "T": "6,9",
+            "N": "1,1",
+            "W": "0,6",
             "C": "b.d.",
-            "Bl": "b.d.",
-            "S": "b.d."
+            "Bl": "2,2",
+            "S": "0"
           }
         }
       ]

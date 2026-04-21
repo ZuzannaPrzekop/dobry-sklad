@@ -12,7 +12,8 @@
       "nazwa": "Mazury Fish Szczupak w oliwie z oliwek",
       "foto_przod": "IMG_9734.JPG",
       "foto_tyl": "IMG_9735.JPG",
-      "status": "zidentyfikowany"
+      "status": "zidentyfikowany",
+      "uzupelniony": true
     },
     {
       "nazwa": "El Raño Małże w zalewie naturalnej (Almejones al natural)",
@@ -24,43 +25,50 @@
       "nazwa": "Coargal Filety Anchois w oleju z oliwek",
       "foto_przod": "IMG_9738.JPG",
       "foto_tyl": "IMG_9739.JPG",
-      "status": "zidentyfikowany"
+      "status": "zidentyfikowany",
+      "uzupelniony": true
     },
     {
       "nazwa": "Mari de Sud Filety Anchois (słoik)",
       "foto_przod": "IMG_9740.JPG",
       "foto_tyl": "IMG_9741.JPG",
-      "status": "zidentyfikowany"
+      "status": "zidentyfikowany",
+      "uzupelniony": true
     },
     {
       "nazwa": "Nazarena Filety z Makreli w oliwie",
       "foto_przod": "IMG_9742.JPG",
       "foto_tyl": "IMG_9743.JPG",
-      "status": "zidentyfikowany"
+      "status": "zidentyfikowany",
+      "uzupelniony": true
     },
     {
       "nazwa": "Nazarena Tuńczyk w wodzie",
       "foto_przod": "IMG_9744.JPG",
       "foto_tyl": "IMG_9745.JPG",
-      "status": "zidentyfikowany"
+      "status": "zidentyfikowany",
+      "uzupelniony": true
     },
     {
       "nazwa": "Nazarena Sardynki w sosie pomidorowym",
       "foto_przod": "IMG_9747.JPG",
       "foto_tyl": "IMG_9748.JPG",
-      "status": "zidentyfikowany"
+      "status": "zidentyfikowany",
+      "uzupelniony": true
     },
     {
       "nazwa": "Tenorio Filety tuńczyka ao natural",
       "foto_przod": "IMG_9749.JPG",
       "foto_tyl": "IMG_9750.JPG",
-      "status": "zidentyfikowany"
+      "status": "zidentyfikowany",
+      "uzupelniony": true
     },
     {
       "nazwa": "Emperatriz Tuńczyk Biały w oliwie z oliwek",
       "foto_przod": "IMG_9751.JPG",
       "foto_tyl": "IMG_9752.JPG",
-      "status": "zidentyfikowany"
+      "status": "zidentyfikowany",
+      "uzupelniony": true
     },
     {
       "nazwa": "Mutti Sos Do Makaronu z Papryką Chili",
@@ -228,43 +236,50 @@
       "nazwa": "Śledzie od Serca Filety Norweskie z pieprzem",
       "foto_przod": "IMG_9811.JPG",
       "foto_tyl": "IMG_9812.JPG",
-      "status": "zidentyfikowany"
+      "status": "zidentyfikowany",
+      "uzupelniony": true
     },
     {
       "nazwa": "Mirko Śledź z Żurawiną (chłodzony)",
       "foto_przod": "IMG_9813.JPG",
       "foto_tyl": "IMG_9814.JPG",
-      "status": "zidentyfikowany"
+      "status": "zidentyfikowany",
+      "uzupelniony": true
     },
     {
       "nazwa": "Auchan Filet z Pstrąga wędzony naturalny",
       "foto_przod": "IMG_9815.JPG",
       "foto_tyl": "IMG_9816.JPG",
-      "status": "zidentyfikowany"
+      "status": "zidentyfikowany",
+      "uzupelniony": true
     },
     {
       "nazwa": "Auchan Filet z Pstrąga z Pieprzem wędzony",
       "foto_przod": "IMG_9817.JPG",
       "foto_tyl": "IMG_9818.JPG",
-      "status": "zidentyfikowany"
+      "status": "zidentyfikowany",
+      "uzupelniony": true
     },
     {
       "nazwa": "Suempol Łosoś Atlantycki wędzony na zimno",
       "foto_przod": "IMG_9819.JPG",
       "foto_tyl": "IMG_9820.JPG",
-      "status": "zidentyfikowany"
+      "status": "zidentyfikowany",
+      "uzupelniony": true
     },
     {
       "nazwa": "Mowi Signature Łosoś wędzony na gorąco",
       "foto_przod": "IMG_9821.JPG",
       "foto_tyl": "IMG_9822.JPG",
-      "status": "zidentyfikowany"
+      "status": "zidentyfikowany",
+      "uzupelniony": true
     },
     {
       "nazwa": "Connoisseur Łosoś wędzony na gorąco",
       "foto_przod": "IMG_9823.JPG",
       "foto_tyl": "IMG_9824.JPG",
-      "status": "zidentyfikowany"
+      "status": "zidentyfikowany",
+      "uzupelniony": true
     },
     {
       "nazwa": "Eat Real Veggie Straws (pomidor, jarmuż, szpinak)",
@@ -465,25 +480,29 @@
       "nazwa": "Deluxe Burrata di Bufala",
       "foto_przod": "IMG_9941.JPG",
       "foto_tyl": "IMG_9942.JPG",
-      "status": "zidentyfikowany"
+      "status": "zidentyfikowany",
+      "uzupelniony": true
     },
     {
       "nazwa": "Milbona Free From Lactose Burrata",
       "foto_przod": "IMG_9944.JPG",
       "foto_tyl": "IMG_9945.JPG",
-      "status": "zidentyfikowany"
+      "status": "zidentyfikowany",
+      "uzupelniony": true
     },
     {
       "nazwa": "Milbona Free From Lactose Mascarpone",
       "foto_przod": "IMG_9947.JPG",
       "foto_tyl": "IMG_9948.JPG",
-      "status": "zidentyfikowany"
+      "status": "zidentyfikowany",
+      "uzupelniony": true
     },
     {
       "nazwa": "Lublanka Twaróg z Bychawy tłusty",
       "foto_przod": "IMG_9949.JPG",
       "foto_tyl": "IMG_9950.JPG",
-      "status": "zidentyfikowany"
+      "status": "zidentyfikowany",
+      "uzupelniony": true
     },
     {
       "nazwa": "Łaciaty Twaróg półtłusty",
@@ -534,85 +553,99 @@
       "nazwa": "Vemondo Tofu",
       "foto_przod": "IMG_9966.JPG",
       "foto_tyl": "IMG_9967.JPG",
-      "status": "zidentyfikowany"
+      "status": "zidentyfikowany",
+      "uzupelniony": true
     },
     {
       "nazwa": "Well Well Pasta Falafelowa",
       "foto_przod": "IMG_9968.JPG",
       "foto_tyl": "IMG_9969.JPG",
-      "status": "zidentyfikowany"
+      "status": "zidentyfikowany",
+      "uzupelniony": true
     },
     {
       "nazwa": "Vemondo Gyros Roślinny",
       "foto_przod": "IMG_9970.JPG",
       "foto_tyl": "IMG_9971.JPG",
-      "status": "zidentyfikowany"
+      "status": "zidentyfikowany",
+      "uzupelniony": true
     },
     {
       "nazwa": "Seamor Halibut wędzony na gorąco",
       "foto_przod": "IMG_9972.JPG",
       "foto_tyl": "IMG_9974.JPG",
-      "status": "zidentyfikowany"
+      "status": "zidentyfikowany",
+      "uzupelniony": true
     },
     {
       "nazwa": "Seamor Trewal wędzony na gorąco",
       "foto_przod": "IMG_9975.JPG",
       "foto_tyl": "IMG_9976.JPG",
-      "status": "zidentyfikowany"
+      "status": "zidentyfikowany",
+      "uzupelniony": true
     },
     {
       "nazwa": "Seamor Sieja Kanadyjska wędzona na gorąco",
       "foto_przod": "IMG_9977.JPG",
       "foto_tyl": "IMG_9978.JPG",
-      "status": "zidentyfikowany"
+      "status": "zidentyfikowany",
+      "uzupelniony": true
     },
     {
       "nazwa": "Chef Select Pierogi z Mięsem (Kuchnia Polska)",
       "foto_przod": "IMG_9979.JPG",
       "foto_tyl": "IMG_9980.JPG",
-      "status": "zidentyfikowany"
+      "status": "zidentyfikowany",
+      "uzupelniony": true
     },
     {
       "nazwa": "Chef Select Pierogi Ruskie (Kuchnia Polska)",
       "foto_przod": "IMG_9981.JPG",
       "foto_tyl": "IMG_9982.JPG",
-      "status": "zidentyfikowany"
+      "status": "zidentyfikowany",
+      "uzupelniony": true
     },
     {
       "nazwa": "Chef Select Tortelloni z Pomidorami i Mozzarellą",
       "foto_przod": "IMG_9983.JPG",
       "foto_tyl": "IMG_9984.JPG",
-      "status": "zidentyfikowany"
+      "status": "zidentyfikowany",
+      "uzupelniony": true
     },
     {
       "nazwa": "Pikok Pure Szynka Wieprzowa 95%",
       "foto_przod": "IMG_9986.JPG",
       "foto_tyl": "IMG_9987.JPG",
-      "status": "zidentyfikowany"
+      "status": "zidentyfikowany",
+      "uzupelniony": true
     },
     {
       "nazwa": "Italiamo Prosciutto di Parma DOP",
       "foto_przod": "IMG_9988.JPG",
       "foto_tyl": "IMG_9989.JPG",
-      "status": "zidentyfikowany"
+      "status": "zidentyfikowany",
+      "uzupelniony": true
     },
     {
       "nazwa": "Cambozola (ser niemiecki)",
       "foto_przod": "IMG_9990.JPG",
       "foto_tyl": "IMG_9991.JPG",
-      "status": "zidentyfikowany"
+      "status": "zidentyfikowany",
+      "uzupelniony": true
     },
     {
       "nazwa": "Le Gruyère (ser szwajcarski)",
       "foto_przod": "IMG_9992.JPG",
       "foto_tyl": "IMG_9993.JPG",
-      "status": "zidentyfikowany"
+      "status": "zidentyfikowany",
+      "uzupelniony": true
     },
     {
       "nazwa": "Piłos Serek Wiejski Lekki 3%",
       "foto_przod": "IMG_9994.JPG",
       "foto_tyl": "IMG_9995.JPG",
-      "status": "zidentyfikowany"
+      "status": "zidentyfikowany",
+      "uzupelniony": true
     },
     {
       "nazwa": "Piłos Serek Wiejski Naturalny",
@@ -624,7 +657,8 @@
       "nazwa": "Feta Grecki Ser Sałatkowy",
       "foto_przod": "IMG_9998.JPG",
       "foto_tyl": "IMG_9999.JPG",
-      "status": "zidentyfikowany"
+      "status": "zidentyfikowany",
+      "uzupelniony": true
     }
   ]
 }
