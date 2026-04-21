@@ -8,105 +8,614 @@
     ]
   },
   "produkty": [
-    { "nazwa": "Mazury Fish Szczupak w oliwie z oliwek", "foto_przod": "IMG_9734.JPG", "foto_tyl": "IMG_9735.JPG", "status": "zidentyfikowany" },
-    { "nazwa": "El Raño Małże w zalewie naturalnej (Almejones al natural)", "foto_przod": "IMG_9736.JPG", "foto_tyl": "IMG_9737.JPG", "status": "zidentyfikowany" },
-    { "nazwa": "Coargal Filety Anchois w oleju z oliwek", "foto_przod": "IMG_9738.JPG", "foto_tyl": "IMG_9739.JPG", "status": "zidentyfikowany" },
-    { "nazwa": "Mari de Sud Filety Anchois (słoik)", "foto_przod": "IMG_9740.JPG", "foto_tyl": "IMG_9741.JPG", "status": "zidentyfikowany" },
-    { "nazwa": "Nazarena Filety z Makreli w oliwie", "foto_przod": "IMG_9742.JPG", "foto_tyl": "IMG_9743.JPG", "status": "zidentyfikowany" },
-    { "nazwa": "Nazarena Tuńczyk w wodzie", "foto_przod": "IMG_9744.JPG", "foto_tyl": "IMG_9745.JPG", "status": "zidentyfikowany" },
-    { "nazwa": "Nazarena Sardynki w sosie pomidorowym", "foto_przod": "IMG_9747.JPG", "foto_tyl": "IMG_9748.JPG", "status": "zidentyfikowany" },
-    { "nazwa": "Tenorio Filety tuńczyka ao natural", "foto_przod": "IMG_9749.JPG", "foto_tyl": "IMG_9750.JPG", "status": "zidentyfikowany" },
-    { "nazwa": "Emperatriz Tuńczyk Biały w oliwie z oliwek", "foto_przod": "IMG_9751.JPG", "foto_tyl": "IMG_9752.JPG", "status": "zidentyfikowany" },
-    { "nazwa": "Mutti Sos Do Makaronu z Papryką Chili", "foto_przod": "IMG_9755.JPG", "foto_tyl": "IMG_9756.JPG", "status": "zidentyfikowany" },
-    { "nazwa": "Mutti Sos Do Makaronu z Bazylią", "foto_przod": "IMG_9757.JPG", "foto_tyl": "IMG_9758.JPG", "status": "zidentyfikowany" },
-    { "nazwa": "Mutti Sos Do Makaronu z Serem Parmigiano Reggiano", "foto_przod": "IMG_9759.JPG", "foto_tyl": "IMG_9760.JPG", "status": "zidentyfikowany" },
-    { "nazwa": "Mutti Sos Do Makaronu Bolognese", "foto_przod": "IMG_9761.JPG", "foto_tyl": "IMG_9762.JPG", "status": "zidentyfikowany" },
-    { "nazwa": "Maple Joe Syrop Klonowy Amber Rich", "foto_przod": "IMG_9763.JPG", "foto_tyl": "IMG_9764.JPG", "status": "zidentyfikowany" },
-    { "nazwa": "QF Mango Alphonso Pulp", "foto_przod": "IMG_9765.JPG", "foto_tyl": "?", "status": "do_weryfikacji" },
-    { "nazwa": "Dole Tropical Gold Pineapple Chunks", "foto_przod": "IMG_9767.JPG", "foto_tyl": "IMG_9768.JPG", "status": "zidentyfikowany" },
-    { "nazwa": "Dole Tropical Gold Pineapple Slices", "foto_przod": "IMG_9770.JPG", "foto_tyl": "IMG_9769.JPG", "status": "zidentyfikowany" },
-    { "nazwa": "Auchan Musli Owocowe Polskie Owoce", "foto_przod": "IMG_9771.JPG", "foto_tyl": "IMG_9772.JPG", "status": "zidentyfikowany" },
-    { "nazwa": "Vivi Musli tropikalne", "foto_przod": "IMG_9773.JPG", "foto_tyl": "IMG_9774.JPG", "status": "zidentyfikowany" },
-    { "nazwa": "One Day More Muesli Fruit", "foto_przod": "IMG_9775.JPG", "foto_tyl": "IMG_9776.JPG", "status": "zidentyfikowany" },
-    { "nazwa": "One Day More Oatmeal Apple & Cinnamon", "foto_przod": "IMG_9777.JPG", "foto_tyl": "IMG_9778.JPG", "status": "zidentyfikowany" },
-    { "nazwa": "Auchan Wafle Ryżowe Naturalne (białe opakowanie)", "foto_przod": "IMG_9779.JPG", "foto_tyl": "IMG_9780.JPG", "status": "zidentyfikowany" },
-    { "nazwa": "Auchan Wafle Ryżowe Naturalne (brązowe opakowanie)", "foto_przod": "IMG_9781.JPG", "foto_tyl": "IMG_9782.JPG", "status": "zidentyfikowany" },
-    { "nazwa": "Sante Extra Cienkie Wafle Ryżowe", "foto_przod": "IMG_9783.JPG", "foto_tyl": "IMG_9784.JPG", "status": "zidentyfikowany" },
-    { "nazwa": "Sonko Wafle Ryżowe Naturalne", "foto_przod": "IMG_9785.JPG", "foto_tyl": "IMG_9786.JPG", "status": "zidentyfikowany" },
-    { "nazwa": "EuroWafki Waflitki Kukurydziane", "foto_przod": "IMG_9787.JPG", "foto_tyl": "IMG_9788.JPG", "status": "zidentyfikowany" },
-    { "nazwa": "Biofix Rumianek Herbatka Ziołowa", "foto_przod": "IMG_9794.JPG", "foto_tyl": "?", "status": "do_weryfikacji" },
-    { "nazwa": "Głodny Wilk Owocowe Puzzle Truskawka", "foto_przod": "IMG_9795.JPG", "foto_tyl": "IMG_9796.JPG", "status": "zidentyfikowany" },
-    { "nazwa": "Irenki OatŁanki Ciastka z Żurawiną", "foto_przod": "IMG_9797.JPG", "foto_tyl": "IMG_9798.JPG", "status": "zidentyfikowany" },
-    { "nazwa": "Irenki OatŁanki Ciastka z Czekoladą", "foto_przod": "IMG_9799.JPG", "foto_tyl": "IMG_9800.JPG", "status": "zidentyfikowany" },
-    { "nazwa": "Sante Fit Ciasteczka Zbożowe z Jagodą", "foto_przod": "IMG_9801.JPG", "foto_tyl": "IMG_9802.JPG", "status": "zidentyfikowany" },
-    { "nazwa": "Sante Fit Ciasteczka Zbożowe z Morelą", "foto_przod": "IMG_9803.JPG", "foto_tyl": "IMG_9804.JPG", "status": "zidentyfikowany" },
-    { "nazwa": "Kopernik Pierniki Toruńskie Śliwka", "foto_przod": "IMG_9805.JPG", "foto_tyl": "IMG_9806.JPG", "status": "zidentyfikowany" },
-    { "nazwa": "Kopernik Serca Piernikowe z Czekoladą i Miodem", "foto_przod": "IMG_9807.JPG", "foto_tyl": "IMG_9808.JPG", "status": "zidentyfikowany" },
-    { "nazwa": "Kopernik Torcik Piernikowy o smaku limonki", "foto_przod": "IMG_9809.JPG", "foto_tyl": "IMG_9810.JPG", "status": "zidentyfikowany" },
-    { "nazwa": "Śledzie od Serca Filety Norweskie z pieprzem", "foto_przod": "IMG_9811.JPG", "foto_tyl": "IMG_9812.JPG", "status": "zidentyfikowany" },
-    { "nazwa": "Mirko Śledź z Żurawiną (chłodzony)", "foto_przod": "IMG_9813.JPG", "foto_tyl": "IMG_9814.JPG", "status": "zidentyfikowany" },
-    { "nazwa": "Auchan Filet z Pstrąga wędzony naturalny", "foto_przod": "IMG_9815.JPG", "foto_tyl": "IMG_9816.JPG", "status": "zidentyfikowany" },
-    { "nazwa": "Auchan Filet z Pstrąga z Pieprzem wędzony", "foto_przod": "IMG_9817.JPG", "foto_tyl": "IMG_9818.JPG", "status": "zidentyfikowany" },
-    { "nazwa": "Suempol Łosoś Atlantycki wędzony na zimno", "foto_przod": "IMG_9819.JPG", "foto_tyl": "IMG_9820.JPG", "status": "zidentyfikowany" },
-    { "nazwa": "Mowi Signature Łosoś wędzony na gorąco", "foto_przod": "IMG_9821.JPG", "foto_tyl": "IMG_9822.JPG", "status": "zidentyfikowany" },
-    { "nazwa": "Connoisseur Łosoś wędzony na gorąco", "foto_przod": "IMG_9823.JPG", "foto_tyl": "IMG_9824.JPG", "status": "zidentyfikowany" },
-    { "nazwa": "Eat Real Veggie Straws (pomidor, jarmuż, szpinak)", "foto_przod": "IMG_9825.JPG", "foto_tyl": "IMG_9826.JPG", "status": "zidentyfikowany" },
-    { "nazwa": "Eat Real Quinoa Chips Sour Cream & Chive", "foto_przod": "IMG_9827.JPG", "foto_tyl": "IMG_9828.JPG", "status": "zidentyfikowany" },
-    { "nazwa": "Biosaurus Chrupki Kukurydziane Ketchup", "foto_przod": "IMG_9829.JPG", "foto_tyl": "IMG_9830.JPG", "status": "zidentyfikowany" },
-    { "nazwa": "Biosaurus Chrupki Kukurydziane Sea Salt", "foto_przod": "IMG_9831.JPG", "foto_tyl": "IMG_9832.JPG", "status": "zidentyfikowany" },
-    { "nazwa": "Gullón Zero Sugar Free Short Bread", "foto_przod": "IMG_9833.JPG", "foto_tyl": "IMG_9834.JPG", "status": "zidentyfikowany" },
-    { "nazwa": "Dobra Kaloria Mini Batoniki Odporność Żurawina", "foto_przod": "IMG_9836.JPG", "foto_tyl": "IMG_9837.JPG", "status": "zidentyfikowany" },
-    { "nazwa": "Sens Cricket Protein Bar Dark Chocolate & Sour Cherry", "foto_przod": "IMG_9838.JPG", "foto_tyl": "IMG_9839.JPG", "status": "zidentyfikowany" },
-    { "nazwa": "Dobra Kaloria Chrupiący Orzech", "foto_przod": "IMG_9840.JPG", "foto_tyl": "IMG_9841.JPG", "status": "zidentyfikowany" },
-    { "nazwa": "Dobra Kaloria Nerkowce & Kokos", "foto_przod": "IMG_9842.JPG", "foto_tyl": "IMG_9843.JPG", "status": "zidentyfikowany" },
-    { "nazwa": "Dobra Kaloria Mini Batoniki Dla Serca Wiśnia", "foto_przod": "IMG_9844.JPG", "foto_tyl": "IMG_9845.JPG", "status": "zidentyfikowany" },
-    { "nazwa": "Sens Pea Cricket Protein Chips Poppy Seeds & Sea Salt", "foto_przod": "IMG_9846.JPG", "foto_tyl": "IMG_9847.JPG", "status": "zidentyfikowany" },
-    { "nazwa": "Zawiera Błonnik Junior Pałeczki Wielozbożowe", "foto_przod": "IMG_9848.JPG", "foto_tyl": "IMG_9849.JPG", "status": "zidentyfikowany" },
-    { "nazwa": "Baton Warszawski (Ananas i Kokos)", "foto_przod": "IMG_9850.JPG", "foto_tyl": "IMG_9851.JPG", "status": "do_weryfikacji" },
-    { "nazwa": "Box Vital Ciasteczka Marchewkowe", "foto_przod": "IMG_9852.JPG", "foto_tyl": "IMG_9853.JPG", "status": "zidentyfikowany" },
-    { "nazwa": "Cere Brownie Style Protein Organic Bar", "foto_przod": "IMG_9854.JPG", "foto_tyl": "IMG_9855.JPG", "status": "zidentyfikowany" },
-    { "nazwa": "Foods by Ann Energy Choco Bar Śliwka & Czarna Porzeczka", "foto_przod": "IMG_9856.JPG", "foto_tyl": "IMG_9857.JPG", "status": "zidentyfikowany" },
-    { "nazwa": "Dobra Kaloria Proteina Krem Orzechowy & Sól", "foto_przod": "IMG_9858.JPG", "foto_tyl": "IMG_9859.JPG", "status": "zidentyfikowany" },
-    { "nazwa": "Dobra Kaloria Proteina Mini Batoniki o smaku karmelu", "foto_przod": "IMG_9860.JPG", "foto_tyl": "IMG_9861.JPG", "status": "zidentyfikowany" },
-    { "nazwa": "Be Keto Keto Chips Swiss Cheese & French Onion", "foto_przod": "IMG_9862.JPG", "foto_tyl": "IMG_9863.JPG", "status": "zidentyfikowany" },
-    { "nazwa": "Owocal Bio Charsznickie Ogórki Kiszone", "foto_przod": "IMG_9864.JPG", "foto_tyl": "IMG_9865.JPG", "status": "zidentyfikowany" },
-    { "nazwa": "Piekarnia Lidla Chleb Złocisty Pszenno-Żytni", "foto_przod": "IMG_9913.JPG", "foto_tyl": "IMG_9914.JPG", "status": "zidentyfikowany" },
-    { "nazwa": "Tastino Chrupkie Pieczywo Żytnie z Sezamem", "foto_przod": "IMG_9915.JPG", "foto_tyl": "IMG_9916.JPG", "status": "zidentyfikowany" },
-    { "nazwa": "Tastino Chrupkie Pieczywo Żytnie", "foto_przod": "IMG_9918.JPG", "foto_tyl": "IMG_9919.JPG", "status": "zidentyfikowany" },
-    { "nazwa": "Piekarnia Lidla Chleb Żytni z Ziarnami Żyta", "foto_przod": "IMG_9920.JPG", "foto_tyl": "IMG_9921.JPG", "status": "zidentyfikowany" },
-    { "nazwa": "Piekarnia Lidla Burger z Nasionami Sezamu", "foto_przod": "IMG_9922.JPG", "foto_tyl": "IMG_9923.JPG", "status": "zidentyfikowany" },
-    { "nazwa": "Sondey Pop Corn Snack Wafle Kukurydziane smak Pizza", "foto_przod": "IMG_9925.JPG", "foto_tyl": "IMG_9926.JPG", "status": "zidentyfikowany" },
-    { "nazwa": "Piekarnia Lidla Hot Dog typu amerykańskiego", "foto_przod": "IMG_9927.JPG", "foto_tyl": "IMG_9928.JPG", "status": "zidentyfikowany" },
-    { "nazwa": "Piekarnia Lidla Pinsa Pełnoziarnista Flat Bread", "foto_przod": "IMG_9930.JPG", "foto_tyl": "IMG_9931.JPG", "status": "zidentyfikowany" },
-    { "nazwa": "Combino Sos Pomidorowy Arrabbiata", "foto_przod": "IMG_9932.JPG", "foto_tyl": "IMG_9933.JPG", "status": "zidentyfikowany" },
-    { "nazwa": "Combino Sos Pomidorowy Basilico", "foto_przod": "IMG_9935.JPG", "foto_tyl": "IMG_9936.JPG", "status": "zidentyfikowany" },
-    { "nazwa": "Alesto RAW Kokos & Kakao", "foto_przod": "IMG_9938.JPG", "foto_tyl": "IMG_9939.JPG", "status": "zidentyfikowany" },
-    { "nazwa": "Deluxe Burrata di Bufala", "foto_przod": "IMG_9941.JPG", "foto_tyl": "IMG_9942.JPG", "status": "zidentyfikowany" },
-    { "nazwa": "Milbona Free From Lactose Burrata", "foto_przod": "IMG_9944.JPG", "foto_tyl": "IMG_9945.JPG", "status": "zidentyfikowany" },
-    { "nazwa": "Milbona Free From Lactose Mascarpone", "foto_przod": "IMG_9947.JPG", "foto_tyl": "IMG_9948.JPG", "status": "zidentyfikowany" },
-    { "nazwa": "Lublanka Twaróg z Bychawy tłusty", "foto_przod": "IMG_9949.JPG", "foto_tyl": "IMG_9950.JPG", "status": "zidentyfikowany" },
-    { "nazwa": "Łaciaty Twaróg półtłusty", "foto_przod": "IMG_9951.JPG", "foto_tyl": "?", "status": "do_weryfikacji" },
-    { "nazwa": "Słońce WOW Smoothie Keen for Green (Banan, Szpinak, Młody Jęczmień)", "foto_przod": "IMG_9952.JPG", "foto_tyl": "IMG_9953.JPG", "status": "zidentyfikowany" },
-    { "nazwa": "Solevita Smoothie Strawberry & Friends (Truskawka, Banan)", "foto_przod": "IMG_9954.JPG", "foto_tyl": "IMG_9955.JPG", "status": "zidentyfikowany" },
-    { "nazwa": "Solevita Smoothie Pomarańcza Mango Mandarynka (tłoczony na zimno)", "foto_przod": "IMG_9956.JPG", "foto_tyl": "IMG_9957.JPG", "status": "zidentyfikowany" },
-    { "nazwa": "Cymes Tłocznia Sok Dnia Burak Jabłko", "foto_przod": "IMG_9959.JPG", "foto_tyl": "IMG_9960.JPG", "status": "zidentyfikowany" },
-    { "nazwa": "Cymes Tłocznia Sok świeża Marchewka Pomarańcza Jabłko", "foto_przod": "IMG_9961.JPG", "foto_tyl": "IMG_9962.JPG", "status": "zidentyfikowany" },
-    { "nazwa": "Solevita Sok 100% Pomarańcza Kiwi (tłoczony na zimno)", "foto_przod": "IMG_9963.JPG", "foto_tyl": "IMG_9964.JPG", "status": "zidentyfikowany" },
-    { "nazwa": "Vemondo Tofu", "foto_przod": "IMG_9966.JPG", "foto_tyl": "IMG_9967.JPG", "status": "zidentyfikowany" },
-    { "nazwa": "Well Well Pasta Falafelowa", "foto_przod": "IMG_9968.JPG", "foto_tyl": "IMG_9969.JPG", "status": "zidentyfikowany" },
-    { "nazwa": "Vemondo Gyros Roślinny", "foto_przod": "IMG_9970.JPG", "foto_tyl": "IMG_9971.JPG", "status": "zidentyfikowany" },
-    { "nazwa": "Seamor Halibut wędzony na gorąco", "foto_przod": "IMG_9972.JPG", "foto_tyl": "IMG_9974.JPG", "status": "zidentyfikowany" },
-    { "nazwa": "Seamor Trewal wędzony na gorąco", "foto_przod": "IMG_9975.JPG", "foto_tyl": "IMG_9976.JPG", "status": "zidentyfikowany" },
-    { "nazwa": "Seamor Sieja Kanadyjska wędzona na gorąco", "foto_przod": "IMG_9977.JPG", "foto_tyl": "IMG_9978.JPG", "status": "zidentyfikowany" },
-    { "nazwa": "Chef Select Pierogi z Mięsem (Kuchnia Polska)", "foto_przod": "IMG_9979.JPG", "foto_tyl": "IMG_9980.JPG", "status": "zidentyfikowany" },
-    { "nazwa": "Chef Select Pierogi Ruskie (Kuchnia Polska)", "foto_przod": "IMG_9981.JPG", "foto_tyl": "IMG_9982.JPG", "status": "zidentyfikowany" },
-    { "nazwa": "Chef Select Tortelloni z Pomidorami i Mozzarellą", "foto_przod": "IMG_9983.JPG", "foto_tyl": "IMG_9984.JPG", "status": "zidentyfikowany" },
-    { "nazwa": "Pikok Pure Szynka Wieprzowa 95%", "foto_przod": "IMG_9986.JPG", "foto_tyl": "IMG_9987.JPG", "status": "zidentyfikowany" },
-    { "nazwa": "Italiamo Prosciutto di Parma DOP", "foto_przod": "IMG_9988.JPG", "foto_tyl": "IMG_9989.JPG", "status": "zidentyfikowany" },
-    { "nazwa": "Cambozola (ser niemiecki)", "foto_przod": "IMG_9990.JPG", "foto_tyl": "IMG_9991.JPG", "status": "zidentyfikowany" },
-    { "nazwa": "Le Gruyère (ser szwajcarski)", "foto_przod": "IMG_9992.JPG", "foto_tyl": "IMG_9993.JPG", "status": "zidentyfikowany" },
-    { "nazwa": "Piłos Serek Wiejski Lekki 3%", "foto_przod": "IMG_9994.JPG", "foto_tyl": "IMG_9995.JPG", "status": "zidentyfikowany" },
-    { "nazwa": "Piłos Serek Wiejski Naturalny", "foto_przod": "IMG_9996.JPG", "foto_tyl": "IMG_9997.JPG", "status": "do_weryfikacji" },
-    { "nazwa": "Feta Grecki Ser Sałatkowy", "foto_przod": "IMG_9998.JPG", "foto_tyl": "IMG_9999.JPG", "status": "zidentyfikowany" }
+    {
+      "nazwa": "Mazury Fish Szczupak w oliwie z oliwek",
+      "foto_przod": "IMG_9734.JPG",
+      "foto_tyl": "IMG_9735.JPG",
+      "status": "zidentyfikowany"
+    },
+    {
+      "nazwa": "El Raño Małże w zalewie naturalnej (Almejones al natural)",
+      "foto_przod": "IMG_9736.JPG",
+      "foto_tyl": "IMG_9737.JPG",
+      "status": "zidentyfikowany"
+    },
+    {
+      "nazwa": "Coargal Filety Anchois w oleju z oliwek",
+      "foto_przod": "IMG_9738.JPG",
+      "foto_tyl": "IMG_9739.JPG",
+      "status": "zidentyfikowany"
+    },
+    {
+      "nazwa": "Mari de Sud Filety Anchois (słoik)",
+      "foto_przod": "IMG_9740.JPG",
+      "foto_tyl": "IMG_9741.JPG",
+      "status": "zidentyfikowany"
+    },
+    {
+      "nazwa": "Nazarena Filety z Makreli w oliwie",
+      "foto_przod": "IMG_9742.JPG",
+      "foto_tyl": "IMG_9743.JPG",
+      "status": "zidentyfikowany"
+    },
+    {
+      "nazwa": "Nazarena Tuńczyk w wodzie",
+      "foto_przod": "IMG_9744.JPG",
+      "foto_tyl": "IMG_9745.JPG",
+      "status": "zidentyfikowany"
+    },
+    {
+      "nazwa": "Nazarena Sardynki w sosie pomidorowym",
+      "foto_przod": "IMG_9747.JPG",
+      "foto_tyl": "IMG_9748.JPG",
+      "status": "zidentyfikowany"
+    },
+    {
+      "nazwa": "Tenorio Filety tuńczyka ao natural",
+      "foto_przod": "IMG_9749.JPG",
+      "foto_tyl": "IMG_9750.JPG",
+      "status": "zidentyfikowany"
+    },
+    {
+      "nazwa": "Emperatriz Tuńczyk Biały w oliwie z oliwek",
+      "foto_przod": "IMG_9751.JPG",
+      "foto_tyl": "IMG_9752.JPG",
+      "status": "zidentyfikowany"
+    },
+    {
+      "nazwa": "Mutti Sos Do Makaronu z Papryką Chili",
+      "foto_przod": "IMG_9755.JPG",
+      "foto_tyl": "IMG_9756.JPG",
+      "status": "zidentyfikowany",
+      "uzupelniony": true
+    },
+    {
+      "nazwa": "Mutti Sos Do Makaronu z Bazylią",
+      "foto_przod": "IMG_9757.JPG",
+      "foto_tyl": "IMG_9758.JPG",
+      "status": "zidentyfikowany",
+      "uzupelniony": true
+    },
+    {
+      "nazwa": "Mutti Sos Do Makaronu z Serem Parmigiano Reggiano",
+      "foto_przod": "IMG_9759.JPG",
+      "foto_tyl": "IMG_9760.JPG",
+      "status": "zidentyfikowany",
+      "uzupelniony": true
+    },
+    {
+      "nazwa": "Mutti Sos Do Makaronu Bolognese",
+      "foto_przod": "IMG_9761.JPG",
+      "foto_tyl": "IMG_9762.JPG",
+      "status": "zidentyfikowany",
+      "uzupelniony": true
+    },
+    {
+      "nazwa": "Maple Joe Syrop Klonowy Amber Rich",
+      "foto_przod": "IMG_9763.JPG",
+      "foto_tyl": "IMG_9764.JPG",
+      "status": "zidentyfikowany"
+    },
+    {
+      "nazwa": "QF Mango Alphonso Pulp",
+      "foto_przod": "IMG_9765.JPG",
+      "foto_tyl": "?",
+      "status": "do_weryfikacji"
+    },
+    {
+      "nazwa": "Dole Tropical Gold Pineapple Chunks",
+      "foto_przod": "IMG_9767.JPG",
+      "foto_tyl": "IMG_9768.JPG",
+      "status": "zidentyfikowany",
+      "uzupelniony": true
+    },
+    {
+      "nazwa": "Dole Tropical Gold Pineapple Slices",
+      "foto_przod": "IMG_9770.JPG",
+      "foto_tyl": "IMG_9769.JPG",
+      "status": "zidentyfikowany",
+      "uzupelniony": true
+    },
+    {
+      "nazwa": "Auchan Musli Owocowe Polskie Owoce",
+      "foto_przod": "IMG_9771.JPG",
+      "foto_tyl": "IMG_9772.JPG",
+      "status": "zidentyfikowany"
+    },
+    {
+      "nazwa": "Vivi Musli tropikalne",
+      "foto_przod": "IMG_9773.JPG",
+      "foto_tyl": "IMG_9774.JPG",
+      "status": "zidentyfikowany"
+    },
+    {
+      "nazwa": "One Day More Muesli Fruit",
+      "foto_przod": "IMG_9775.JPG",
+      "foto_tyl": "IMG_9776.JPG",
+      "status": "zidentyfikowany"
+    },
+    {
+      "nazwa": "One Day More Oatmeal Apple & Cinnamon",
+      "foto_przod": "IMG_9777.JPG",
+      "foto_tyl": "IMG_9778.JPG",
+      "status": "zidentyfikowany"
+    },
+    {
+      "nazwa": "Auchan Wafle Ryżowe Naturalne (białe opakowanie)",
+      "foto_przod": "IMG_9779.JPG",
+      "foto_tyl": "IMG_9780.JPG",
+      "status": "zidentyfikowany"
+    },
+    {
+      "nazwa": "Auchan Wafle Ryżowe Naturalne (brązowe opakowanie)",
+      "foto_przod": "IMG_9781.JPG",
+      "foto_tyl": "IMG_9782.JPG",
+      "status": "zidentyfikowany"
+    },
+    {
+      "nazwa": "Sante Extra Cienkie Wafle Ryżowe",
+      "foto_przod": "IMG_9783.JPG",
+      "foto_tyl": "IMG_9784.JPG",
+      "status": "zidentyfikowany"
+    },
+    {
+      "nazwa": "Sonko Wafle Ryżowe Naturalne",
+      "foto_przod": "IMG_9785.JPG",
+      "foto_tyl": "IMG_9786.JPG",
+      "status": "zidentyfikowany"
+    },
+    {
+      "nazwa": "EuroWafki Waflitki Kukurydziane",
+      "foto_przod": "IMG_9787.JPG",
+      "foto_tyl": "IMG_9788.JPG",
+      "status": "zidentyfikowany"
+    },
+    {
+      "nazwa": "Biofix Rumianek Herbatka Ziołowa",
+      "foto_przod": "IMG_9794.JPG",
+      "foto_tyl": "?",
+      "status": "do_weryfikacji"
+    },
+    {
+      "nazwa": "Głodny Wilk Owocowe Puzzle Truskawka",
+      "foto_przod": "IMG_9795.JPG",
+      "foto_tyl": "IMG_9796.JPG",
+      "status": "zidentyfikowany"
+    },
+    {
+      "nazwa": "Irenki OatŁanki Ciastka z Żurawiną",
+      "foto_przod": "IMG_9797.JPG",
+      "foto_tyl": "IMG_9798.JPG",
+      "status": "zidentyfikowany"
+    },
+    {
+      "nazwa": "Irenki OatŁanki Ciastka z Czekoladą",
+      "foto_przod": "IMG_9799.JPG",
+      "foto_tyl": "IMG_9800.JPG",
+      "status": "zidentyfikowany"
+    },
+    {
+      "nazwa": "Sante Fit Ciasteczka Zbożowe z Jagodą",
+      "foto_przod": "IMG_9801.JPG",
+      "foto_tyl": "IMG_9802.JPG",
+      "status": "zidentyfikowany"
+    },
+    {
+      "nazwa": "Sante Fit Ciasteczka Zbożowe z Morelą",
+      "foto_przod": "IMG_9803.JPG",
+      "foto_tyl": "IMG_9804.JPG",
+      "status": "zidentyfikowany"
+    },
+    {
+      "nazwa": "Kopernik Pierniki Toruńskie Śliwka",
+      "foto_przod": "IMG_9805.JPG",
+      "foto_tyl": "IMG_9806.JPG",
+      "status": "zidentyfikowany"
+    },
+    {
+      "nazwa": "Kopernik Serca Piernikowe z Czekoladą i Miodem",
+      "foto_przod": "IMG_9807.JPG",
+      "foto_tyl": "IMG_9808.JPG",
+      "status": "zidentyfikowany"
+    },
+    {
+      "nazwa": "Kopernik Torcik Piernikowy o smaku limonki",
+      "foto_przod": "IMG_9809.JPG",
+      "foto_tyl": "IMG_9810.JPG",
+      "status": "zidentyfikowany"
+    },
+    {
+      "nazwa": "Śledzie od Serca Filety Norweskie z pieprzem",
+      "foto_przod": "IMG_9811.JPG",
+      "foto_tyl": "IMG_9812.JPG",
+      "status": "zidentyfikowany"
+    },
+    {
+      "nazwa": "Mirko Śledź z Żurawiną (chłodzony)",
+      "foto_przod": "IMG_9813.JPG",
+      "foto_tyl": "IMG_9814.JPG",
+      "status": "zidentyfikowany"
+    },
+    {
+      "nazwa": "Auchan Filet z Pstrąga wędzony naturalny",
+      "foto_przod": "IMG_9815.JPG",
+      "foto_tyl": "IMG_9816.JPG",
+      "status": "zidentyfikowany"
+    },
+    {
+      "nazwa": "Auchan Filet z Pstrąga z Pieprzem wędzony",
+      "foto_przod": "IMG_9817.JPG",
+      "foto_tyl": "IMG_9818.JPG",
+      "status": "zidentyfikowany"
+    },
+    {
+      "nazwa": "Suempol Łosoś Atlantycki wędzony na zimno",
+      "foto_przod": "IMG_9819.JPG",
+      "foto_tyl": "IMG_9820.JPG",
+      "status": "zidentyfikowany"
+    },
+    {
+      "nazwa": "Mowi Signature Łosoś wędzony na gorąco",
+      "foto_przod": "IMG_9821.JPG",
+      "foto_tyl": "IMG_9822.JPG",
+      "status": "zidentyfikowany"
+    },
+    {
+      "nazwa": "Connoisseur Łosoś wędzony na gorąco",
+      "foto_przod": "IMG_9823.JPG",
+      "foto_tyl": "IMG_9824.JPG",
+      "status": "zidentyfikowany"
+    },
+    {
+      "nazwa": "Eat Real Veggie Straws (pomidor, jarmuż, szpinak)",
+      "foto_przod": "IMG_9825.JPG",
+      "foto_tyl": "IMG_9826.JPG",
+      "status": "zidentyfikowany"
+    },
+    {
+      "nazwa": "Eat Real Quinoa Chips Sour Cream & Chive",
+      "foto_przod": "IMG_9827.JPG",
+      "foto_tyl": "IMG_9828.JPG",
+      "status": "zidentyfikowany"
+    },
+    {
+      "nazwa": "Biosaurus Chrupki Kukurydziane Ketchup",
+      "foto_przod": "IMG_9829.JPG",
+      "foto_tyl": "IMG_9830.JPG",
+      "status": "zidentyfikowany"
+    },
+    {
+      "nazwa": "Biosaurus Chrupki Kukurydziane Sea Salt",
+      "foto_przod": "IMG_9831.JPG",
+      "foto_tyl": "IMG_9832.JPG",
+      "status": "zidentyfikowany"
+    },
+    {
+      "nazwa": "Gullón Zero Sugar Free Short Bread",
+      "foto_przod": "IMG_9833.JPG",
+      "foto_tyl": "IMG_9834.JPG",
+      "status": "zidentyfikowany"
+    },
+    {
+      "nazwa": "Dobra Kaloria Mini Batoniki Odporność Żurawina",
+      "foto_przod": "IMG_9836.JPG",
+      "foto_tyl": "IMG_9837.JPG",
+      "status": "zidentyfikowany"
+    },
+    {
+      "nazwa": "Sens Cricket Protein Bar Dark Chocolate & Sour Cherry",
+      "foto_przod": "IMG_9838.JPG",
+      "foto_tyl": "IMG_9839.JPG",
+      "status": "zidentyfikowany"
+    },
+    {
+      "nazwa": "Dobra Kaloria Chrupiący Orzech",
+      "foto_przod": "IMG_9840.JPG",
+      "foto_tyl": "IMG_9841.JPG",
+      "status": "zidentyfikowany"
+    },
+    {
+      "nazwa": "Dobra Kaloria Nerkowce & Kokos",
+      "foto_przod": "IMG_9842.JPG",
+      "foto_tyl": "IMG_9843.JPG",
+      "status": "zidentyfikowany"
+    },
+    {
+      "nazwa": "Dobra Kaloria Mini Batoniki Dla Serca Wiśnia",
+      "foto_przod": "IMG_9844.JPG",
+      "foto_tyl": "IMG_9845.JPG",
+      "status": "zidentyfikowany"
+    },
+    {
+      "nazwa": "Sens Pea Cricket Protein Chips Poppy Seeds & Sea Salt",
+      "foto_przod": "IMG_9846.JPG",
+      "foto_tyl": "IMG_9847.JPG",
+      "status": "zidentyfikowany"
+    },
+    {
+      "nazwa": "Zawiera Błonnik Junior Pałeczki Wielozbożowe",
+      "foto_przod": "IMG_9848.JPG",
+      "foto_tyl": "IMG_9849.JPG",
+      "status": "zidentyfikowany"
+    },
+    {
+      "nazwa": "Baton Warszawski (Ananas i Kokos)",
+      "foto_przod": "IMG_9850.JPG",
+      "foto_tyl": "IMG_9851.JPG",
+      "status": "do_weryfikacji"
+    },
+    {
+      "nazwa": "Box Vital Ciasteczka Marchewkowe",
+      "foto_przod": "IMG_9852.JPG",
+      "foto_tyl": "IMG_9853.JPG",
+      "status": "zidentyfikowany"
+    },
+    {
+      "nazwa": "Cere Brownie Style Protein Organic Bar",
+      "foto_przod": "IMG_9854.JPG",
+      "foto_tyl": "IMG_9855.JPG",
+      "status": "zidentyfikowany"
+    },
+    {
+      "nazwa": "Foods by Ann Energy Choco Bar Śliwka & Czarna Porzeczka",
+      "foto_przod": "IMG_9856.JPG",
+      "foto_tyl": "IMG_9857.JPG",
+      "status": "zidentyfikowany"
+    },
+    {
+      "nazwa": "Dobra Kaloria Proteina Krem Orzechowy & Sól",
+      "foto_przod": "IMG_9858.JPG",
+      "foto_tyl": "IMG_9859.JPG",
+      "status": "zidentyfikowany"
+    },
+    {
+      "nazwa": "Dobra Kaloria Proteina Mini Batoniki o smaku karmelu",
+      "foto_przod": "IMG_9860.JPG",
+      "foto_tyl": "IMG_9861.JPG",
+      "status": "zidentyfikowany"
+    },
+    {
+      "nazwa": "Be Keto Keto Chips Swiss Cheese & French Onion",
+      "foto_przod": "IMG_9862.JPG",
+      "foto_tyl": "IMG_9863.JPG",
+      "status": "zidentyfikowany"
+    },
+    {
+      "nazwa": "Owocal Bio Charsznickie Ogórki Kiszone",
+      "foto_przod": "IMG_9864.JPG",
+      "foto_tyl": "IMG_9865.JPG",
+      "status": "zidentyfikowany",
+      "uzupelniony": true
+    },
+    {
+      "nazwa": "Piekarnia Lidla Chleb Złocisty Pszenno-Żytni",
+      "foto_przod": "IMG_9913.JPG",
+      "foto_tyl": "IMG_9914.JPG",
+      "status": "zidentyfikowany"
+    },
+    {
+      "nazwa": "Tastino Chrupkie Pieczywo Żytnie z Sezamem",
+      "foto_przod": "IMG_9915.JPG",
+      "foto_tyl": "IMG_9916.JPG",
+      "status": "zidentyfikowany"
+    },
+    {
+      "nazwa": "Tastino Chrupkie Pieczywo Żytnie",
+      "foto_przod": "IMG_9918.JPG",
+      "foto_tyl": "IMG_9919.JPG",
+      "status": "zidentyfikowany"
+    },
+    {
+      "nazwa": "Piekarnia Lidla Chleb Żytni z Ziarnami Żyta",
+      "foto_przod": "IMG_9920.JPG",
+      "foto_tyl": "IMG_9921.JPG",
+      "status": "zidentyfikowany"
+    },
+    {
+      "nazwa": "Piekarnia Lidla Burger z Nasionami Sezamu",
+      "foto_przod": "IMG_9922.JPG",
+      "foto_tyl": "IMG_9923.JPG",
+      "status": "zidentyfikowany"
+    },
+    {
+      "nazwa": "Sondey Pop Corn Snack Wafle Kukurydziane smak Pizza",
+      "foto_przod": "IMG_9925.JPG",
+      "foto_tyl": "IMG_9926.JPG",
+      "status": "zidentyfikowany"
+    },
+    {
+      "nazwa": "Piekarnia Lidla Hot Dog typu amerykańskiego",
+      "foto_przod": "IMG_9927.JPG",
+      "foto_tyl": "IMG_9928.JPG",
+      "status": "zidentyfikowany"
+    },
+    {
+      "nazwa": "Piekarnia Lidla Pinsa Pełnoziarnista Flat Bread",
+      "foto_przod": "IMG_9930.JPG",
+      "foto_tyl": "IMG_9931.JPG",
+      "status": "zidentyfikowany"
+    },
+    {
+      "nazwa": "Combino Sos Pomidorowy Arrabbiata",
+      "foto_przod": "IMG_9932.JPG",
+      "foto_tyl": "IMG_9933.JPG",
+      "status": "zidentyfikowany",
+      "uzupelniony": true
+    },
+    {
+      "nazwa": "Combino Sos Pomidorowy Basilico",
+      "foto_przod": "IMG_9935.JPG",
+      "foto_tyl": "IMG_9936.JPG",
+      "status": "zidentyfikowany",
+      "uzupelniony": true
+    },
+    {
+      "nazwa": "Alesto RAW Kokos & Kakao",
+      "foto_przod": "IMG_9938.JPG",
+      "foto_tyl": "IMG_9939.JPG",
+      "status": "zidentyfikowany"
+    },
+    {
+      "nazwa": "Deluxe Burrata di Bufala",
+      "foto_przod": "IMG_9941.JPG",
+      "foto_tyl": "IMG_9942.JPG",
+      "status": "zidentyfikowany"
+    },
+    {
+      "nazwa": "Milbona Free From Lactose Burrata",
+      "foto_przod": "IMG_9944.JPG",
+      "foto_tyl": "IMG_9945.JPG",
+      "status": "zidentyfikowany"
+    },
+    {
+      "nazwa": "Milbona Free From Lactose Mascarpone",
+      "foto_przod": "IMG_9947.JPG",
+      "foto_tyl": "IMG_9948.JPG",
+      "status": "zidentyfikowany"
+    },
+    {
+      "nazwa": "Lublanka Twaróg z Bychawy tłusty",
+      "foto_przod": "IMG_9949.JPG",
+      "foto_tyl": "IMG_9950.JPG",
+      "status": "zidentyfikowany"
+    },
+    {
+      "nazwa": "Łaciaty Twaróg półtłusty",
+      "foto_przod": "IMG_9951.JPG",
+      "foto_tyl": "?",
+      "status": "do_weryfikacji"
+    },
+    {
+      "nazwa": "Słońce WOW Smoothie Keen for Green (Banan, Szpinak, Młody Jęczmień)",
+      "foto_przod": "IMG_9952.JPG",
+      "foto_tyl": "IMG_9953.JPG",
+      "status": "zidentyfikowany"
+    },
+    {
+      "nazwa": "Solevita Smoothie Strawberry & Friends (Truskawka, Banan)",
+      "foto_przod": "IMG_9954.JPG",
+      "foto_tyl": "IMG_9955.JPG",
+      "status": "zidentyfikowany"
+    },
+    {
+      "nazwa": "Solevita Smoothie Pomarańcza Mango Mandarynka (tłoczony na zimno)",
+      "foto_przod": "IMG_9956.JPG",
+      "foto_tyl": "IMG_9957.JPG",
+      "status": "zidentyfikowany"
+    },
+    {
+      "nazwa": "Cymes Tłocznia Sok Dnia Burak Jabłko",
+      "foto_przod": "IMG_9959.JPG",
+      "foto_tyl": "IMG_9960.JPG",
+      "status": "zidentyfikowany"
+    },
+    {
+      "nazwa": "Cymes Tłocznia Sok świeża Marchewka Pomarańcza Jabłko",
+      "foto_przod": "IMG_9961.JPG",
+      "foto_tyl": "IMG_9962.JPG",
+      "status": "zidentyfikowany"
+    },
+    {
+      "nazwa": "Solevita Sok 100% Pomarańcza Kiwi (tłoczony na zimno)",
+      "foto_przod": "IMG_9963.JPG",
+      "foto_tyl": "IMG_9964.JPG",
+      "status": "zidentyfikowany"
+    },
+    {
+      "nazwa": "Vemondo Tofu",
+      "foto_przod": "IMG_9966.JPG",
+      "foto_tyl": "IMG_9967.JPG",
+      "status": "zidentyfikowany"
+    },
+    {
+      "nazwa": "Well Well Pasta Falafelowa",
+      "foto_przod": "IMG_9968.JPG",
+      "foto_tyl": "IMG_9969.JPG",
+      "status": "zidentyfikowany"
+    },
+    {
+      "nazwa": "Vemondo Gyros Roślinny",
+      "foto_przod": "IMG_9970.JPG",
+      "foto_tyl": "IMG_9971.JPG",
+      "status": "zidentyfikowany"
+    },
+    {
+      "nazwa": "Seamor Halibut wędzony na gorąco",
+      "foto_przod": "IMG_9972.JPG",
+      "foto_tyl": "IMG_9974.JPG",
+      "status": "zidentyfikowany"
+    },
+    {
+      "nazwa": "Seamor Trewal wędzony na gorąco",
+      "foto_przod": "IMG_9975.JPG",
+      "foto_tyl": "IMG_9976.JPG",
+      "status": "zidentyfikowany"
+    },
+    {
+      "nazwa": "Seamor Sieja Kanadyjska wędzona na gorąco",
+      "foto_przod": "IMG_9977.JPG",
+      "foto_tyl": "IMG_9978.JPG",
+      "status": "zidentyfikowany"
+    },
+    {
+      "nazwa": "Chef Select Pierogi z Mięsem (Kuchnia Polska)",
+      "foto_przod": "IMG_9979.JPG",
+      "foto_tyl": "IMG_9980.JPG",
+      "status": "zidentyfikowany"
+    },
+    {
+      "nazwa": "Chef Select Pierogi Ruskie (Kuchnia Polska)",
+      "foto_przod": "IMG_9981.JPG",
+      "foto_tyl": "IMG_9982.JPG",
+      "status": "zidentyfikowany"
+    },
+    {
+      "nazwa": "Chef Select Tortelloni z Pomidorami i Mozzarellą",
+      "foto_przod": "IMG_9983.JPG",
+      "foto_tyl": "IMG_9984.JPG",
+      "status": "zidentyfikowany"
+    },
+    {
+      "nazwa": "Pikok Pure Szynka Wieprzowa 95%",
+      "foto_przod": "IMG_9986.JPG",
+      "foto_tyl": "IMG_9987.JPG",
+      "status": "zidentyfikowany"
+    },
+    {
+      "nazwa": "Italiamo Prosciutto di Parma DOP",
+      "foto_przod": "IMG_9988.JPG",
+      "foto_tyl": "IMG_9989.JPG",
+      "status": "zidentyfikowany"
+    },
+    {
+      "nazwa": "Cambozola (ser niemiecki)",
+      "foto_przod": "IMG_9990.JPG",
+      "foto_tyl": "IMG_9991.JPG",
+      "status": "zidentyfikowany"
+    },
+    {
+      "nazwa": "Le Gruyère (ser szwajcarski)",
+      "foto_przod": "IMG_9992.JPG",
+      "foto_tyl": "IMG_9993.JPG",
+      "status": "zidentyfikowany"
+    },
+    {
+      "nazwa": "Piłos Serek Wiejski Lekki 3%",
+      "foto_przod": "IMG_9994.JPG",
+      "foto_tyl": "IMG_9995.JPG",
+      "status": "zidentyfikowany"
+    },
+    {
+      "nazwa": "Piłos Serek Wiejski Naturalny",
+      "foto_przod": "IMG_9996.JPG",
+      "foto_tyl": "IMG_9997.JPG",
+      "status": "do_weryfikacji"
+    },
+    {
+      "nazwa": "Feta Grecki Ser Sałatkowy",
+      "foto_przod": "IMG_9998.JPG",
+      "foto_tyl": "IMG_9999.JPG",
+      "status": "zidentyfikowany"
+    }
   ]
 }

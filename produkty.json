@@ -2251,46 +2251,46 @@
         {
           "nazwa": "Owocal Bio Charsznickie Ogórki Kiszone",
           "zdjecie_przod": "Owocal Bio Charsznickie Ogórki Kiszone.png",
-          "sklad": "b.d.",
+          "sklad": "ogórki, woda, sól, koper, czosnek, ziele angielskie, liść laurowy",
           "wartosci_odzywcze": {
-            "E_kcal": "b.d.",
-            "B": "b.d.",
+            "E_kcal": "11",
+            "B": "1,69",
             "T": "b.d.",
             "N": "b.d.",
-            "W": "b.d.",
+            "W": "1,4",
             "C": "b.d.",
             "Bl": "b.d.",
-            "S": "b.d."
+            "S": "0,5"
           }
         },
         {
           "nazwa": "Dole Tropical Gold Pineapple Chunks",
           "zdjecie_przod": "Dole Tropical Gold Pineapple Chunks.png",
-          "sklad": "b.d.",
+          "sklad": "ananas, sok ananasowy",
           "wartosci_odzywcze": {
-            "E_kcal": "b.d.",
-            "B": "b.d.",
-            "T": "b.d.",
-            "N": "b.d.",
-            "W": "b.d.",
-            "C": "b.d.",
+            "E_kcal": "58",
+            "B": "0",
+            "T": "0",
+            "N": "0",
+            "W": "13",
+            "C": "12",
             "Bl": "b.d.",
-            "S": "b.d."
+            "S": "0"
           }
         },
         {
           "nazwa": "Dole Tropical Gold Pineapple Slices",
           "zdjecie_przod": "Dole Tropical Gold Pineapple Slices.png",
-          "sklad": "b.d.",
+          "sklad": "ananas, sok ananasowy",
           "wartosci_odzywcze": {
-            "E_kcal": "b.d.",
-            "B": "b.d.",
-            "T": "b.d.",
-            "N": "b.d.",
-            "W": "b.d.",
-            "C": "b.d.",
+            "E_kcal": "58",
+            "B": "0",
+            "T": "0",
+            "N": "0",
+            "W": "13",
+            "C": "12",
             "Bl": "b.d.",
-            "S": "b.d."
+            "S": "0"
           }
         }
       ]
@@ -2571,67 +2571,67 @@
         {
           "nazwa": "Mutti Sos Do Makaronu z Papryką Chili",
           "zdjecie_przod": "Mutti Sos z Papryką Chili.png",
-          "sklad": "b.d.",
+          "sklad": "pulpa pomidorowa 60%, passata (przecier) z pomidorów Pizzutello 20%, koncentrat pomidorowy 7,5%, papryka czerwona, oliwa z oliwek, cebula, pietruszka, papryka chili 0,5%, bazylia, sól, naturalne aromaty, czosnek, skórka papryki",
           "wartosci_odzywcze": {
-            "E_kcal": "b.d.",
-            "B": "b.d.",
-            "T": "b.d.",
-            "N": "b.d.",
-            "W": "b.d.",
-            "C": "b.d.",
+            "E_kcal": "52",
+            "B": "1,6",
+            "T": "2,7",
+            "N": "0,4",
+            "W": "4,6",
+            "C": "4,2",
             "Bl": "b.d.",
-            "S": "b.d."
+            "S": "0,94"
           }
         },
         {
           "nazwa": "Mutti Sos Do Makaronu z Bazylią",
           "zdjecie_przod": "Mutti Sos z Bazylią.png",
-          "sklad": "b.d.",
+          "sklad": "pulpa pomidorowa 60%, passata (przecier) z pomidorów Rossoro 23%, koncentrat pomidorowy 10,2%, oliwa z oliwek, cebula, bazylia 1,5%, marchew, naturalne aromaty, sól",
           "wartosci_odzywcze": {
-            "E_kcal": "b.d.",
-            "B": "b.d.",
-            "T": "b.d.",
-            "N": "b.d.",
-            "W": "b.d.",
-            "C": "b.d.",
+            "E_kcal": "56",
+            "B": "1,6",
+            "T": "2,8",
+            "N": "0,5",
+            "W": "5,3",
+            "C": "4,5",
             "Bl": "b.d.",
-            "S": "b.d."
+            "S": "0,81"
           }
         },
         {
           "nazwa": "Mutti Sos Do Makaronu z Serem Parmigiano Reggiano",
           "zdjecie_przod": "Mutti Sos z Parmigiano Reggiano.png",
-          "sklad": "b.d.",
+          "sklad": "pulpa pomidorowa 60,6%, passata (przecier) z pomidorów Rossoro 20%, koncentrat pomidorowy 7,1%, ser Parmigiano Reggiano ChNP (mleko, sól, podpuszczka) 4%, oliwa z oliwek, cebula szalotka, sól, naturalne aromaty, pieprz czarny",
           "wartosci_odzywcze": {
-            "E_kcal": "b.d.",
-            "B": "b.d.",
-            "T": "b.d.",
-            "N": "b.d.",
-            "W": "b.d.",
+            "E_kcal": "67",
+            "B": "3,1",
+            "T": "3,5",
+            "N": "1,0",
+            "W": "5,0",
             "C": "b.d.",
             "Bl": "b.d.",
-            "S": "b.d."
+            "S": "0,88"
           }
         },
         {
           "nazwa": "Mutti Sos Do Makaronu Bolognese",
           "zdjecie_przod": "Mutti Sos Bolognese.png",
-          "sklad": "b.d.",
+          "sklad": "pulpa pomidorowa 40%, przecier z pomidorów daktylowych 20%, woda 10%, koncentrat pomidorowy 7%, cebula 7%, marchew 5%, oliwa z oliwek, grillowany bakłażan 2,5%, grillowana cukinia 2,5%, czosnek 1,8%, sól, bazylia 0,5%, czarny pieprz, oregano",
           "wartosci_odzywcze": {
-            "E_kcal": "b.d.",
-            "B": "b.d.",
-            "T": "b.d.",
+            "E_kcal": "57",
+            "B": "1,5",
+            "T": "3,0",
             "N": "b.d.",
-            "W": "b.d.",
-            "C": "b.d.",
+            "W": "5,6",
+            "C": "4,5",
             "Bl": "b.d.",
-            "S": "b.d."
+            "S": "0,79"
           }
         },
         {
           "nazwa": "Combino Sos Pomidorowy Arrabbiata",
           "zdjecie_przod": "Combino Sos Pomidorowy Arrabbiata.png",
-          "sklad": "b.d.",
+          "sklad": "krojone pomidory 80%, koncentrat pomidorów, oliwa z oliwek, cebula, rafinowany olej z oliwek, sól, ziele piegowego, papryka czerwona, czosnek, 0,5% naturalny aromat, papryka pietruszkowa, cukier, 0,15% papryczka chili",
           "wartosci_odzywcze": {
             "E_kcal": "b.d.",
             "B": "b.d.",
@@ -2646,7 +2646,7 @@
         {
           "nazwa": "Combino Sos Pomidorowy Basilico",
           "zdjecie_przod": "Combino Sos Pomidorowy Basilico.png",
-          "sklad": "b.d.",
+          "sklad": "krojone pomidory 79%, woda, oliwa z oliwek 2%, koncentrat pomidorowy, cukier, sól, skrobia modyfikowana kukurydziana, bazylia, naturalny aromat",
           "wartosci_odzywcze": {
             "E_kcal": "b.d.",
             "B": "b.d.",
